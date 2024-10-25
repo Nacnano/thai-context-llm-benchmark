@@ -4,7 +4,7 @@
 
 Setup
 
-1. Download Scene Graph data from the [GQA Website](https://cs.stanford.edu/people/dorarad/gqa/download.html) and move it into sceneGraphs folder
+1. Download Scene Graph data from the [GQA Website](https://cs.stanford.edu/people/dorarad/gqa/download.html) and move it into `data/sceneGraphs` folder
 
 ### References
 
