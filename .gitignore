@@ -162,6 +162,10 @@ cython_debug/
 #.idea/
 
 data/sceneGraphs/*.json
+!data/sceneGraphs/extracted_sceneGraphs.json
+!data/sceneGraphs/thai_sceneGraphs.json
+
+
 data/images/*.{png, jpeg, jpg, txt}
 
 generated/*.csv

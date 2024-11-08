@@ -1,0 +1,1666 @@
+{
+    "2338159": {
+        "height": 500,
+        "location": "outdoors",
+        "objects": {
+            "2078282": {
+                "attributes": [
+                    "red"
+                ],
+                "h": 10,
+                "name": "leaves",
+                "relations": [
+                    {
+                        "name": "on",
+                        "object": "2078283"
+                    },
+                    {
+                        "name": "to the right of",
+                        "object": "2935502"
+                    },
+                    {
+                        "name": "to the left of",
+                        "object": "2308367"
+                    }
+                ],
+                "w": 8,
+                "x": 84,
+                "y": 370
+            },
+            "2078283": {
+                "attributes": [],
+                "h": 184,
+                "name": "sidewalk",
+                "relations": [
+                    {
+                        "name": "to the left of",
+                        "object": "2881921"
+                    }
+                ],
+                "w": 252,
+                "x": 33,
+                "y": 316
+            },
+            "2082777": {
+                "attributes": [
+                    "black",
+                    "iron"
+                ],
+                "h": 170,
+                "name": "post",
+                "relations": [
+                    {
+                        "name": "to the left of",
+                        "object": "2881921"
+                    },
+                    {
+                        "name": "to the right of",
+                        "object": "2956232"
+                    },
+                    {
+                        "name": "to the left of",
+                        "object": "3298336"
+                    }
+                ],
+                "w": 12,
+                "x": 221,
+                "y": 283
+            },
+            "2092347": {
+                "attributes": [
+                    "blue"
+                ],
+                "h": 106,
+                "name": "sign",
+                "relations": [
+                    {
+                        "name": "to the left of",
+                        "object": "2322838"
+                    }
+                ],
+                "w": 77,
+                "x": 99,
+                "y": 203
+            },
+            "2308367": {
+                "attributes": [
+                    "gray"
+                ],
+                "h": 190,
+                "name": "road",
+                "relations": [
+                    {
+                        "name": "to the right of",
+                        "object": "2994099"
+                    },
+                    {
+                        "name": "to the right of",
+                        "object": "2956232"
+                    },
+                    {
+                        "name": "to the right of",
+                        "object": "2994096"
+                    },
+                    {
+                        "name": "to the right of",
+                        "object": "2994097"
+                    },
+                    {
+                        "name": "to the right of",
+                        "object": "2078282"
+                    },
+                    {
+                        "name": "to the right of",
+                        "object": "2994098"
+                    },
+                    {
+                        "name": "to the right of",
+                        "object": "3122101"
+                    }
+                ],
+                "w": 214,
+                "x": 160,
+                "y": 308
+            },
+            "2322838": {
+                "attributes": [
+                    "black"
+                ],
+                "h": 126,
+                "name": "traffic light",
+                "relations": [
+                    {
+                        "name": "to the right of",
+                        "object": "2092347"
+                    },
+                    {
+                        "name": "to the right of",
+                        "object": "3702972"
+                    },
+                    {
+                        "name": "to the right of",
+                        "object": "3486360"
+                    },
+                    {
+                        "name": "to the left of",
+                        "object": "2503426"
+                    }
+                ],
+                "w": 62,
+                "x": 194,
+                "y": 156
+            },
+            "2371196": {
+                "attributes": [
+                    "gray"
+                ],
+                "h": 203,
+                "name": "clouds",
+                "relations": [
+                    {
+                        "name": "in",
+                        "object": "2371197"
+                    }
+                ],
+                "w": 218,
+                "x": 155,
+                "y": 1
+            },
+            "2371197": {
+                "attributes": [],
+                "h": 196,
+                "name": "sky",
+                "relations": [],
+                "w": 258,
+                "x": 116,
+                "y": 4
+            },
+            "2503426": {
+                "attributes": [],
+                "h": 35,
+                "name": "trees",
+                "relations": [
+                    {
+                        "name": "to the right of",
+                        "object": "2322838"
+                    }
+                ],
+                "w": 56,
+                "x": 297,
+                "y": 206
+            },
+            "2881921": {
+                "attributes": [
+                    "black"
+                ],
+                "h": 45,
+                "name": "truck",
+                "relations": [
+                    {
+                        "name": "to the right of",
+                        "object": "3298336"
+                    },
+                    {
+                        "name": "to the right of",
+                        "object": "2082777"
+                    },
+                    {
+                        "name": "to the right of",
+                        "object": "2078283"
+                    }
+                ],
+                "w": 38,
+                "x": 298,
+                "y": 309
+            },
+            "2935502": {
+                "attributes": [],
+                "h": 12,
+                "name": "leaves",
+                "relations": [
+                    {
+                        "name": "to the left of",
+                        "object": "2078282"
+                    }
+                ],
+                "w": 7,
+                "x": 45,
+                "y": 372
+            },
+            "2956232": {
+                "attributes": [
+                    "green"
+                ],
+                "h": 84,
+                "name": "fence",
+                "relations": [
+                    {
+                        "name": "to the right of",
+                        "object": "3930584"
+                    },
+                    {
+                        "name": "to the left of",
+                        "object": "2979409"
+                    },
+                    {
+                        "name": "to the left of",
+                        "object": "2308367"
+                    },
+                    {
+                        "name": "to the right of",
+                        "object": "3122101"
+                    },
+                    {
+                        "name": "to the left of",
+                        "object": "2082777"
+                    },
+                    {
+                        "name": "to the left of",
+                        "object": "3298336"
+                    }
+                ],
+                "w": 43,
+                "x": 121,
+                "y": 286
+            },
+            "2979409": {
+                "attributes": [],
+                "h": 182,
+                "name": "street",
+                "relations": [
+                    {
+                        "name": "to the right of",
+                        "object": "2994098"
+                    },
+                    {
+                        "name": "to the right of",
+                        "object": "2956232"
+                    },
+                    {
+                        "name": "to the right of",
+                        "object": "3122101"
+                    }
+                ],
+                "w": 188,
+                "x": 186,
+                "y": 307
+            },
+            "2994095": {
+                "attributes": [
+                    "brown"
+                ],
+                "h": 9,
+                "name": "leaf",
+                "relations": [],
+                "w": 11,
+                "x": 34,
+                "y": 487
+            },
+            "2994096": {
+                "attributes": [
+                    "brown"
+                ],
+                "h": 5,
+                "name": "leaf",
+                "relations": [
+                    {
+                        "name": "to the left of",
+                        "object": "2308367"
+                    }
+                ],
+                "w": 7,
+                "x": 81,
+                "y": 466
+            },
+            "2994097": {
+                "attributes": [
+                    "brown"
+                ],
+                "h": 5,
+                "name": "leaf",
+                "relations": [
+                    {
+                        "name": "to the left of",
+                        "object": "2308367"
+                    }
+                ],
+                "w": 9,
+                "x": 64,
+                "y": 446
+            },
+            "2994098": {
+                "attributes": [
+                    "brown"
+                ],
+                "h": 2,
+                "name": "leaf",
+                "relations": [
+                    {
+                        "name": "to the left of",
+                        "object": "2979409"
+                    },
+                    {
+                        "name": "to the left of",
+                        "object": "2308367"
+                    }
+                ],
+                "w": 4,
+                "x": 101,
+                "y": 444
+            },
+            "2994099": {
+                "attributes": [
+                    "brown"
+                ],
+                "h": 5,
+                "name": "leaf",
+                "relations": [
+                    {
+                        "name": "to the left of",
+                        "object": "2308367"
+                    }
+                ],
+                "w": 6,
+                "x": 81,
+                "y": 432
+            },
+            "3122101": {
+                "attributes": [],
+                "h": 205,
+                "name": "fence",
+                "relations": [
+                    {
+                        "name": "to the left of",
+                        "object": "2956232"
+                    },
+                    {
+                        "name": "to the left of",
+                        "object": "2308367"
+                    },
+                    {
+                        "name": "to the left of",
+                        "object": "2979409"
+                    }
+                ],
+                "w": 117,
+                "x": 0,
+                "y": 294
+            },
+            "3298336": {
+                "attributes": [
+                    "silver"
+                ],
+                "h": 70,
+                "name": "car",
+                "relations": [
+                    {
+                        "name": "to the left of",
+                        "object": "2881921"
+                    },
+                    {
+                        "name": "to the right of",
+                        "object": "2082777"
+                    },
+                    {
+                        "name": "to the right of",
+                        "object": "2956232"
+                    }
+                ],
+                "w": 69,
+                "x": 231,
+                "y": 299
+            },
+            "3486360": {
+                "attributes": [
+                    "blue"
+                ],
+                "h": 75,
+                "name": "sign",
+                "relations": [
+                    {
+                        "name": "to the left of",
+                        "object": "2322838"
+                    }
+                ],
+                "w": 51,
+                "x": 117,
+                "y": 211
+            },
+            "3702972": {
+                "attributes": [],
+                "h": 52,
+                "name": "arrow",
+                "relations": [
+                    {
+                        "name": "to the left of",
+                        "object": "2322838"
+                    },
+                    {
+                        "name": "on",
+                        "object": "2308367"
+                    }
+                ],
+                "w": 9,
+                "x": 122,
+                "y": 219
+            },
+            "3702977": {
+                "attributes": [],
+                "h": 10,
+                "name": "leaves",
+                "relations": [],
+                "w": 7,
+                "x": 44,
+                "y": 399
+            },
+            "3930584": {
+                "attributes": [
+                    "yellow"
+                ],
+                "h": 8,
+                "name": "leaf",
+                "relations": [
+                    {
+                        "name": "to the left of",
+                        "object": "2956232"
+                    }
+                ],
+                "w": 4,
+                "x": 53,
+                "y": 337
+            }
+        },
+        "width": 375
+    },
+    "2357213": {
+        "height": 374,
+        "objects": {
+            "1665235": {
+                "attributes": [],
+                "h": 194,
+                "name": "ground",
+                "relations": [
+                    {
+                        "name": "to the right of",
+                        "object": "2223553"
+                    },
+                    {
+                        "name": "to the right of",
+                        "object": "1855767"
+                    },
+                    {
+                        "name": "to the right of",
+                        "object": "2608901"
+                    },
+                    {
+                        "name": "to the right of",
+                        "object": "2444445"
+                    }
+                ],
+                "w": 257,
+                "x": 144,
+                "y": 179
+            },
+            "1734279": {
+                "attributes": [],
+                "h": 48,
+                "name": "menu",
+                "relations": [
+                    {
+                        "name": "to the left of",
+                        "object": "1941208"
+                    },
+                    {
+                        "name": "to the right of",
+                        "object": "2223553"
+                    },
+                    {
+                        "name": "to the right of",
+                        "object": "2608901"
+                    },
+                    {
+                        "name": "to the right of",
+                        "object": "1847015"
+                    },
+                    {
+                        "name": "to the left of",
+                        "object": "1941207"
+                    },
+                    {
+                        "name": "to the right of",
+                        "object": "2511888"
+                    },
+                    {
+                        "name": "on",
+                        "object": "1734280"
+                    }
+                ],
+                "w": 72,
+                "x": 220,
+                "y": 120
+            },
+            "1734280": {
+                "attributes": [
+                    "brown"
+                ],
+                "h": 137,
+                "name": "table",
+                "relations": [
+                    {
+                        "name": "to the right of",
+                        "object": "1847015"
+                    },
+                    {
+                        "name": "to the right of",
+                        "object": "2608901"
+                    },
+                    {
+                        "name": "to the right of",
+                        "object": "1855767"
+                    },
+                    {
+                        "name": "to the left of",
+                        "object": "1941207"
+                    },
+                    {
+                        "name": "to the left of",
+                        "object": "1941208"
+                    },
+                    {
+                        "name": "to the right of",
+                        "object": "2223553"
+                    },
+                    {
+                        "name": "to the left of",
+                        "object": "1904275"
+                    }
+                ],
+                "w": 252,
+                "x": 128,
+                "y": 51
+            },
+            "1788880": {
+                "attributes": [
+                    "yellow"
+                ],
+                "h": 198,
+                "name": "wall",
+                "relations": [],
+                "w": 399,
+                "x": 40,
+                "y": 7
+            },
+            "1847015": {
+                "attributes": [
+                    "red"
+                ],
+                "h": 59,
+                "name": "shirt",
+                "relations": [
+                    {
+                        "name": "to the left of",
+                        "object": "1734279"
+                    },
+                    {
+                        "name": "to the left of",
+                        "object": "2511888"
+                    },
+                    {
+                        "name": "to the left of",
+                        "object": "1734280"
+                    }
+                ],
+                "w": 108,
+                "x": 34,
+                "y": 121
+            },
+            "1855767": {
+                "attributes": [
+                    "purple"
+                ],
+                "h": 70,
+                "name": "shorts",
+                "relations": [
+                    {
+                        "name": "to the left of",
+                        "object": "1734280"
+                    },
+                    {
+                        "name": "to the left of",
+                        "object": "1665235"
+                    }
+                ],
+                "w": 104,
+                "x": 23,
+                "y": 149
+            },
+            "1904273": {
+                "attributes": [
+                    "white"
+                ],
+                "h": 60,
+                "name": "shoes",
+                "relations": [
+                    {
+                        "name": "to the right of",
+                        "object": "1904274"
+                    },
+                    {
+                        "name": "to the right of",
+                        "object": "2848020"
+                    },
+                    {
+                        "name": "to the right of",
+                        "object": "3555834"
+                    },
+                    {
+                        "name": "to the right of",
+                        "object": "3314121"
+                    },
+                    {
+                        "name": "to the right of",
+                        "object": "3177175"
+                    },
+                    {
+                        "name": "to the right of",
+                        "object": "2072562"
+                    }
+                ],
+                "w": 31,
+                "x": 387,
+                "y": 15
+            },
+            "1904274": {
+                "attributes": [],
+                "h": 59,
+                "name": "shoes",
+                "relations": [
+                    {
+                        "name": "to the right of",
+                        "object": "2072562"
+                    },
+                    {
+                        "name": "to the right of",
+                        "object": "2973945"
+                    },
+                    {
+                        "name": "to the left of",
+                        "object": "1904273"
+                    },
+                    {
+                        "name": "to the right of",
+                        "object": "3555835"
+                    },
+                    {
+                        "name": "to the right of",
+                        "object": "3555836"
+                    },
+                    {
+                        "name": "to the right of",
+                        "object": "3314121"
+                    },
+                    {
+                        "name": "to the right of",
+                        "object": "3555834"
+                    },
+                    {
+                        "name": "to the right of",
+                        "object": "2848020"
+                    }
+                ],
+                "w": 27,
+                "x": 333,
+                "y": 36
+            },
+            "1904275": {
+                "attributes": [],
+                "h": 50,
+                "name": "shorts",
+                "relations": [
+                    {
+                        "name": "to the right of",
+                        "object": "3555835"
+                    },
+                    {
+                        "name": "to the right of",
+                        "object": "2072562"
+                    },
+                    {
+                        "name": "to the right of",
+                        "object": "1734280"
+                    }
+                ],
+                "w": 96,
+                "x": 349,
+                "y": 75
+            },
+            "1941207": {
+                "attributes": [],
+                "h": 206,
+                "name": "boy",
+                "relations": [
+                    {
+                        "name": "to the right of",
+                        "object": "3314121"
+                    },
+                    {
+                        "name": "to the right of",
+                        "object": "3555835"
+                    },
+                    {
+                        "name": "to the right of",
+                        "object": "3555834"
+                    },
+                    {
+                        "name": "to the right of",
+                        "object": "2511888"
+                    },
+                    {
+                        "name": "to the right of",
+                        "object": "3555836"
+                    },
+                    {
+                        "name": "to the right of",
+                        "object": "2973945"
+                    },
+                    {
+                        "name": "to the right of",
+                        "object": "1734280"
+                    },
+                    {
+                        "name": "to the right of",
+                        "object": "2910898"
+                    },
+                    {
+                        "name": "to the right of",
+                        "object": "2848020"
+                    },
+                    {
+                        "name": "to the right of",
+                        "object": "1734279"
+                    },
+                    {
+                        "name": "to the right of",
+                        "object": "2072562"
+                    },
+                    {
+                        "name": "wearing",
+                        "object": "1941208"
+                    }
+                ],
+                "w": 159,
+                "x": 333,
+                "y": 16
+            },
+            "1941208": {
+                "attributes": [
+                    "bright",
+                    "red"
+                ],
+                "h": 80,
+                "name": "shirt",
+                "relations": [
+                    {
+                        "name": "to the right of",
+                        "object": "1734280"
+                    },
+                    {
+                        "name": "to the right of",
+                        "object": "1734279"
+                    }
+                ],
+                "w": 117,
+                "x": 363,
+                "y": 105
+            },
+            "2072562": {
+                "attributes": [],
+                "h": 106,
+                "name": "plants",
+                "relations": [
+                    {
+                        "name": "to the left of",
+                        "object": "1904274"
+                    },
+                    {
+                        "name": "to the left of",
+                        "object": "3177175"
+                    },
+                    {
+                        "name": "to the left of",
+                        "object": "1904275"
+                    },
+                    {
+                        "name": "to the left of",
+                        "object": "1904273"
+                    },
+                    {
+                        "name": "to the left of",
+                        "object": "1941207"
+                    },
+                    {
+                        "name": "to the right of",
+                        "object": "2223553"
+                    }
+                ],
+                "w": 111,
+                "x": 189,
+                "y": 6
+            },
+            "2223553": {
+                "attributes": [],
+                "h": 373,
+                "name": "seat",
+                "relations": [
+                    {
+                        "name": "to the left of",
+                        "object": "1665235"
+                    },
+                    {
+                        "name": "to the left of",
+                        "object": "2848021"
+                    },
+                    {
+                        "name": "to the left of",
+                        "object": "3314121"
+                    },
+                    {
+                        "name": "to the left of",
+                        "object": "2848020"
+                    },
+                    {
+                        "name": "to the left of",
+                        "object": "2784865"
+                    },
+                    {
+                        "name": "to the left of",
+                        "object": "1734279"
+                    },
+                    {
+                        "name": "to the left of",
+                        "object": "1734280"
+                    },
+                    {
+                        "name": "to the left of",
+                        "object": "2072562"
+                    },
+                    {
+                        "name": "to the left of",
+                        "object": "2910898"
+                    },
+                    {
+                        "name": "to the left of",
+                        "object": "2973945"
+                    },
+                    {
+                        "name": "to the left of",
+                        "object": "3555835"
+                    },
+                    {
+                        "name": "to the left of",
+                        "object": "3555834"
+                    },
+                    {
+                        "name": "to the left of",
+                        "object": "3555836"
+                    },
+                    {
+                        "name": "to the left of",
+                        "object": "2479829"
+                    },
+                    {
+                        "name": "to the left of",
+                        "object": "2511888"
+                    }
+                ],
+                "w": 159,
+                "x": 0,
+                "y": 0
+            },
+            "2444445": {
+                "attributes": [
+                    "purple"
+                ],
+                "h": 81,
+                "name": "shoe",
+                "relations": [
+                    {
+                        "name": "to the left of",
+                        "object": "1665235"
+                    },
+                    {
+                        "name": "to the left of",
+                        "object": "2479829"
+                    },
+                    {
+                        "name": "to the left of",
+                        "object": "2784865"
+                    }
+                ],
+                "w": 65,
+                "x": 31,
+                "y": 256
+            },
+            "2479829": {
+                "attributes": [
+                    "white"
+                ],
+                "h": 33,
+                "name": "paper",
+                "relations": [
+                    {
+                        "name": "to the right of",
+                        "object": "2608901"
+                    },
+                    {
+                        "name": "to the right of",
+                        "object": "2444445"
+                    },
+                    {
+                        "name": "to the right of",
+                        "object": "2223553"
+                    }
+                ],
+                "w": 51,
+                "x": 169,
+                "y": 288
+            },
+            "2511888": {
+                "attributes": [
+                    "white"
+                ],
+                "h": 20,
+                "name": "napkin",
+                "relations": [
+                    {
+                        "name": "to the right of",
+                        "object": "2608901"
+                    },
+                    {
+                        "name": "to the right of",
+                        "object": "1847015"
+                    },
+                    {
+                        "name": "to the left of",
+                        "object": "1734279"
+                    },
+                    {
+                        "name": "to the left of",
+                        "object": "1941207"
+                    },
+                    {
+                        "name": "to the right of",
+                        "object": "2223553"
+                    }
+                ],
+                "w": 68,
+                "x": 150,
+                "y": 129
+            },
+            "2608901": {
+                "attributes": [],
+                "h": 236,
+                "name": "child",
+                "relations": [
+                    {
+                        "name": "to the left of",
+                        "object": "2479829"
+                    },
+                    {
+                        "name": "to the left of",
+                        "object": "2784865"
+                    },
+                    {
+                        "name": "to the left of",
+                        "object": "1734279"
+                    },
+                    {
+                        "name": "to the left of",
+                        "object": "1734280"
+                    },
+                    {
+                        "name": "to the left of",
+                        "object": "1665235"
+                    },
+                    {
+                        "name": "to the left of",
+                        "object": "2511888"
+                    },
+                    {
+                        "name": "sleeping on",
+                        "object": "2223553"
+                    }
+                ],
+                "w": 164,
+                "x": 0,
+                "y": 101
+            },
+            "2784865": {
+                "attributes": [],
+                "h": 189,
+                "name": "floor",
+                "relations": [
+                    {
+                        "name": "to the right of",
+                        "object": "2608901"
+                    },
+                    {
+                        "name": "to the right of",
+                        "object": "2444445"
+                    },
+                    {
+                        "name": "to the right of",
+                        "object": "2223553"
+                    }
+                ],
+                "w": 359,
+                "x": 142,
+                "y": 184
+            },
+            "2848020": {
+                "attributes": [
+                    "blue"
+                ],
+                "h": 23,
+                "name": "straw",
+                "relations": [
+                    {
+                        "name": "to the left of",
+                        "object": "3177175"
+                    },
+                    {
+                        "name": "to the left of",
+                        "object": "1904274"
+                    },
+                    {
+                        "name": "to the right of",
+                        "object": "2223553"
+                    },
+                    {
+                        "name": "to the right of",
+                        "object": "3314121"
+                    },
+                    {
+                        "name": "to the right of",
+                        "object": "3555836"
+                    },
+                    {
+                        "name": "to the right of",
+                        "object": "3555834"
+                    },
+                    {
+                        "name": "to the right of",
+                        "object": "2973945"
+                    },
+                    {
+                        "name": "to the left of",
+                        "object": "1904273"
+                    },
+                    {
+                        "name": "to the left of",
+                        "object": "1941207"
+                    }
+                ],
+                "w": 6,
+                "x": 284,
+                "y": 34
+            },
+            "2848021": {
+                "attributes": [],
+                "h": 19,
+                "name": "straw",
+                "relations": [
+                    {
+                        "name": "to the right of",
+                        "object": "2223553"
+                    },
+                    {
+                        "name": "to the right of",
+                        "object": "2910898"
+                    }
+                ],
+                "w": 5,
+                "x": 250,
+                "y": 7
+            },
+            "2910898": {
+                "attributes": [
+                    "blue"
+                ],
+                "h": 33,
+                "name": "straw",
+                "relations": [
+                    {
+                        "name": "to the right of",
+                        "object": "2223553"
+                    },
+                    {
+                        "name": "to the left of",
+                        "object": "3555834"
+                    },
+                    {
+                        "name": "to the left of",
+                        "object": "1941207"
+                    },
+                    {
+                        "name": "to the left of",
+                        "object": "2848021"
+                    }
+                ],
+                "w": 14,
+                "x": 211,
+                "y": 12
+            },
+            "2973945": {
+                "attributes": [],
+                "h": 23,
+                "name": "pepper",
+                "relations": [
+                    {
+                        "name": "to the left of",
+                        "object": "1941207"
+                    },
+                    {
+                        "name": "to the left of",
+                        "object": "1904274"
+                    },
+                    {
+                        "name": "to the left of",
+                        "object": "3177175"
+                    },
+                    {
+                        "name": "to the right of",
+                        "object": "2223553"
+                    },
+                    {
+                        "name": "to the left of",
+                        "object": "3314121"
+                    },
+                    {
+                        "name": "to the right of",
+                        "object": "3555836"
+                    },
+                    {
+                        "name": "to the left of",
+                        "object": "3555834"
+                    },
+                    {
+                        "name": "to the left of",
+                        "object": "2848020"
+                    }
+                ],
+                "w": 11,
+                "x": 227,
+                "y": 37
+            },
+            "3177175": {
+                "attributes": [],
+                "h": 59,
+                "name": "foot",
+                "relations": [
+                    {
+                        "name": "to the left of",
+                        "object": "1904273"
+                    },
+                    {
+                        "name": "to the right of",
+                        "object": "2973945"
+                    },
+                    {
+                        "name": "to the right of",
+                        "object": "2072562"
+                    },
+                    {
+                        "name": "to the right of",
+                        "object": "3555835"
+                    },
+                    {
+                        "name": "to the right of",
+                        "object": "3555836"
+                    },
+                    {
+                        "name": "to the right of",
+                        "object": "2848020"
+                    },
+                    {
+                        "name": "to the right of",
+                        "object": "3314121"
+                    },
+                    {
+                        "name": "to the right of",
+                        "object": "3555834"
+                    }
+                ],
+                "w": 32,
+                "x": 331,
+                "y": 37
+            },
+            "3314121": {
+                "attributes": [],
+                "h": 22,
+                "name": "salt shaker",
+                "relations": [
+                    {
+                        "name": "to the left of",
+                        "object": "1904273"
+                    },
+                    {
+                        "name": "to the left of",
+                        "object": "3177175"
+                    },
+                    {
+                        "name": "to the left of",
+                        "object": "1904274"
+                    },
+                    {
+                        "name": "to the right of",
+                        "object": "3555836"
+                    },
+                    {
+                        "name": "to the right of",
+                        "object": "2223553"
+                    },
+                    {
+                        "name": "to the left of",
+                        "object": "1941207"
+                    },
+                    {
+                        "name": "to the left of",
+                        "object": "2848020"
+                    },
+                    {
+                        "name": "to the right of",
+                        "object": "3555834"
+                    },
+                    {
+                        "name": "to the right of",
+                        "object": "2973945"
+                    }
+                ],
+                "w": 12,
+                "x": 266,
+                "y": 36
+            },
+            "3555834": {
+                "attributes": [],
+                "h": 50,
+                "name": "cup",
+                "relations": [
+                    {
+                        "name": "to the right of",
+                        "object": "3555836"
+                    },
+                    {
+                        "name": "to the right of",
+                        "object": "2973945"
+                    },
+                    {
+                        "name": "to the right of",
+                        "object": "2910898"
+                    },
+                    {
+                        "name": "to the left of",
+                        "object": "1904273"
+                    },
+                    {
+                        "name": "to the left of",
+                        "object": "1941207"
+                    },
+                    {
+                        "name": "to the left of",
+                        "object": "3314121"
+                    },
+                    {
+                        "name": "to the left of",
+                        "object": "3177175"
+                    },
+                    {
+                        "name": "to the right of",
+                        "object": "2223553"
+                    },
+                    {
+                        "name": "to the left of",
+                        "object": "2848020"
+                    },
+                    {
+                        "name": "to the left of",
+                        "object": "1904274"
+                    }
+                ],
+                "w": 24,
+                "x": 241,
+                "y": 20
+            },
+            "3555835": {
+                "attributes": [],
+                "h": 61,
+                "name": "cup",
+                "relations": [
+                    {
+                        "name": "to the right of",
+                        "object": "3555836"
+                    },
+                    {
+                        "name": "to the right of",
+                        "object": "2223553"
+                    },
+                    {
+                        "name": "to the left of",
+                        "object": "1941207"
+                    },
+                    {
+                        "name": "to the left of",
+                        "object": "1904275"
+                    },
+                    {
+                        "name": "to the left of",
+                        "object": "3177175"
+                    },
+                    {
+                        "name": "to the left of",
+                        "object": "1904274"
+                    }
+                ],
+                "w": 31,
+                "x": 270,
+                "y": 50
+            },
+            "3555836": {
+                "attributes": [],
+                "h": 54,
+                "name": "cup",
+                "relations": [
+                    {
+                        "name": "to the right of",
+                        "object": "2223553"
+                    },
+                    {
+                        "name": "to the left of",
+                        "object": "1904274"
+                    },
+                    {
+                        "name": "to the left of",
+                        "object": "3177175"
+                    },
+                    {
+                        "name": "to the left of",
+                        "object": "2848020"
+                    },
+                    {
+                        "name": "to the left of",
+                        "object": "3314121"
+                    },
+                    {
+                        "name": "to the left of",
+                        "object": "2973945"
+                    },
+                    {
+                        "name": "to the left of",
+                        "object": "3555834"
+                    },
+                    {
+                        "name": "to the left of",
+                        "object": "3555835"
+                    },
+                    {
+                        "name": "to the left of",
+                        "object": "1941207"
+                    }
+                ],
+                "w": 28,
+                "x": 190,
+                "y": 40
+            }
+        },
+        "width": 500
+    },
+    "2382734": {
+        "height": 282,
+        "objects": {
+            "1326555": {
+                "attributes": [
+                    "chrome",
+                    "silver"
+                ],
+                "h": 45,
+                "name": "faucet",
+                "relations": [
+                    {
+                        "name": "to the right of",
+                        "object": "1326566"
+                    }
+                ],
+                "w": 73,
+                "x": 60,
+                "y": 192
+            },
+            "1326556": {
+                "attributes": [],
+                "h": 144,
+                "name": "frame",
+                "relations": [
+                    {
+                        "name": "to the left of",
+                        "object": "1326568"
+                    }
+                ],
+                "w": 159,
+                "x": 0,
+                "y": 2
+            },
+            "1326557": {
+                "attributes": [],
+                "h": 131,
+                "name": "mirror",
+                "relations": [
+                    {
+                        "name": "above",
+                        "object": "1326558"
+                    }
+                ],
+                "w": 142,
+                "x": 2,
+                "y": 0
+            },
+            "1326558": {
+                "attributes": [
+                    "white"
+                ],
+                "h": 57,
+                "name": "sink",
+                "relations": [
+                    {
+                        "name": "by",
+                        "object": "1326555"
+                    },
+                    {
+                        "name": "by",
+                        "object": "1326563"
+                    },
+                    {
+                        "name": "under",
+                        "object": "1326557"
+                    },
+                    {
+                        "name": "below",
+                        "object": "1326557"
+                    },
+                    {
+                        "name": "on",
+                        "object": "1326559"
+                    },
+                    {
+                        "name": "to the left of",
+                        "object": "1326562"
+                    },
+                    {
+                        "name": "to the right of",
+                        "object": "1326566"
+                    }
+                ],
+                "w": 151,
+                "x": 56,
+                "y": 223
+            },
+            "1326559": {
+                "attributes": [],
+                "h": 109,
+                "name": "counter",
+                "relations": [
+                    {
+                        "name": "to the left of",
+                        "object": "1326562"
+                    }
+                ],
+                "w": 294,
+                "x": 2,
+                "y": 171
+            },
+            "1326560": {
+                "attributes": [
+                    "purple",
+                    "wicker"
+                ],
+                "h": 120,
+                "name": "basket",
+                "relations": [
+                    {
+                        "name": "to the left of",
+                        "object": "1326561"
+                    },
+                    {
+                        "name": "to the right of",
+                        "object": "1326568"
+                    }
+                ],
+                "w": 92,
+                "x": 293,
+                "y": 27
+            },
+            "1326561": {
+                "attributes": [
+                    "electric"
+                ],
+                "h": 43,
+                "name": "light switch",
+                "relations": [
+                    {
+                        "name": "to the right of",
+                        "object": "1326560"
+                    },
+                    {
+                        "name": "on",
+                        "object": "1326562"
+                    }
+                ],
+                "w": 26,
+                "x": 433,
+                "y": 20
+            },
+            "1326562": {
+                "attributes": [
+                    "blue"
+                ],
+                "h": 278,
+                "name": "wall",
+                "relations": [
+                    {
+                        "name": "to the right of",
+                        "object": "1326559"
+                    },
+                    {
+                        "name": "to the right of",
+                        "object": "1326565"
+                    },
+                    {
+                        "name": "to the right of",
+                        "object": "1326558"
+                    }
+                ],
+                "w": 190,
+                "x": 307,
+                "y": 2
+            },
+            "1326563": {
+                "attributes": [],
+                "h": 41,
+                "name": "bottle",
+                "relations": [
+                    {
+                        "name": "to the left of",
+                        "object": "1326568"
+                    }
+                ],
+                "w": 23,
+                "x": 82,
+                "y": 127
+            },
+            "1326565": {
+                "attributes": [
+                    "small",
+                    "glass"
+                ],
+                "h": 61,
+                "name": "shelf",
+                "relations": [
+                    {
+                        "name": "to the left of",
+                        "object": "1326562"
+                    }
+                ],
+                "w": 198,
+                "x": 0,
+                "y": 151
+            },
+            "1326566": {
+                "attributes": [
+                    "plastic"
+                ],
+                "h": 64,
+                "name": "soap",
+                "relations": [
+                    {
+                        "name": "to the left of",
+                        "object": "1326555"
+                    },
+                    {
+                        "name": "to the left of",
+                        "object": "1326558"
+                    },
+                    {
+                        "name": "by",
+                        "object": "1326558"
+                    }
+                ],
+                "w": 37,
+                "x": 7,
+                "y": 195
+            },
+            "1326568": {
+                "attributes": [
+                    "pink"
+                ],
+                "h": 37,
+                "name": "candle",
+                "relations": [
+                    {
+                        "name": "to the right of",
+                        "object": "1326556"
+                    },
+                    {
+                        "name": "to the left of",
+                        "object": "1326560"
+                    },
+                    {
+                        "name": "to the right of",
+                        "object": "1326563"
+                    }
+                ],
+                "w": 26,
+                "x": 151,
+                "y": 124
+            }
+        },
+        "width": 500
+    }
+}
