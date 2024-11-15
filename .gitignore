@@ -168,4 +168,4 @@ data/sceneGraphs/*.json
 
 data/images/*.{png, jpeg, jpg, txt}
 
-generated/*.csv
+# generated/*.csv

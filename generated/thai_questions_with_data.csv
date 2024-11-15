@@ -1,0 +1,45 @@
+Object,Attribute,Relation,Target,Question Template?Answer Template,Generated Question?Answer
+ผู้หญิง,ใส่เสื้อแดง,,,{attribute}ที่{object_name}มี?{object_name}เป็น{attribute},ใส่เสื้อแดงที่ผู้หญิงมี?ผู้หญิงเป็นใส่เสื้อแดง
+ผู้หญิง,ใส่กระโปรงยีนส์,,,{object_name}มี{attribute}?{object_name}มี{attribute},ผู้หญิงมีใส่กระโปรงยีนส์?ผู้หญิงมีใส่กระโปรงยีนส์
+แว่นตากันแดด,กันแดด,,,{attribute}ที่{object_name}มี?{object_name}เป็น{attribute},กันแดดที่แว่นตากันแดดมี?แว่นตากันแดดเป็นกันแดด
+ร่ม,ลายดอกไม้,,,{object_name}มี{attribute}?{object_name}มี{attribute},ร่มมีลายดอกไม้?ร่มมีลายดอกไม้
+ผู้หญิง,ใส่เสื้อชมพู,,,{attribute}ที่{object_name}มี?{object_name}เป็น{attribute},ใส่เสื้อชมพูที่ผู้หญิงมี?ผู้หญิงเป็นใส่เสื้อชมพู
+ผู้หญิง,ใส่รองเท้าส้นสูงสีขาว,,,{attribute}ของ{object_name}คืออะไร?{attribute}ของ{object_name}เป็น{attribute},ใส่รองเท้าส้นสูงสีขาวของผู้หญิงคืออะไร?ใส่รองเท้าส้นสูงสีขาวของผู้หญิงเป็นใส่รองเท้าส้นสูงสีขาว
+กระเป๋าสะพาย,สีแดง,,,{attribute}ที่{object_name}มี?{object_name}เป็น{attribute},สีแดงที่กระเป๋าสะพายมี?กระเป๋าสะพายเป็นสีแดง
+ตำรวจ,ใส่ชุดตำรวจ,,,{object_name}มี{attribute}?{object_name}มี{attribute},ตำรวจมีใส่ชุดตำรวจ?ตำรวจมีใส่ชุดตำรวจ
+ตำรวจ,ใส่หมวก,,,{attribute}ของ{object_name}คืออะไร?{attribute}ของ{object_name}เป็น{attribute},ใส่หมวกของตำรวจคืออะไร?ใส่หมวกของตำรวจเป็นใส่หมวก
+รถตุ๊กตุ๊ก,สีน้ำเงิน-เหลือง,,,{attribute}ของ{object_name}คืออะไร?{attribute}ของ{object_name}เป็น{attribute},สีน้ำเงิน-เหลืองของรถตุ๊กตุ๊กคืออะไร?สีน้ำเงิน-เหลืองของรถตุ๊กตุ๊กเป็นสีน้ำเงิน-เหลือง
+รถตุ๊กตุ๊ก,ป้ายทะเบียนขาว,,,{object_name}มี{attribute}?{object_name}มี{attribute},รถตุ๊กตุ๊กมีป้ายทะเบียนขาว?รถตุ๊กตุ๊กมีป้ายทะเบียนขาว
+ร้านอาหาร,ป้ายเหลือง,,,{object_name}มี{attribute}?{object_name}มี{attribute},ร้านอาหารมีป้ายเหลือง?ร้านอาหารมีป้ายเหลือง
+ร้านอาหาร,มีโต๊ะเก้าอี้นั่งด้านนอก,,,{attribute}ที่{object_name}มี?{object_name}เป็น{attribute},มีโต๊ะเก้าอี้นั่งด้านนอกที่ร้านอาหารมี?ร้านอาหารเป็นมีโต๊ะเก้าอี้นั่งด้านนอก
+ร้านอาหาร,ขายอาหารตามสั่ง,,,{attribute}ของ{object_name}คืออะไร?{attribute}ของ{object_name}เป็น{attribute},ขายอาหารตามสั่งของร้านอาหารคืออะไร?ขายอาหารตามสั่งของร้านอาหารเป็นขายอาหารตามสั่ง
+แผงขายผลไม้,ผ้าฟ้ากันแดด,,,{object_name}มี{attribute}?{object_name}มี{attribute},แผงขายผลไม้มีผ้าฟ้ากันแดด?แผงขายผลไม้มีผ้าฟ้ากันแดด
+แผงขายผลไม้,ขายกล้วยกับส้ม,,,{object_name}มี{attribute}?{object_name}มี{attribute},แผงขายผลไม้มีขายกล้วยกับส้ม?แผงขายผลไม้มีขายกล้วยกับส้ม
+แผงขายผลไม้,อยู่ริมทาง,,,{attribute}ของ{object_name}คืออะไร?{attribute}ของ{object_name}เป็น{attribute},อยู่ริมทางของแผงขายผลไม้คืออะไร?อยู่ริมทางของแผงขายผลไม้เป็นอยู่ริมทาง
+รถมอเตอร์ไซค์,สีดำ,,,{object_name}มี{attribute}?{object_name}มี{attribute},รถมอเตอร์ไซค์มีสีดำ?รถมอเตอร์ไซค์มีสีดำ
+รถมอเตอร์ไซค์,จอดบนฟุตบาท,,,{attribute}ที่{object_name}มี?{object_name}เป็น{attribute},จอดบนฟุตบาทที่รถมอเตอร์ไซค์มี?รถมอเตอร์ไซค์เป็นจอดบนฟุตบาท
+รถมอเตอร์ไซค์,มีหมวกกันน็อกแดงแขวน,,,{object_name}มี{attribute}?{object_name}มี{attribute},รถมอเตอร์ไซค์มีมีหมวกกันน็อกแดงแขวน?รถมอเตอร์ไซค์มีมีหมวกกันน็อกแดงแขวน
+ผู้หญิง,,ใส่,แว่นตากันแดด,วัตถุอะไร {relation_name}กับ{object_name}?วัตถุที่{relation_name}กับ{object_name}คือ{target_obj_name},วัตถุอะไร ใส่กับผู้หญิง?วัตถุที่ใส่กับผู้หญิงคือแว่นตากันแดด
+ผู้หญิง,,ถือ,ร่ม,วัตถุอะไร {relation_name}กับ{object_name}?วัตถุที่{relation_name}กับ{object_name}คือ{target_obj_name},วัตถุอะไร ถือกับผู้หญิง?วัตถุที่ถือกับผู้หญิงคือร่ม
+ผู้หญิง,,เดินข้าง,ผู้หญิง,วัตถุใดที่{object_name}{relation_name}?{object_name}ทำ{relation_name}กับ{target_obj_name},วัตถุใดที่ผู้หญิงเดินข้าง?ผู้หญิงทำเดินข้างกับผู้หญิง
+ผู้หญิง,,หันหน้าไปทาง,รถตุ๊กตุ๊ก,วัตถุอะไร {relation_name}กับ{object_name}?วัตถุที่{relation_name}กับ{object_name}คือ{target_obj_name},วัตถุอะไร หันหน้าไปทางกับผู้หญิง?วัตถุที่หันหน้าไปทางกับผู้หญิงคือรถตุ๊กตุ๊ก
+ผู้หญิง,,เดินหน้าร้าน,ร้านอาหาร,{object_name}อยู่ที่ไหนเมื่อเปรียบเทียบกับ{target_obj_name}?{object_name}ทำ{relation_name}กับ{target_obj_name},ผู้หญิงอยู่ที่ไหนเมื่อเปรียบเทียบกับร้านอาหาร?ผู้หญิงทำเดินหน้าร้านกับร้านอาหาร
+แว่นตากันแดด,,ใส่โดย,ผู้หญิง,{object_name}อยู่ที่ไหนเมื่อเปรียบเทียบกับ{target_obj_name}?{object_name}ทำ{relation_name}กับ{target_obj_name},แว่นตากันแดดอยู่ที่ไหนเมื่อเปรียบเทียบกับผู้หญิง?แว่นตากันแดดทำใส่โดยกับผู้หญิง
+ร่ม,,ถือโดย,ผู้หญิง,อะไรคือ{relation_name}ของ{object_name}?{object_name}ทำ{relation_name}กับ{target_obj_name},อะไรคือถือโดยของร่ม?ร่มทำถือโดยกับผู้หญิง
+ผู้หญิง,,ถือ,กระเป๋าสะพาย,วัตถุใดที่{object_name}{relation_name}?{object_name}ทำ{relation_name}กับ{target_obj_name},วัตถุใดที่ผู้หญิงถือ?ผู้หญิงทำถือกับกระเป๋าสะพาย
+ผู้หญิง,,เดินข้าง,ผู้หญิง,วัตถุอะไร {relation_name}กับ{object_name}?วัตถุที่{relation_name}กับ{object_name}คือ{target_obj_name},วัตถุอะไร เดินข้างกับผู้หญิง?วัตถุที่เดินข้างกับผู้หญิงคือผู้หญิง
+กระเป๋าสะพาย,,ถือโดย,ผู้หญิง,วัตถุใดที่{object_name}{relation_name}?{object_name}ทำ{relation_name}กับ{target_obj_name},วัตถุใดที่กระเป๋าสะพายถือโดย?กระเป๋าสะพายทำถือโดยกับผู้หญิง
+ตำรวจ,,ถือ,วิทยุสื่อสาร,อะไรคือ{relation_name}ของ{object_name}?{object_name}ทำ{relation_name}กับ{target_obj_name},อะไรคือถือของตำรวจ?ตำรวจทำถือกับวิทยุสื่อสาร
+ตำรวจ,,ยืนข้าง,รถตุ๊กตุ๊ก,วัตถุใดที่{object_name}{relation_name}?{object_name}ทำ{relation_name}กับ{target_obj_name},วัตถุใดที่ตำรวจยืนข้าง?ตำรวจทำยืนข้างกับรถตุ๊กตุ๊ก
+ตำรวจ,,มองไปทาง,ผู้หญิง,วัตถุอะไร {relation_name}กับ{object_name}?วัตถุที่{relation_name}กับ{object_name}คือ{target_obj_name},วัตถุอะไร มองไปทางกับตำรวจ?วัตถุที่มองไปทางกับตำรวจคือผู้หญิง
+ตำรวจ,,เดินตาม,ผู้หญิง,วัตถุใดที่{object_name}{relation_name}?{object_name}ทำ{relation_name}กับ{target_obj_name},วัตถุใดที่ตำรวจเดินตาม?ตำรวจทำเดินตามกับผู้หญิง
+วิทยุสื่อสาร,,ถือโดย,ตำรวจ,วัตถุใดที่{object_name}{relation_name}?{object_name}ทำ{relation_name}กับ{target_obj_name},วัตถุใดที่วิทยุสื่อสารถือโดย?วิทยุสื่อสารทำถือโดยกับตำรวจ
+รถตุ๊กตุ๊ก,,จอดใกล้,แผงขายผลไม้,วัตถุอะไร {relation_name}กับ{object_name}?วัตถุที่{relation_name}กับ{object_name}คือ{target_obj_name},วัตถุอะไร จอดใกล้กับรถตุ๊กตุ๊ก?วัตถุที่จอดใกล้กับรถตุ๊กตุ๊กคือแผงขายผลไม้
+รถตุ๊กตุ๊ก,,อยู่ซ้ายของ,ผู้หญิง,{object_name}อยู่ที่ไหนเมื่อเปรียบเทียบกับ{target_obj_name}?{object_name}ทำ{relation_name}กับ{target_obj_name},รถตุ๊กตุ๊กอยู่ที่ไหนเมื่อเปรียบเทียบกับผู้หญิง?รถตุ๊กตุ๊กทำอยู่ซ้ายของกับผู้หญิง
+รถตุ๊กตุ๊ก,,หันหน้าไปทาง,ร้านอาหาร,อะไรคือ{relation_name}ของ{object_name}?{object_name}ทำ{relation_name}กับ{target_obj_name},อะไรคือหันหน้าไปทางของรถตุ๊กตุ๊ก?รถตุ๊กตุ๊กทำหันหน้าไปทางกับร้านอาหาร
+ร้านอาหาร,,อยู่ใกล้,แผงขายผลไม้,วัตถุอะไร {relation_name}กับ{object_name}?วัตถุที่{relation_name}กับ{object_name}คือ{target_obj_name},วัตถุอะไร อยู่ใกล้กับร้านอาหาร?วัตถุที่อยู่ใกล้กับร้านอาหารคือแผงขายผลไม้
+ร้านอาหาร,,อยู่หลัง,รถตุ๊กตุ๊ก,วัตถุใดที่{object_name}{relation_name}?{object_name}ทำ{relation_name}กับ{target_obj_name},วัตถุใดที่ร้านอาหารอยู่หลัง?ร้านอาหารทำอยู่หลังกับรถตุ๊กตุ๊ก
+แผงขายผลไม้,,อยู่ใกล้,ตำรวจ,{object_name}อยู่ที่ไหนเมื่อเปรียบเทียบกับ{target_obj_name}?{object_name}ทำ{relation_name}กับ{target_obj_name},แผงขายผลไม้อยู่ที่ไหนเมื่อเปรียบเทียบกับตำรวจ?แผงขายผลไม้ทำอยู่ใกล้กับตำรวจ
+แผงขายผลไม้,,อยู่หน้าร้าน,ร้านอาหาร,อะไรคือ{relation_name}ของ{object_name}?{object_name}ทำ{relation_name}กับ{target_obj_name},อะไรคืออยู่หน้าร้านของแผงขายผลไม้?แผงขายผลไม้ทำอยู่หน้าร้านกับร้านอาหาร
+รถมอเตอร์ไซค์,,จอดข้าง,ผู้หญิง,อะไรคือ{relation_name}ของ{object_name}?{object_name}ทำ{relation_name}กับ{target_obj_name},อะไรคือจอดข้างของรถมอเตอร์ไซค์?รถมอเตอร์ไซค์ทำจอดข้างกับผู้หญิง
+รถมอเตอร์ไซค์,,จอดใกล้,ตำรวจ,อะไรคือ{relation_name}ของ{object_name}?{object_name}ทำ{relation_name}กับ{target_obj_name},อะไรคือจอดใกล้ของรถมอเตอร์ไซค์?รถมอเตอร์ไซค์ทำจอดใกล้กับตำรวจ
