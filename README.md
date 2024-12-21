@@ -2,9 +2,7 @@
 
 ## Implementing GQA Question engine for Thai language
 
-Setup
-
-1. Download Scene Graph data from the [GQA Website](https://cs.stanford.edu/people/dorarad/gqa/download.html) and move it into `data/sceneGraphs` folder
+### [Final Presentation Slide](https://docs.google.com/presentation/d/1aU7nGrlz9hOWeAyrhA-63w8jmNGYY1dNA_LiVluOIXI/edit#slide=id.g3211a13ede1_0_171)
 
 ### References
 
