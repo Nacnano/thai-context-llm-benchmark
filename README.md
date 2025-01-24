@@ -8,6 +8,10 @@
 
 - https://paperswithcode.com/paper/gqa-a-new-dataset-for-compositional-question
 
+### Advisor
+
+- Assoc. Ekapol Chuangsuwanich
+
 ### Updates
 
 - 13/9/2024: Find how GQA datasets are generated (from the paper), convert them to Thai's context and translate them again
@@ -17,7 +21,6 @@
 - 1/11/2024: Add question templates in the prompts and add pipelines for evaluation (Check the question-answer correlation, Check the check the correct answer, Check how beautiful it is?)
 - 8/11/2024: Check the criterias with some ground truth (pure bruteforce for every score) then use some stat model to evaluate the model accuracy. Maybe intentionally add wrong result to see whether it can detect the wrong ones
 - 15/11/2024: Used paired t-test (got insignificant for all criterias) and RMSE (around 20%) to evaluate the generated questions and found out that the LLMs (Gemini, ChatGPT, Claude) can't detect context-based criterias. Maybe use Recall to specify just the incorrected questions. Maybe use in-prompt context to tell the model "these are the exmaples of the wrongs" while grading
-
-### Advisor
-
-- Assoc. Ekapol Chuangsuwanich
+- 24/1/2025:
+  - Done: Finish correction and grading. Some of the grading and correction are still weird maybe because of the context parse in (bad reproducibility, criteria, memory, etc.). Aj. Ekapol approved the results.
+  - TODO: Read SQA-VQA paper to implement the Thai GQA question set and try the implementation
