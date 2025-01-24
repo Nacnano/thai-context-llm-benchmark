@@ -14,6 +14,8 @@
 
 ### Updates
 
+#### Year 3 semester 1
+
 - 13/9/2024: Find how GQA datasets are generated (from the paper), convert them to Thai's context and translate them again
 - 11/10/2024: Try implement the GQA Question Engine with Thai Language
 - 18/10/2024: Got stuck with the classses (objects, attributes, relation). Try playing with more classes (aside from colors). Example: https://gemini.google.com/app/0796b71c54fd5067
@@ -21,6 +23,10 @@
 - 1/11/2024: Add question templates in the prompts and add pipelines for evaluation (Check the question-answer correlation, Check the check the correct answer, Check how beautiful it is?)
 - 8/11/2024: Check the criterias with some ground truth (pure bruteforce for every score) then use some stat model to evaluate the model accuracy. Maybe intentionally add wrong result to see whether it can detect the wrong ones
 - 15/11/2024: Used paired t-test (got insignificant for all criterias) and RMSE (around 20%) to evaluate the generated questions and found out that the LLMs (Gemini, ChatGPT, Claude) can't detect context-based criterias. Maybe use Recall to specify just the incorrected questions. Maybe use in-prompt context to tell the model "these are the exmaples of the wrongs" while grading
+
+#### Year 3 Semester 2
+
+- 15/1/2025: Try adding the in context prompt and split the question input into mini batch (10 questions per batch). Not really have any progress.
 - 24/1/2025:
-  - Done: Finish correction and grading. Some of the grading and correction are still weird maybe because of the context parse in (bad reproducibility, criteria, memory, etc.). Aj. Ekapol approved the results.
+  - Done: Finish correction and grading. Some of the grading and correction are still weird maybe because of the context parse in (bad reproducibility, criteria, memory, LLMs forgets very long context). Aj. Ekapol approved the results.
   - TODO: Read SQA-VQA paper to implement the Thai GQA question set and try the implementation
