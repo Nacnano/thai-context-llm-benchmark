@@ -29,4 +29,4 @@
 - 15/1/2025: Try adding the in context prompt and split the question input into mini batch (10 questions per batch). Not really have any progress.
 - 24/1/2025:
   - Done: Finish correction and grading. Some of the grading and correction are still weird maybe because of the context parse in (bad reproducibility, criteria, memory, LLMs forgets very long context). Aj. Ekapol approved the results.
-  - TODO: Read SQA-VQA paper to implement the Thai GQA question set and try the implementation
+  - TODO: Read SEA-VQA paper to implement the Thai GQA question set and try the implementation
