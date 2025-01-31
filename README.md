@@ -30,3 +30,6 @@
 - 24/1/2025:
   - Done: Finish correction and grading. Some of the grading and correction are still weird maybe because of the context parse in (bad reproducibility, criteria, memory, LLMs forgets very long context). Aj. Ekapol approved the results.
   - TODO: Read SEA-VQA paper to implement the Thai GQA question set and try the implementation
+    31/1/2025:
+  - Done: Review SEA-VQA paper. Got that some generated questions are not that accurate
+  - TODO: implement some automatic segmentation on Thai-Cultural image (SAM, SAM2, etc.), read more about the visual genome paper
