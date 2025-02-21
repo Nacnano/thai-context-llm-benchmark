@@ -33,3 +33,6 @@
 - 31/1/2025:
   - Done: Review SEA-VQA paper. Got that some generated questions are not that accurate
   - TODO: implement some automatic segmentation on Thai-Cultural image (SAM, SAM2, etc.), read more about the visual genome paper
+- 21/2/2025:
+  - Done: Read visual genome paper, designed framework for image annotation using tools (VIA, Bounding Box, etc.), combined the annotations (object, attribute, realtionship, region, QA pair, canonicalization)
+  - TODO: Try generating relationships between objects using LLMs (just to test how good it is)
