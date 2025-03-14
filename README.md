@@ -36,3 +36,9 @@
 - 21/2/2025:
   - Done: Read visual genome paper, designed framework for image annotation using tools (VIA, Bounding Box, etc.), combined the annotations (object, attribute, realtionship, region, QA pair, canonicalization)
   - TODO: Try generating relationships between objects using LLMs (just to test how good it is)
+- 13/3/2025:
+  - Done : Generated image scene graphs from LLMs
+    - GPT 4o : weird attributes (use verb as atrributes)
+    - Sonnet 3.7 : detailed attributes (adjectives) and relations
+    - Gemini 2.0 Flash : no additional attribute, too simple relations
+    - Good overall positioning (both position and size)
