@@ -43,5 +43,5 @@
     - Gemini 2.0 Flash : no additional attribute, too simple relations
     - Good overall positioning (both position and size)
   - Todo :
-    - Generate Thai image scene graph with text enrichment using SEA VL
+    - Generate Thai image scene graph with text enrichment using SEA VL (https://github.com/SEACrowd/sea-vl-image-collection)
     - Plot the bounding box from the image scene graph data (+ maybe try scaling a bit)
