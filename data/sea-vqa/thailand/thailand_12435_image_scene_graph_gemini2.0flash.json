@@ -1,0 +1,156 @@
+{
+  "height": 1500,
+  "location": "indoors",
+  "objects": {
+    "1000001": {
+      "attributes": [],
+      "h": 1500,
+      "name": "room",
+      "relations": [],
+      "w": 1000,
+      "x": 0,
+      "y": 0
+    },
+    "1000002": {
+      "attributes": [],
+      "h": 1000,
+      "name": "man",
+      "relations": [
+        {
+          "name": "receiving treatment from",
+          "object": "1000003"
+        }
+      ],
+      "w": 500,
+      "x": 0,
+      "y": 500
+    },
+    "1000003": {
+      "attributes": [],
+      "h": 1000,
+      "name": "man",
+      "relations": [
+        {
+          "name": "giving treatment to",
+          "object": "1000002"
+        }
+      ],
+      "w": 500,
+      "x": 500,
+      "y": 500
+    },
+    "1000004": {
+      "attributes": [],
+      "h": 1000,
+      "name": "massage table",
+      "relations": [
+        {
+          "name": "on",
+          "object": "1000001"
+        }
+      ],
+      "w": 1000,
+      "x": 0,
+      "y": 500
+    },
+    "1000005": {
+      "attributes": [],
+      "h": 200,
+      "name": "ceiling fan",
+      "relations": [
+        {
+          "name": "on",
+          "object": "1000001"
+        }
+      ],
+      "w": 200,
+      "x": 400,
+      "y": 0
+    },
+    "1000006": {
+      "attributes": [],
+      "h": 200,
+      "name": "ceiling fan",
+      "relations": [
+        {
+          "name": "on",
+          "object": "1000001"
+        }
+      ],
+      "w": 200,
+      "x": 800,
+      "y": 200
+    },
+    "1000007": {
+      "attributes": [],
+      "h": 300,
+      "name": "windows",
+      "relations": [
+        {
+          "name": "in",
+          "object": "1000001"
+        }
+      ],
+      "w": 300,
+      "x": 0,
+      "y": 200
+    },
+    "1000008": {
+      "attributes": [],
+      "h": 300,
+      "name": "windows",
+      "relations": [
+        {
+          "name": "in",
+          "object": "1000001"
+        }
+      ],
+      "w": 300,
+      "x": 700,
+      "y": 200
+    },
+    "1000009": {
+      "attributes": [],
+      "h": 100,
+      "name": "wall",
+      "relations": [
+        {
+          "name": "in",
+          "object": "1000001"
+        }
+      ],
+      "w": 1000,
+      "x": 0,
+      "y": 0
+    },
+    "1000010": {
+      "attributes": [],
+      "h": 100,
+      "name": "wall",
+      "relations": [
+        {
+          "name": "in",
+          "object": "1000001"
+        }
+      ],
+      "w": 1000,
+      "x": 0,
+      "y": 1400
+    },
+    "1000011": {
+      "attributes": [],
+      "h": 500,
+      "name": "floor",
+      "relations": [
+        {
+          "name": "in",
+          "object": "1000001"
+        }
+      ],
+      "w": 1000,
+      "x": 0,
+      "y": 1000
+    }
+  },
+  "width": 1000
+}

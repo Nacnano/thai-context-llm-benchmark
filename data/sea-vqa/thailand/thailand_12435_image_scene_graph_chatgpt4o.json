@@ -1,0 +1,87 @@
+{
+  "image_id": "thailand_12435",
+  "width": 1152,
+  "height": 768,
+  "location": "therapy room",
+  "weather": null,
+  "objects": {
+    "1001": {
+      "name": "therapist",
+      "x": 650,
+      "y": 400,
+      "w": 400,
+      "h": 600,
+      "attributes": ["male", "wearing glasses", "white uniform"],
+      "relations": {
+        "2001": {
+          "name": "massaging",
+          "object": "1002"
+        }
+      }
+    },
+    "1002": {
+      "name": "patient",
+      "x": 400,
+      "y": 500,
+      "w": 350,
+      "h": 550,
+      "attributes": ["male", "white polo shirt", "black pants"],
+      "relations": {
+        "2002": {
+          "name": "sitting on",
+          "object": "1003"
+        }
+      }
+    },
+    "1003": {
+      "name": "massage table",
+      "x": 500,
+      "y": 600,
+      "w": 600,
+      "h": 300,
+      "attributes": ["blue", "soft"],
+      "relations": {}
+    },
+    "1004": {
+      "name": "fan",
+      "x": 300,
+      "y": 50,
+      "w": 100,
+      "h": 100,
+      "attributes": ["white", "ceiling mounted"],
+      "relations": {}
+    },
+    "1005": {
+      "name": "fan",
+      "x": 900,
+      "y": 200,
+      "w": 80,
+      "h": 80,
+      "attributes": ["beige", "wall mounted"],
+      "relations": {}
+    },
+    "1006": {
+      "name": "window",
+      "x": 500,
+      "y": 200,
+      "w": 800,
+      "h": 400,
+      "attributes": ["open", "wooden frame"],
+      "relations": {
+        "2003": {
+          "name": "showing",
+          "object": "1007"
+        }
+      }
+    },
+    "1007": {
+      "name": "trees",
+      "x": 500,
+      "y": 250,
+      "w": 400,
+      "h": 350,
+      "attributes": ["green"],
+      "relations": {}
+    }
+  }
+}

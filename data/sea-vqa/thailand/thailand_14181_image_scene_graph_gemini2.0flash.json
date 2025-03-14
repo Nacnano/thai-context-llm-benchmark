@@ -1,0 +1,142 @@
+{
+  "height": 1024,
+  "location": "indoors",
+  "objects": {
+    "1000001": {
+      "attributes": [],
+      "h": 1024,
+      "name": "stage",
+      "relations": [],
+      "w": 768,
+      "x": 0,
+      "y": 0
+    },
+    "1000002": {
+      "attributes": [],
+      "h": 900,
+      "name": "dancer",
+      "relations": [
+        {
+          "name": "performing on",
+          "object": "1000001"
+        }
+      ],
+      "w": 500,
+      "x": 100,
+      "y": 100
+    },
+    "1000003": {
+      "attributes": [],
+      "h": 300,
+      "name": "costume",
+      "relations": [
+        {
+          "name": "worn by",
+          "object": "1000002"
+        }
+      ],
+      "w": 300,
+      "x": 200,
+      "y": 400
+    },
+    "1000004": {
+      "attributes": [],
+      "h": 200,
+      "name": "headdress",
+      "relations": [
+        {
+          "name": "worn by",
+          "object": "1000002"
+        }
+      ],
+      "w": 200,
+      "x": 250,
+      "y": 150
+    },
+    "1000005": {
+      "attributes": [],
+      "h": 100,
+      "name": "fingernails",
+      "relations": [
+        {
+          "name": "worn by",
+          "object": "1000002"
+        }
+      ],
+      "w": 100,
+      "x": 100,
+      "y": 200
+    },
+    "1000006": {
+      "attributes": [],
+      "h": 100,
+      "name": "fingernails",
+      "relations": [
+        {
+          "name": "worn by",
+          "object": "1000002"
+        }
+      ],
+      "w": 100,
+      "x": 350,
+      "y": 500
+    },
+    "1000007": {
+      "attributes": [],
+      "h": 100,
+      "name": "bracelets",
+      "relations": [
+        {
+          "name": "worn by",
+          "object": "1000002"
+        }
+      ],
+      "w": 100,
+      "x": 150,
+      "y": 300
+    },
+    "1000008": {
+      "attributes": [],
+      "h": 100,
+      "name": "bracelets",
+      "relations": [
+        {
+          "name": "worn by",
+          "object": "1000002"
+        }
+      ],
+      "w": 100,
+      "x": 400,
+      "y": 600
+    },
+    "1000009": {
+      "attributes": [],
+      "h": 100,
+      "name": "smoke",
+      "relations": [
+        {
+          "name": "in",
+          "object": "1000001"
+        }
+      ],
+      "w": 768,
+      "x": 0,
+      "y": 0
+    },
+    "1000010": {
+      "attributes": [],
+      "h": 100,
+      "name": "spotlight",
+      "relations": [
+        {
+          "name": "on",
+          "object": "1000002"
+        }
+      ],
+      "w": 200,
+      "x": 250,
+      "y": 100
+    }
+  },
+  "width": 768
+}

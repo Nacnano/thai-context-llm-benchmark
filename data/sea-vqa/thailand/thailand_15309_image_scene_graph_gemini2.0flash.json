@@ -1,0 +1,170 @@
+{
+  "height": 683,
+  "location": "outdoors",
+  "objects": {
+    "1000001": {
+      "attributes": [],
+      "h": 683,
+      "name": "building",
+      "relations": [],
+      "w": 375,
+      "x": 0,
+      "y": 0
+    },
+    "1000002": {
+      "attributes": [],
+      "h": 300,
+      "name": "people",
+      "relations": [
+        {
+          "name": "in front of",
+          "object": "1000001"
+        }
+      ],
+      "w": 375,
+      "x": 0,
+      "y": 383
+    },
+    "1000003": {
+      "attributes": [],
+      "h": 100,
+      "name": "offerings",
+      "relations": [
+        {
+          "name": "in front of",
+          "object": "1000002"
+        }
+      ],
+      "w": 100,
+      "x": 250,
+      "y": 583
+    },
+    "1000004": {
+      "attributes": [],
+      "h": 100,
+      "name": "columns",
+      "relations": [
+        {
+          "name": "part of",
+          "object": "1000001"
+        }
+      ],
+      "w": 50,
+      "x": 0,
+      "y": 300
+    },
+    "1000005": {
+      "attributes": [],
+      "h": 100,
+      "name": "columns",
+      "relations": [
+        {
+          "name": "part of",
+          "object": "1000001"
+        }
+      ],
+      "w": 50,
+      "x": 325,
+      "y": 300
+    },
+    "1000006": {
+      "attributes": [],
+      "h": 50,
+      "name": "roof",
+      "relations": [
+        {
+          "name": "part of",
+          "object": "1000001"
+        }
+      ],
+      "w": 375,
+      "x": 0,
+      "y": 0
+    },
+    "1000007": {
+      "attributes": [],
+      "h": 50,
+      "name": "decorations",
+      "relations": [
+        {
+          "name": "on",
+          "object": "1000001"
+        }
+      ],
+      "w": 100,
+      "x": 0,
+      "y": 250
+    },
+    "1000008": {
+      "attributes": [],
+      "h": 50,
+      "name": "decorations",
+      "relations": [
+        {
+          "name": "on",
+          "object": "1000001"
+        }
+      ],
+      "w": 100,
+      "x": 275,
+      "y": 250
+    },
+    "1000009": {
+      "attributes": [],
+      "h": 50,
+      "name": "trees",
+      "relations": [
+        {
+          "name": "behind",
+          "object": "1000001"
+        }
+      ],
+      "w": 100,
+      "x": 0,
+      "y": 0
+    },
+    "1000010": {
+      "attributes": [],
+      "h": 50,
+      "name": "trees",
+      "relations": [
+        {
+          "name": "behind",
+          "object": "1000001"
+        }
+      ],
+      "w": 100,
+      "x": 275,
+      "y": 0
+    },
+    "1000011": {
+      "attributes": [],
+      "h": 100,
+      "name": "wall",
+      "relations": [
+        {
+          "name": "part of",
+          "object": "1000001"
+        }
+      ],
+      "w": 375,
+      "x": 0,
+      "y": 283
+    },
+    "1000012": {
+      "attributes": [],
+      "h": 50,
+      "name": "wires",
+      "relations": [
+        {
+          "name": "in front of",
+          "object": "1000011"
+        }
+      ],
+      "w": 375,
+      "x": 0,
+      "y": 333
+    }
+  },
+  "width": 375
+}

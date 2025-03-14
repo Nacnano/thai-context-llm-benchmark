@@ -1,0 +1,75 @@
+{
+  "987654": {
+    "width": 768,
+    "height": 1102,
+    "location": "stage",
+    "weather": "indoor",
+    "objects": {
+      "1001": {
+        "name": "performer",
+        "x": 300,
+        "y": 400,
+        "w": 400,
+        "h": 700,
+        "attributes": [
+          "elderly",
+          "colorful costume",
+          "traditional headdress",
+          "long fingernails"
+        ],
+        "relations": {
+          "2001": {
+            "name": "wearing",
+            "object": "1002"
+          },
+          "2002": {
+            "name": "wearing",
+            "object": "1003"
+          }
+        }
+      },
+      "1002": {
+        "name": "headdress",
+        "x": 350,
+        "y": 100,
+        "w": 250,
+        "h": 200,
+        "attributes": ["golden", "ornate", "tall"],
+        "relations": {
+          "2003": {
+            "name": "on",
+            "object": "1001"
+          }
+        }
+      },
+      "1003": {
+        "name": "costume",
+        "x": 280,
+        "y": 500,
+        "w": 450,
+        "h": 600,
+        "attributes": ["beaded", "multicolored", "traditional"],
+        "relations": {
+          "2004": {
+            "name": "worn by",
+            "object": "1001"
+          }
+        }
+      },
+      "1004": {
+        "name": "fingernails",
+        "x": 320,
+        "y": 450,
+        "w": 150,
+        "h": 200,
+        "attributes": ["long", "curved", "decorated"],
+        "relations": {
+          "2005": {
+            "name": "worn by",
+            "object": "1001"
+          }
+        }
+      }
+    }
+  }
+}

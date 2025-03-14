@@ -1,0 +1,202 @@
+{
+  "height": 768,
+  "width": 1024,
+  "location": "temple",
+  "objects": {
+    "1001": {
+      "name": "temple_building",
+      "attributes": ["decorated", "stone"],
+      "x": 512,
+      "y": 300,
+      "w": 600,
+      "h": 600,
+      "relations": []
+    },
+    "1002": {
+      "name": "people",
+      "attributes": ["sitting", "praying"],
+      "x": 512,
+      "y": 550,
+      "w": 800,
+      "h": 300,
+      "relations": [
+        {
+          "name": "in_front_of",
+          "object": "1001"
+        }
+      ]
+    },
+    "1003": {
+      "name": "columns",
+      "attributes": ["pink", "wooden"],
+      "x": 700,
+      "y": 384,
+      "w": 60,
+      "h": 600,
+      "relations": [
+        {
+          "name": "part_of",
+          "object": "1001"
+        }
+      ]
+    },
+    "1004": {
+      "name": "string_decorations",
+      "attributes": ["white", "hanging"],
+      "x": 600,
+      "y": 400,
+      "w": 400,
+      "h": 200,
+      "relations": [
+        {
+          "name": "between",
+          "object": "1003"
+        }
+      ]
+    },
+    "1005": {
+      "name": "stone_wall",
+      "attributes": ["beige", "carved"],
+      "x": 120,
+      "y": 500,
+      "w": 240,
+      "h": 600,
+      "relations": [
+        {
+          "name": "left_of",
+          "object": "1002"
+        }
+      ]
+    },
+    "1006": {
+      "name": "decorative_pillar",
+      "attributes": ["ornate", "carved"],
+      "x": 80,
+      "y": 200,
+      "w": 100,
+      "h": 400,
+      "relations": [
+        {
+          "name": "part_of",
+          "object": "1005"
+        }
+      ]
+    },
+    "1007": {
+      "name": "women",
+      "attributes": ["colorful_clothes", "traditional"],
+      "x": 450,
+      "y": 550,
+      "w": 450,
+      "h": 250,
+      "relations": [
+        {
+          "name": "part_of",
+          "object": "1002"
+        }
+      ]
+    },
+    "1008": {
+      "name": "mats",
+      "attributes": ["orange", "woven"],
+      "x": 500,
+      "y": 600,
+      "w": 500,
+      "h": 150,
+      "relations": [
+        {
+          "name": "under",
+          "object": "1007"
+        }
+      ]
+    },
+    "1009": {
+      "name": "offering_items",
+      "attributes": ["small", "ritual"],
+      "x": 550,
+      "y": 580,
+      "w": 300,
+      "h": 100,
+      "relations": [
+        {
+          "name": "in_front_of",
+          "object": "1007"
+        }
+      ]
+    },
+    "1010": {
+      "name": "water_bottles",
+      "attributes": ["plastic", "clear"],
+      "x": 400,
+      "y": 620,
+      "w": 50,
+      "h": 80,
+      "relations": [
+        {
+          "name": "near",
+          "object": "1007"
+        }
+      ]
+    },
+    "1011": {
+      "name": "roof",
+      "attributes": ["traditional", "overhanging"],
+      "x": 512,
+      "y": 100,
+      "w": 600,
+      "h": 120,
+      "relations": [
+        {
+          "name": "above",
+          "object": "1001"
+        }
+      ]
+    },
+    "1012": {
+      "name": "prayer_strings",
+      "attributes": ["white", "hanging"],
+      "x": 600,
+      "y": 500,
+      "w": 400,
+      "h": 200,
+      "relations": [
+        {
+          "name": "between",
+          "object": "1002"
+        },
+        {
+          "name": "attached_to",
+          "object": "1004"
+        }
+      ]
+    },
+    "1013": {
+      "name": "decorative_flags",
+      "attributes": ["colorful", "triangular"],
+      "x": 350,
+      "y": 180,
+      "w": 200,
+      "h": 60,
+      "relations": [
+        {
+          "name": "above",
+          "object": "1001"
+        }
+      ]
+    },
+    "1014": {
+      "name": "trees",
+      "attributes": ["green", "tall"],
+      "x": 150,
+      "y": 120,
+      "w": 100,
+      "h": 200,
+      "relations": [
+        {
+          "name": "behind",
+          "object": "1001"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "therapy_session": {
+    "width": 640,
+    "height": 480,
+    "location": "therapy room",
+    "weather": "none",
+    "objects": {
+      "person1": {
+        "name": "patient",
+        "x": 320,
+        "y": 350,
+        "w": 220,
+        "h": 230,
+        "attributes": [
+          "seated",
+          "male",
+          "white shirt",
+          "dark pants",
+          "barefoot"
+        ],
+        "relations": {
+          "rel1": {
+            "name": "on",
+            "object": "treatment_mat"
+          },
+          "rel2": {
+            "name": "receiving treatment from",
+            "object": "person2"
+          }
+        }
+      },
+      "person2": {
+        "name": "therapist",
+        "x": 420,
+        "y": 300,
+        "w": 180,
+        "h": 250,
+        "attributes": [
+          "standing",
+          "male",
+          "light purple uniform",
+          "sunglasses",
+          "dark pants"
+        ],
+        "relations": {
+          "rel3": {
+            "name": "treating",
+            "object": "person1"
+          },
+          "rel4": {
+            "name": "touching",
+            "object": "person1_shoulder"
+          }
+        }
+      },
+      "treatment_mat": {
+        "name": "mat",
+        "x": 300,
+        "y": 420,
+        "w": 300,
+        "h": 100,
+        "attributes": ["blue", "padded"],
+        "relations": {
+          "rel5": {
+            "name": "supporting",
+            "object": "person1"
+          }
+        }
+      },
+      "treatment_table": {
+        "name": "table",
+        "x": 500,
+        "y": 350,
+        "w": 150,
+        "h": 120,
+        "attributes": ["black", "padded"],
+        "relations": {
+          "rel6": {
+            "name": "near",
+            "object": "person1"
+          }
+        }
+      },
+      "ceiling_fan": {
+        "name": "fan",
+        "x": 320,
+        "y": 80,
+        "w": 120,
+        "h": 80,
+        "attributes": ["white", "ceiling mounted"],
+        "relations": {
+          "rel7": {
+            "name": "above",
+            "object": "room"
+          }
+        }
+      },
+      "windows": {
+        "name": "windows",
+        "x": 320,
+        "y": 180,
+        "w": 280,
+        "h": 140,
+        "attributes": ["wooden frame", "louvered"],
+        "relations": {
+          "rel8": {
+            "name": "on",
+            "object": "walls"
+          },
+          "rel9": {
+            "name": "showing",
+            "object": "greenery"
+          }
+        }
+      },
+      "walls": {
+        "name": "walls",
+        "x": 320,
+        "y": 240,
+        "w": 640,
+        "h": 480,
+        "attributes": ["light green", "tiled floor"],
+        "relations": {}
+      }
+    }
+  }
+}

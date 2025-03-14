@@ -1,0 +1,150 @@
+{
+  "7589632": {
+    "width": 1200,
+    "height": 800,
+    "location": "outdoor festival",
+    "weather": "sunny",
+    "objects": {
+      "001": {
+        "name": "buddha statue",
+        "x": 600,
+        "y": 350,
+        "w": 150,
+        "h": 200,
+        "attributes": ["golden", "ornate", "central"],
+        "relations": {
+          "r001": {
+            "name": "carried by",
+            "object": "002"
+          },
+          "r002": {
+            "name": "surrounded by",
+            "object": "003"
+          }
+        }
+      },
+      "002": {
+        "name": "crowd",
+        "x": 600,
+        "y": 500,
+        "w": 1100,
+        "h": 600,
+        "attributes": ["dense", "celebratory", "wet"],
+        "relations": {
+          "r003": {
+            "name": "carrying",
+            "object": "001"
+          },
+          "r004": {
+            "name": "holding",
+            "object": "004"
+          },
+          "r005": {
+            "name": "participating in",
+            "object": "008"
+          }
+        }
+      },
+      "003": {
+        "name": "hands",
+        "x": 500,
+        "y": 450,
+        "w": 800,
+        "h": 200,
+        "attributes": ["raised", "reaching", "numerous"],
+        "relations": {
+          "r006": {
+            "name": "part of",
+            "object": "002"
+          },
+          "r007": {
+            "name": "reaching for",
+            "object": "001"
+          }
+        }
+      },
+      "004": {
+        "name": "water containers",
+        "x": 700,
+        "y": 500,
+        "w": 400,
+        "h": 150,
+        "attributes": ["colorful", "plastic", "various"],
+        "relations": {
+          "r008": {
+            "name": "held by",
+            "object": "002"
+          },
+          "r009": {
+            "name": "used for",
+            "object": "005"
+          }
+        }
+      },
+      "005": {
+        "name": "water spray",
+        "x": 800,
+        "y": 300,
+        "w": 300,
+        "h": 200,
+        "attributes": ["splashing", "celebratory", "abundant"],
+        "relations": {
+          "r010": {
+            "name": "coming from",
+            "object": "004"
+          },
+          "r011": {
+            "name": "part of",
+            "object": "008"
+          }
+        }
+      },
+      "006": {
+        "name": "colorful clothing",
+        "x": 600,
+        "y": 550,
+        "w": 900,
+        "h": 300,
+        "attributes": ["wet", "festive", "diverse"],
+        "relations": {
+          "r012": {
+            "name": "worn by",
+            "object": "002"
+          }
+        }
+      },
+      "007": {
+        "name": "hats",
+        "x": 600,
+        "y": 250,
+        "w": 500,
+        "h": 100,
+        "attributes": ["various", "protective", "casual"],
+        "relations": {
+          "r013": {
+            "name": "worn by",
+            "object": "002"
+          }
+        }
+      },
+      "008": {
+        "name": "water festival",
+        "x": 600,
+        "y": 400,
+        "w": 1200,
+        "h": 800,
+        "attributes": ["celebratory", "cultural", "buddhist"],
+        "relations": {
+          "r014": {
+            "name": "features",
+            "object": "001"
+          },
+          "r015": {
+            "name": "involves",
+            "object": "005"
+          }
+        }
+      }
+    }
+  }
+}
