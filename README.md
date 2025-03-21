@@ -36,7 +36,7 @@
 - 21/2/2025:
   - Done: Read visual genome paper, designed framework for image annotation using tools (VIA, Bounding Box, etc.), combined the annotations (object, attribute, realtionship, region, QA pair, canonicalization)
   - TODO: Try generating relationships between objects using LLMs (just to test how good it is)
-- 13/3/2025:
+- 14/3/2025:
   - Done : Generated image scene graphs from LLMs
     - GPT 4o : weird attributes (use verb as atrributes)
     - Sonnet 3.7 : detailed attributes (adjectives) and relations
@@ -45,6 +45,14 @@
   - Todo :
     - Generate Thai image scene graph with text enrichment using SEA VL (https://huggingface.co/datasets/SEACrowd/sea-vl_crowdsourced)
     - Plot the bounding box from the image scene graph data (+ maybe try scaling a bit)
+- 21/3/2025:
+  - Done : Generated various data using the Thai language.
+    - Attempted "more in detail" reply => Got more detail but hallucinate after too many tries
+    - Gemini is better than Claude and GPT-4o but all still fail in some contexts
+    - Context enrichments from SEA-VL are useless in most cases but helpful in some very niche photos (very few)
+  - Todo :
+    - Implement pipeline for generating image scene graphs from list of images
+    - Plot bounding box from generated image scene graph
 
 ## Prompts
 
