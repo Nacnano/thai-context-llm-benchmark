@@ -1,0 +1,100 @@
+{
+  "first": {
+    "width": 640,
+    "height": 480,
+    "location": "ชายหาด",
+    "weather": "แดด",
+    "objects": {
+      "sand_sculpture": {
+        "name": "ประติมากรรมทราย",
+        "x": 320,
+        "y": 240,
+        "w": 640,
+        "h": 480,
+        "attributes": ["รูปร่างผู้หญิง", "นอน"],
+        "relations": {
+          "written_text": {
+            "name": "เขียน",
+            "object": "text_i_love_phuket"
+          }
+        }
+      },
+      "text_i_love_phuket": {
+        "name": "ข้อความ 'I ❤️ PHUKET'",
+        "x": 320,
+        "y": 400,
+        "w": 400,
+        "h": 80,
+        "attributes": ["เขียนบนทราย"],
+        "relations": {
+          "near": {
+            "name": "ใกล้",
+            "object": "sand_sculpture"
+          }
+        }
+      }
+    }
+  },
+  "second": {
+    "width": 640,
+    "height": 480,
+    "location": "ชายหาด",
+    "weather": "แดดจัด",
+    "objects": {
+      "sand_sculpture": {
+        "name": "รูปปั้นทราย",
+        "x": 320,
+        "y": 240,
+        "w": 640,
+        "h": 480,
+        "attributes": ["รูปร่างคล้ายผู้หญิง", "นอนคว่ำ", "ทำจากทราย"],
+        "relations": {
+          "near": {
+            "name": "อยู่ใกล้",
+            "object": "sand"
+          },
+          "above": {
+            "name": "อยู่เหนือ",
+            "object": "text_i_love_phuket"
+          }
+        }
+      },
+      "sand": {
+        "name": "ทราย",
+        "x": 320,
+        "y": 240,
+        "w": 640,
+        "h": 480,
+        "attributes": ["สีน้ำตาลอ่อน", "ละเอียด"],
+        "relations": {
+          "support": {
+            "name": "รองรับ",
+            "object": "sand_sculpture"
+          },
+          "contains": {
+            "name": "ประกอบด้วย",
+            "object": "text_i_love_phuket"
+          }
+        }
+      },
+      "text_i_love_phuket": {
+        "name": "ข้อความ 'I ❤️ PHUKET' สลักบนทราย",
+        "x": 320,
+        "y": 400,
+        "w": 400,
+        "h": 80,
+        "attributes": ["ตัวอักษรสลัก", "อ่านได้ว่า 'I ❤️ PHUKET'"],
+        "relations": {
+          "below": {
+            "name": "อยู่ใต้",
+            "object": "sand_sculpture"
+          },
+          "part_of": {
+            "name": "เป็นส่วนหนึ่งของ",
+            "object": "sand"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,303 @@
+{
+  "first": {
+    "width": 1080,
+    "height": 1440,
+    "location": "ร้านอาหารในกรุงเทพฯ",
+    "weather": "ไม่มี",
+    "objects": {
+      "1": {
+        "name": "ก๋วยเตี๋ยวหมู",
+        "x": 540,
+        "y": 1050,
+        "w": 400,
+        "h": 300,
+        "attributes": ["น้ำซุปสีน้ำตาล", "หมูชิ้น", "ลูกชิ้นหมู", "ผักชี"],
+        "relations": {
+          "2": {
+            "name": "มี",
+            "object": "ช้อน"
+          },
+          "3": {
+            "name": "มี",
+            "object": "ตะเกียบ"
+          }
+        }
+      },
+      "2": {
+        "name": "ช้อน",
+        "x": 600,
+        "y": 950,
+        "w": 100,
+        "h": 100,
+        "attributes": ["สแตนเลส"],
+        "relations": {
+          "1": {
+            "name": "อยู่ใน",
+            "object": "ก๋วยเตี๋ยวหมู"
+          }
+        }
+      },
+      "3": {
+        "name": "ตะเกียบ",
+        "x": 800,
+        "y": 1150,
+        "w": 200,
+        "h": 50,
+        "attributes": ["ไม้"],
+        "relations": {
+          "1": {
+            "name": "วางอยู่ข้าง",
+            "object": "ก๋วยเตี๋ยวหมู"
+          }
+        }
+      },
+      "4": {
+        "name": "ชาไทยเย็น",
+        "x": 540,
+        "y": 300,
+        "w": 300,
+        "h": 400,
+        "attributes": ["สีส้ม", "น้ำแข็ง"],
+        "relations": {
+          "5": {
+            "name": "มี",
+            "object": "หลอด"
+          }
+        }
+      },
+      "5": {
+        "name": "หลอด",
+        "x": 600,
+        "y": 350,
+        "w": 50,
+        "h": 150,
+        "attributes": ["สีฟ้า"],
+        "relations": {
+          "4": {
+            "name": "อยู่ใน",
+            "object": "ชาไทยเย็น"
+          }
+        }
+      },
+      "6": {
+        "name": "โต๊ะ",
+        "x": 540,
+        "y": 1000,
+        "w": 1080,
+        "h": 1440,
+        "attributes": ["สีขาว"],
+        "relations": {
+          "1": {
+            "name": "วางอยู่บน",
+            "object": "ก๋วยเตี๋ยวหมู"
+          },
+          "4": {
+            "name": "วางอยู่บน",
+            "object": "ชาไทยเย็น"
+          }
+        }
+      },
+      "7": {
+        "name": "พัดลม",
+        "x": 100,
+        "y": 600,
+        "w": 200,
+        "h": 200,
+        "attributes": ["สีเงิน"],
+        "relations": {}
+      },
+      "8": {
+        "name": "ตู้เย็น",
+        "x": 300,
+        "y": 500,
+        "w": 150,
+        "h": 250,
+        "attributes": ["สีฟ้า"],
+        "relations": {}
+      },
+      "9": {
+        "name": "คน",
+        "x": 100,
+        "y": 1200,
+        "w": 200,
+        "h": 200,
+        "attributes": ["สวมเสื้อสีเทา"],
+        "relations": {}
+      },
+      "10": {
+        "name": "รถจักรยานยนต์",
+        "x": 50,
+        "y": 1300,
+        "w": 150,
+        "h": 100,
+        "attributes": ["สีแดง"],
+        "relations": {}
+      }
+    }
+  },
+  "second": {
+    "width": 1080,
+    "height": 1440,
+    "location": "ร้านอาหารริมทางในกรุงเทพฯ (Rān ʻāhān rim thāng nai Krūngthēp)",
+    "weather": "ไม่มี (Mâi mī)",
+    "objects": {
+      "1": {
+        "name": "ก๋วยเตี๋ยวหมูน้ำตก (Kǔay tiǎo mū nám tòk)",
+        "x": 540,
+        "y": 1050,
+        "w": 400,
+        "h": 300,
+        "attributes": [
+          "น้ำซุปสีน้ำตาลเข้ม (Nám súp sǐ nám tān khêm)",
+          "เส้นก๋วยเตี๋ยวเล็ก (Sên kǔay tiǎo lék)",
+          "หมูชิ้น (Mū chín)",
+          "ลูกชิ้นหมู (Lûk chín mū)",
+          "ผักชี (Phàk chī)",
+          "ถั่วงอก (Thào ngɔ̀k)",
+          "กระเทียมเจียว (Kràthiām jiāo)"
+        ],
+        "relations": {
+          "2": {
+            "name": "มี (Mī)",
+            "object": "ช้อนสแตนเลส (Chɔ́ɔn sataēnlɛ́t)"
+          },
+          "3": {
+            "name": "มี (Mī)",
+            "object": "ตะเกียบไม้ (Tàkìap máai)"
+          },
+          "6": {
+            "name": "วางอยู่บน (Wāng yòo bon)",
+            "object": "โต๊ะ (Tó)"
+          }
+        }
+      },
+      "2": {
+        "name": "ช้อนสแตนเลส (Chɔ́ɔn sataēnlɛ́t)",
+        "x": 600,
+        "y": 950,
+        "w": 100,
+        "h": 100,
+        "attributes": ["สแตนเลส (Sataēnlɛ́t)", "เงา (Ngao)"],
+        "relations": {
+          "1": {
+            "name": "อยู่ใน (Yòo nai)",
+            "object": "ก๋วยเตี๋ยวหมูน้ำตก (Kǔay tiǎo mū nám tòk)"
+          }
+        }
+      },
+      "3": {
+        "name": "ตะเกียบไม้ (Tàkìap máai)",
+        "x": 800,
+        "y": 1150,
+        "w": 200,
+        "h": 50,
+        "attributes": ["ไม้ (Máai)", "สีน้ำตาล (Sǐ nám tān)"],
+        "relations": {
+          "1": {
+            "name": "วางอยู่ข้าง (Wāng yòo khâng)",
+            "object": "ก๋วยเตี๋ยวหมูน้ำตก (Kǔay tiǎo mū nám tòk)"
+          },
+          "6": {
+            "name": "วางอยู่บน (Wāng yòo bon)",
+            "object": "โต๊ะ (Tó)"
+          }
+        }
+      },
+      "4": {
+        "name": "ชาไทยเย็น (Chā Thai yen)",
+        "x": 540,
+        "y": 300,
+        "w": 300,
+        "h": 400,
+        "attributes": [
+          "สีส้ม (Sǐ sôm)",
+          "น้ำแข็ง (Nám khǎeng)",
+          "แก้ว (Kâew)",
+          "นมข้น (Nom khôn)"
+        ],
+        "relations": {
+          "5": {
+            "name": "มี (Mī)",
+            "object": "หลอดพลาสติก (Lɔ̀ɔt phláttìk)"
+          },
+          "6": {
+            "name": "วางอยู่บน (Wāng yòo bon)",
+            "object": "โต๊ะ (Tó)"
+          }
+        }
+      },
+      "5": {
+        "name": "หลอดพลาสติก (Lɔ̀ɔt phláttìk)",
+        "x": 600,
+        "y": 350,
+        "w": 50,
+        "h": 150,
+        "attributes": ["พลาสติก (Phláttìk)", "สีฟ้า (Sǐ fá)"],
+        "relations": {
+          "4": {
+            "name": "อยู่ใน (Yòo nai)",
+            "object": "ชาไทยเย็น (Chā Thai yen)"
+          }
+        }
+      },
+      "6": {
+        "name": "โต๊ะ (Tó)",
+        "x": 540,
+        "y": 1000,
+        "w": 1080,
+        "h": 1440,
+        "attributes": ["สีขาว (Sǐ khǎao)", "พื้นผิวเรียบ ( Phéun phíu rîap)"],
+        "relations": {
+          "1": {
+            "name": "วางอยู่บน (Wāng yòo bon)",
+            "object": "ก๋วยเตี๋ยวหมูน้ำตก (Kǔay tiǎo mū nám tòk)"
+          },
+          "3": {
+            "name": "วางอยู่บน (Wāng yòo bon)",
+            "object": "ตะเกียบไม้ (Tàkìap máai)"
+          },
+          "4": {
+            "name": "วางอยู่บน (Wāng yòo bon)",
+            "object": "ชาไทยเย็น (Chā Thai yen)"
+          }
+        }
+      },
+      "7": {
+        "name": "พัดลม (Phát lom)",
+        "x": 100,
+        "y": 600,
+        "w": 200,
+        "h": 200,
+        "attributes": ["สีเงิน (Sǐ ngเงิน)", "ติดผนัง (Tìt phǎnǎng)"],
+        "relations": {}
+      },
+      "8": {
+        "name": "ตู้เย็น (Tû yen)",
+        "x": 300,
+        "y": 500,
+        "w": 150,
+        "h": 250,
+        "attributes": ["สีฟ้า (Sǐ fá)", "สองประตู (Sɔ̌ɔng pratū)"],
+        "relations": {}
+      },
+      "9": {
+        "name": "คน (Khon)",
+        "x": 100,
+        "y": 1200,
+        "w": 200,
+        "h": 200,
+        "attributes": ["สวมเสื้อสีเทา (Sǔam sêua sǐ thao)", "ยืน (Yēun)"],
+        "relations": {}
+      },
+      "10": {
+        "name": "รถจักรยานยนต์ (Rót jàkkrayaan yon)",
+        "x": 50,
+        "y": 1300,
+        "w": 150,
+        "h": 100,
+        "attributes": ["สีแดง (Sǐ daeng)", "จอด (Jɔ̀ɔt)"],
+        "relations": {}
+      }
+    }
+  }
+}

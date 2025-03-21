@@ -1,0 +1,186 @@
+{
+  "width": 1024,
+  "height": 768,
+  "location": "วัด (wat - temple)",
+  "weather": "มีแดด (mee daet - sunny)",
+  "objects": {
+    "1": {
+      "name": "กลุ่มคน (klum khon - group of people)",
+      "x": 100,
+      "y": 200,
+      "w": 800,
+      "h": 500,
+      "attributes": [
+        "จำนวนมาก (jamnuan maak - many)",
+        "นั่ง (nang - sitting)",
+        "ทำพิธี (tham phitee - performing ceremony)"
+      ],
+      "relations": {
+        "2": {
+          "name": "อยู่หน้า (yu na - in front of)",
+          "object": "3"
+        },
+        "4": {
+          "name": "กำลังทำ (kamlang tham - doing)",
+          "object": "5"
+        }
+      }
+    },
+    "2": {
+      "name": "บน (bon - on)",
+      "x": 0,
+      "y": 0,
+      "w": 1024,
+      "h": 768,
+      "attributes": [],
+      "relations": {}
+    },
+    "3": {
+      "name": "อาคารวัด (ahkaan wat - temple building)",
+      "x": 400,
+      "y": 100,
+      "w": 600,
+      "h": 400,
+      "attributes": [
+        "มีเสา (mee sao - with pillars)",
+        "มีภาพจิตรกรรมฝาผนัง (mee phap jittrakam faa phanaang - with murals)"
+      ],
+      "relations": {}
+    },
+    "4": {
+      "name": "พิธีทางศาสนา (phitee thaang satsana - religious ceremony)",
+      "x": 500,
+      "y": 300,
+      "w": 400,
+      "h": 300,
+      "attributes": [
+        "ผูกด้าย (phuk daai - tying threads)",
+        "ถวายเครื่องบูชา (thawai khreuang buchaa - offering offerings)"
+      ],
+      "relations": {}
+    },
+    "5": {
+      "name": "เครื่องบูชา (khreuang buchaa - offerings)",
+      "x": 600,
+      "y": 400,
+      "w": 200,
+      "h": 200,
+      "attributes": [
+        "ดอกไม้ (dokmai - flowers)",
+        "ธูป (thup - incense)",
+        "ด้าย (daai - threads)"
+      ],
+      "relations": {}
+    },
+    "6": {
+      "name": "เสา (sao - pillars)",
+      "x": 450,
+      "y": 200,
+      "w": 50,
+      "h": 300,
+      "attributes": ["สีแดง (see daeng - red)", "ปูน (poon - concrete)"],
+      "relations": {
+        "7": {
+          "name": "อยู่ใกล้ (yu klai - near)",
+          "object": "1"
+        }
+      }
+    },
+    "7": {
+      "name": "คน (khon - people)",
+      "x": 150,
+      "y": 250,
+      "w": 700,
+      "h": 450,
+      "attributes": [
+        "สวมเสื้อผ้าพื้นเมือง (suam sueapha phuen mueang - wearing traditional clothes)"
+      ],
+      "relations": {}
+    },
+    "8": {
+      "name": "ต้นไม้ (ton mai - trees)",
+      "x": 10,
+      "y": 10,
+      "w": 200,
+      "h": 200,
+      "attributes": [
+        "สีเขียว (see khiao - green)",
+        "ด้านหลัง (dan lang - in the background)"
+      ],
+      "relations": {
+        "9": {
+          "name": "อยู่ใกล้ (yu klai - near)",
+          "object": "1"
+        }
+      }
+    },
+    "9": {
+      "name": "รั้ว (rua - fence)",
+      "x": 0,
+      "y": 500,
+      "w": 300,
+      "h": 200,
+      "attributes": ["ปูน (poon - concrete)", "เตี้ย (tia - low)"],
+      "relations": {}
+    },
+    "10": {
+      "name": "พื้น (pheun - floor)",
+      "x": 0,
+      "y": 600,
+      "w": 1024,
+      "h": 168,
+      "attributes": ["ปูน (poon - concrete)", "สีเทา (see thao - gray)"],
+      "relations": {
+        "1": {
+          "name": "อยู่บน (yu bon - on)",
+          "object": "1"
+        }
+      }
+    },
+    "11": {
+      "name": "หลังคา (langkha - roof)",
+      "x": 400,
+      "y": 0,
+      "w": 600,
+      "h": 100,
+      "attributes": [
+        "กระเบื้อง (krabeuang - tiles)",
+        "สีน้ำตาล (see namtan - brown)"
+      ],
+      "relations": {
+        "3": {
+          "name": "อยู่บน (yu bon - on)",
+          "object": "3"
+        }
+      }
+    },
+    "12": {
+      "name": "สายสินญ์ (sai sin - holy thread)",
+      "x": 600,
+      "y": 200,
+      "w": 300,
+      "h": 100,
+      "attributes": ["สีขาว (see khao - white)", "โยง (yong - stretched)"],
+      "relations": {
+        "1": {
+          "name": "อยู่เหนือ (yu nuea - above)",
+          "object": "1"
+        }
+      }
+    },
+    "13": {
+      "name": "ขวดน้ำ (khuat nam - water bottles)",
+      "x": 350,
+      "y": 600,
+      "w": 100,
+      "h": 100,
+      "attributes": ["พลาสติก (phlastik - plastic)", "ใส (sai - transparent)"],
+      "relations": {
+        "1": {
+          "name": "อยู่ใกล้ (yu klai - near)",
+          "object": "1"
+        }
+      }
+    }
+  }
+}
