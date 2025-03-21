@@ -52,6 +52,7 @@
     - Context enrichments from SEA-VL are useless in most cases but helpful in some very niche photos (very few)
   - Todo :
     - Implement pipeline for generating image scene graphs from list of images
+    - Implement pipeline for generating instructions
     - Plot bounding box from generated image scene graph
 
 ## Prompts
