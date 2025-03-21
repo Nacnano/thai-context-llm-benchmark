@@ -45,3 +45,38 @@
   - Todo :
     - Generate Thai image scene graph with text enrichment using SEA VL (https://github.com/SEACrowd/sea-vl-image-collection)
     - Plot the bounding box from the image scene graph data (+ maybe try scaling a bit)
+
+## Prompts
+
+- Image Scene Graph generation:
+
+```
+Generate a detailed image scene graph of this image using the Thai language based on this template
+
+{
+       "width": 640,
+       "height": 480,
+       "location": "living room",
+       "weather": none,
+       "objects": {
+           "271881": {
+               "name": "chair",
+               "x": 220,
+               "y": 310,
+               "w": 50,
+               "h": 80,
+               "attributes": ["brown", "wooden", "small"],
+               "relations": {
+                   "32452": {
+                       "name": "on",
+                       "object": "275312"
+                   },
+                   "32452": {
+                       "name": "near",
+                       "object": "279472"
+                   }
+               }
+           }
+       }
+   }
+```
