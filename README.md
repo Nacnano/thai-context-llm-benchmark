@@ -73,7 +73,7 @@
     - Tried implementing the pipeline for generating image scene graphs from plain images (use gemini api)
   - TODO :
     - Use image segmentation (ex. SAM) for segmenting the image before generating the image scene graph (because using the bounding box from the generated image scene graph is inaccurate)
-    - Implement the whole pipeline from the Photo to the Question
+    - Implement the rest of the automation pipeline from the Photo to the Question
 
 ## Prompts
 
