@@ -27,33 +27,53 @@
 #### Year 3 Semester 2
 
 - 15/1/2025: Try adding the in context prompt and split the question input into mini batch (10 questions per batch). Not really have any progress.
+
 - 24/1/2025:
+
   - Done: Finish correction and grading. Some of the grading and correction are still weird maybe because of the context parse in (bad reproducibility, criteria, memory, LLMs forgets very long context). Aj. Ekapol approved the results.
   - TODO: Read SEA-VQA paper to implement the Thai GQA question set and try the implementation
+
 - 31/1/2025:
+
   - Done: Review SEA-VQA paper. Got that some generated questions are not that accurate
   - TODO: implement some automatic segmentation on Thai-Cultural image (SAM, SAM2, etc.), read more about the visual genome paper
+
 - 21/2/2025:
+
   - Done: Read visual genome paper, designed framework for image annotation using tools (VIA, Bounding Box, etc.), combined the annotations (object, attribute, realtionship, region, QA pair, canonicalization)
   - TODO: Try generating relationships between objects using LLMs (just to test how good it is)
+
 - 14/3/2025:
+
   - Done : Generated image scene graphs from LLMs
     - GPT 4o : weird attributes (use verb as atrributes)
     - Sonnet 3.7 : detailed attributes (adjectives) and relations
     - Gemini 2.0 Flash : no additional attribute, too simple relations
     - Good overall positioning (both position and size)
-  - Todo :
+  - TODO :
     - Generate Thai image scene graph with text enrichment using SEA VL (https://huggingface.co/datasets/SEACrowd/sea-vl_crowdsourced)
     - Plot the bounding box from the image scene graph data (+ maybe try scaling a bit)
+
 - 21/3/2025:
+
   - Done : Generated various data using the Thai language.
     - Attempted "more in detail" reply => Got more detail but hallucinate after too many tries
     - Gemini is better than Claude and GPT-4o but all still fail in some contexts
     - Context enrichments from SEA-VL are useless in most cases but helpful in some very niche photos (very few)
-  - Todo :
+  - TODO :
     - Implement pipeline for generating image scene graphs from list of images
     - Implement pipeline for generating instructions
     - Plot bounding box from generated image scene graph
+
+- 28/3/2025: Earthquake (No update)
+
+- 4/4/2025:
+  - Done :
+    - Plotted the bounding boxes from the generated image scene graph. The result is not accurate at all
+    - Tried implementing the pipeline for generating image scene graphs from plain images (use gemini api)
+  - TODO :
+    - Use image segmentation (ex. SAM) for segmenting the image before generating the image scene graph (because using the bounding box from the generated image scene graph is inaccurate)
+    - Implement the whole pipeline from the Photo to the Question
 
 ## Prompts
 
