@@ -1,82 +1,67 @@
 {
-    "width": 640,
-    "height": 480,
-    "location": "เวที (stage)",
-    "weather": "ไม่มีข้อมูล (none)",
-    "objects": {
-        "456789": {
-            "name": "นักแสดง (dancer)",
-            "x": 120,
-            "y": 50,
-            "w": 150,
-            "h": 400,
-            "attributes": [
-                "ชาย (male)",
-                "ผอม (thin)",
-                "แต่งหน้า (makeup)"
-            ],
-            "relations": {
-                "789012": {
-                    "name": "สวม (wearing)",
-                    "object": "567890"
-                }
-            }
-        },
-        "987654": {
-            "name": "ผู้ช่วย (assistant)",
-            "x": 350,
-            "y": 150,
-            "w": 150,
-            "h": 300,
-            "attributes": [
-                "ชาย (male)",
-                "สวมเสื้อเชิ้ตสีขาว (wearing white shirt)",
-                "สวมกางเกงสีน้ำเงิน (wearing blue pants)"
-            ],
-            "relations": {
-                "234567": {
-                    "name": "นั่งอยู่บน (sitting on)",
-                    "object": "345678"
-                }
-            }
-        },
-        "567890": {
-            "name": "ชุดไทย (Thai costume)",
-            "x": 100,
-            "y": 200,
-            "w": 200,
-            "h": 250,
-            "attributes": [
-                "สีทอง (golden)",
-                "มีลวดลาย (patterned)",
-                "ผ้าไหม (silk)"
-            ],
-            "relations": {}
-        },
-        "345678": {
-            "name": "เก้าอี้ (chair)",
-            "x": 450,
-            "y": 300,
-            "w": 100,
-            "h": 150,
-            "attributes": [
-                "สีดำ (black)",
-                "มีขา (legged)",
-                "เตี้ย (low)"
-            ],
-            "relations": {}
-        },
-        "678901": {
-            "name": "โต๊ะ (table)",
-            "x": 0,
-            "y": 250,
-            "w": 400,
-            "h": 100,
-            "attributes": [
-                "สีแดง (red)",
-                "ตกแต่ง (decorated)"
-            ],
-            "relations": {}
+  "width": 640,
+  "height": 480,
+  "location": "เวที (stage)",
+  "weather": "ไม่มีข้อมูล (none)",
+  "objects": {
+    "456789": {
+      "name": "นักแสดง (dancer)",
+      "x": 120,
+      "y": 50,
+      "w": 150,
+      "h": 400,
+      "attributes": ["ชาย (male)", "ผอม (thin)", "แต่งหน้า (makeup)"],
+      "relations": {
+        "789012": {
+          "name": "สวม (wearing)",
+          "object": "567890"
         }
+      }
+    },
+    "987654": {
+      "name": "ผู้ช่วย (assistant)",
+      "x": 350,
+      "y": 150,
+      "w": 150,
+      "h": 300,
+      "attributes": [
+        "ชาย (male)",
+        "สวมเสื้อเชิ้ตสีขาว (wearing white shirt)",
+        "สวมกางเกงสีน้ำเงิน (wearing blue pants)"
+      ],
+      "relations": {
+        "234567": {
+          "name": "นั่งอยู่บน (sitting on)",
+          "object": "345678"
+        }
+      }
+    },
+    "567890": {
+      "name": "ชุดไทย (Thai costume)",
+      "x": 100,
+      "y": 200,
+      "w": 200,
+      "h": 250,
+      "attributes": ["สีทอง (golden)", "มีลวดลาย (patterned)", "ผ้าไหม (silk)"],
+      "relations": {}
+    },
+    "345678": {
+      "name": "เก้าอี้ (chair)",
+      "x": 450,
+      "y": 300,
+      "w": 100,
+      "h": 150,
+      "attributes": ["สีดำ (black)", "มีขา (legged)", "เตี้ย (low)"],
+      "relations": {}
+    },
+    "678901": {
+      "name": "โต๊ะ (table)",
+      "x": 0,
+      "y": 250,
+      "w": 400,
+      "h": 100,
+      "attributes": ["สีแดง (red)", "ตกแต่ง (decorated)"],
+      "relations": {}
     }
+  }
 }
