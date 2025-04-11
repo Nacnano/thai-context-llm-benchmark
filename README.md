@@ -74,6 +74,12 @@
   - TODO :
     - Use image segmentation (ex. SAM) for segmenting the image before generating the image scene graph (because using the bounding box from the generated image scene graph is inaccurate)
     - Implement the rest of the automation pipeline from the Photo to the Question
+- 11/4/2025:
+  - Done:
+    - Use SAM for finding segmentation for the bounding boxes of an image. The result is not accurate.
+  - TODO:
+    - Use some YOLO model to detect objects for finding the bounding boxes. Then use eye to validate the result (not automate).
+    - If the YOLO result is bad, then use SAM to handle those cases.
 
 ## Prompts
 
