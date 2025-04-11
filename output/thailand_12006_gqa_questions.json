@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Is the background green?",
+        "answer": "no",
+        "fullAnswer": "No, the background is black."
+    },
+    {
+        "question": "Is the bow silver?",
+        "answer": "no",
+        "fullAnswer": "No, the bow is gold."
+    },
+    {
+        "question": "Is there a woman on the stage?",
+        "answer": "no",
+        "fullAnswer": "No, there are only male actors."
+    },
+    {
+        "question": "Is the sword held by the actor silver?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the sword held by the actor is silver."
+    },
+    {
+        "question": "Is the background blue?",
+        "answer": "no",
+        "fullAnswer": "No, the background is black."
+    },
+    {
+        "question": "Are there trees on the backdrop?",
+        "answer": "yes",
+        "fullAnswer": "Yes, there are trees painted on the backdrop."
+    },
+    {
+        "question": "Is the actor wearing a red mask?",
+        "answer": "no",
+        "fullAnswer": "No, the actors are wearing thai outfits and headdresses."
+    },
+    {
+        "question": "Is the bow held by the actor?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the bow is held by the actor."
+    },
+    {
+        "question": "Is the sword gold?",
+        "answer": "no",
+        "fullAnswer": "No, the sword is silver."
+    },
+    {
+        "question": "Is there a horse on the stage?",
+        "answer": "no",
+        "fullAnswer": "No, there are no horses on the stage, only actors."
+    },
+    {
+        "question": "Are all the actors wearing thai outfits?",
+        "answer": "yes",
+        "fullAnswer": "Yes, all the actors are wearing thai outfits."
+    },
+    {
+        "question": "Is the sword being held above the actors head?",
+        "answer": "no",
+        "fullAnswer": "No, the actor holds the sword."
+    },
+    {
+        "question": "Is the weather snowy?",
+        "answer": "no",
+        "fullAnswer": "No, the weather is none."
+    },
+    {
+        "question": "Are the actors wearing blue outfits?",
+        "answer": "no",
+        "fullAnswer": "No, the actors are wearing thai outfits."
+    },
+    {
+        "question": "Is there a golden sword?",
+        "answer": "no",
+        "fullAnswer": "No, there is a silver sword."
+    },
+    {
+        "question": "Is the stage wet?",
+        "answer": "no",
+        "fullAnswer": "No, the weather is none."
+    },
+    {
+        "question": "Is the actor dancing on another man?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the actor is dancing on another man."
+    },
+    {
+        "question": "Is the sky behind the scene?",
+        "answer": "no",
+        "fullAnswer": "No, there is a black backdrop."
+    },
+    {
+        "question": "Is there an apple on the stage?",
+        "answer": "no",
+        "fullAnswer": "No, there is no apple on the stage."
+    },
+    {
+        "question": "Is the actor wearing a purple outfit?",
+        "answer": "no",
+        "fullAnswer": "No, the actors are wearing thai outfits."
+    }
+]

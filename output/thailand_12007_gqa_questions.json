@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Is the actress wearing a red dress?",
+        "answer": "no",
+        "fullAnswer": "No, the actress is wearing a golden Thai dress."
+    },
+    {
+        "question": "Is there a chariot in the scene?",
+        "answer": "yes",
+        "fullAnswer": "Yes, there is a golden decorated chariot."
+    },
+    {
+        "question": "Are the male actors kneeling?",
+        "answer": "yes",
+        "fullAnswer": "Yes, there are male actors kneeling."
+    },
+    {
+        "question": "Is the ground green?",
+        "answer": "no",
+        "fullAnswer": "No, the ground is black."
+    },
+    {
+        "question": "Is the umbrella made of silver?",
+        "answer": "no",
+        "fullAnswer": "No, the umbrella is golden with patterns."
+    },
+    {
+        "question": "Is the scene in a park?",
+        "answer": "no",
+        "fullAnswer": "No, the scene is on a stage."
+    },
+    {
+        "question": "Is the female actor behind the chariot?",
+        "answer": "no",
+        "fullAnswer": "No, the female actor is on the chariot."
+    },
+    {
+        "question": "Is it raining?",
+        "answer": "no",
+        "fullAnswer": "No, there is no rain."
+    },
+    {
+        "question": "Are there any cats in the scene?",
+        "answer": "no",
+        "fullAnswer": "No, there are no cats in the scene."
+    },
+    {
+        "question": "Is the male actor wearing a blue shirt?",
+        "answer": "no",
+        "fullAnswer": "No, the kneeling male actor is wearing a white suit."
+    },
+    {
+        "question": "Is the chariot being pulled by horses?",
+        "answer": "no",
+        "fullAnswer": "No, the chariot is being pulled by kneeling male actors."
+    },
+    {
+        "question": "Is the umbrella above the actress?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the golden patterned umbrella is above the actress."
+    },
+    {
+        "question": "Is there a male actor standing in front of the chariot?",
+        "answer": "no",
+        "fullAnswer": "No, a standing male actor is behind the chariot."
+    },
+    {
+        "question": "Is the background blurry?",
+        "answer": "no",
+        "fullAnswer": "No, the background is black."
+    },
+    {
+        "question": "Is the actress's dress blue?",
+        "answer": "no",
+        "fullAnswer": "No, the actress's dress is golden."
+    },
+    {
+        "question": "Is the chariot silver?",
+        "answer": "no",
+        "fullAnswer": "No, the chariot is golden."
+    },
+    {
+        "question": "Is the kneeling actor's shirt black?",
+        "answer": "no",
+        "fullAnswer": "No, the kneeling actor's shirt is white."
+    },
+    {
+        "question": "Are there any clouds in the sky?",
+        "answer": "no",
+        "fullAnswer": "No, there are no clouds in the sky."
+    },
+    {
+        "question": "Is the stage made of wood?",
+        "answer": "no",
+        "fullAnswer": "No, the stage is black."
+    },
+    {
+        "question": "Is the male actor behind the chariot wearing a simple shirt?",
+        "answer": "no",
+        "fullAnswer": "No, the male actor behind the chariot is wearing a colorful Ramakien outfit."
+    }
+]
