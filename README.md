@@ -80,6 +80,13 @@
   - TODO:
     - Use some YOLO model to detect objects for finding the bounding boxes. Then use eye to validate the result (not automate).
     - If the YOLO result is bad, then use SAM to handle those cases.
+- 18/4/2025:
+  - Done:
+    - Use YOLOv8 for doing object detection instead of SAM. The result is not accurate. It cannot find some specific Thai objects or small objects.
+  - TODO:
+    - Combine both SAM segmentation and YOLO bounding boxes to see if it is working or not.
+    - Combine everything (SAM+YOLO if possible but maybe too hard) into a pipeline
+    - Benchmark (use eyes) the generated questions (make sense mai?)
 
 ## Prompts
 
