@@ -88,6 +88,8 @@
     - Combine everything (SAM+YOLO if possible but maybe too hard) into a pipeline
     - Benchmark (use eyes) the generated questions (make sense mai?)
 
+Present after final exam (online/onsite)
+
 ## Prompts
 
 - Image Scene Graph generation:
