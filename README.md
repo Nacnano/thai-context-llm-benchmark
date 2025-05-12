@@ -87,6 +87,8 @@
     - Combine both SAM segmentation and YOLO bounding boxes to see if it is working or not.
     - Combine everything (SAM+YOLO if possible but maybe too hard) into a pipeline
     - Benchmark (use eyes) the generated questions (make sense mai?)
+- 12/05/2025 (After final exam):
+  - Slide
 
 Present after final exam (online/onsite)
 
