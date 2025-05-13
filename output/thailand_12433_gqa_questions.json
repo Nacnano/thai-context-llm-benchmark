@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Is the pillow patterned?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the pillow is patterned."
+    },
+    {
+        "question": "Is there a woman standing?",
+        "answer": "yes",
+        "fullAnswer": "Yes, there is a woman standing."
+    },
+    {
+        "question": "Is the door blue?",
+        "answer": "no",
+        "fullAnswer": "No, the door is brown."
+    },
+    {
+        "question": "Is the lying woman being massaged?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the lying woman is being massaged."
+    },
+    {
+        "question": "Is the room cold?",
+        "answer": "no",
+        "fullAnswer": "No, the weather is not mentioned in the scene graph."
+    },
+    {
+        "question": "Is the pillow rectangular?",
+        "answer": "no",
+        "fullAnswer": "I don't know"
+    },
+    {
+        "question": "Is the standing woman short?",
+        "answer": "no",
+        "fullAnswer": "I don't know"
+    },
+    {
+        "question": "Is the door made of metal?",
+        "answer": "no",
+        "fullAnswer": "No, the door is made of wood."
+    },
+    {
+        "question": "Is there a cat in the room?",
+        "answer": "no",
+        "fullAnswer": "No, there is no cat in the room."
+    },
+    {
+        "question": "Is the pillow green?",
+        "answer": "no",
+        "fullAnswer": "No, the pillow is golden."
+    },
+    {
+        "question": "Is the lying woman smiling?",
+        "answer": "no",
+        "fullAnswer": "I don't know"
+    },
+    {
+        "question": "Is the standing woman wearing shoes?",
+        "answer": "no",
+        "fullAnswer": "I don't know"
+    },
+    {
+        "question": "Is the door small?",
+        "answer": "no",
+        "fullAnswer": "I don't know"
+    },
+    {
+        "question": "Is there a window in the room?",
+        "answer": "no",
+        "fullAnswer": "No, there is no window in the room."
+    },
+    {
+        "question": "Is the pillow soft?",
+        "answer": "no",
+        "fullAnswer": "I don't know"
+    },
+    {
+        "question": "Is the standing woman sitting?",
+        "answer": "no",
+        "fullAnswer": "No, the woman is standing."
+    },
+    {
+        "question": "Is the door black?",
+        "answer": "no",
+        "fullAnswer": "No, the door is brown."
+    },
+    {
+        "question": "Is there a table in the room?",
+        "answer": "no",
+        "fullAnswer": "No, there is no table in the room."
+    },
+    {
+        "question": "Is the pillow round?",
+        "answer": "no",
+        "fullAnswer": "I don't know"
+    },
+    {
+        "question": "Is the lying woman awake?",
+        "answer": "no",
+        "fullAnswer": "I don't know"
+    }
+]

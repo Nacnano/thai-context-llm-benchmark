@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Is the dancer short?",
+        "answer": "no",
+        "fullAnswer": "No, the dancer is thin."
+    },
+    {
+        "question": "Is the costume white?",
+        "answer": "no",
+        "fullAnswer": "No, the costume is golden."
+    },
+    {
+        "question": "Is the assistant standing?",
+        "answer": "no",
+        "fullAnswer": "No, the assistant is sitting."
+    },
+    {
+        "question": "Is the stage rainy?",
+        "answer": "no",
+        "fullAnswer": "No, the weather is none."
+    },
+    {
+        "question": "Is the chair tall?",
+        "answer": "no",
+        "fullAnswer": "No, the chair is small."
+    },
+    {
+        "question": "Is the dancer wearing a white shirt?",
+        "answer": "no",
+        "fullAnswer": "No, the dancer is wearing a Thai costume."
+    },
+    {
+        "question": "Is the chair green?",
+        "answer": "no",
+        "fullAnswer": "No, the chair is black."
+    },
+    {
+        "question": "Is the costume short?",
+        "answer": "no",
+        "fullAnswer": "No, the costume is long."
+    },
+    {
+        "question": "Is the assistant wearing a blue shirt?",
+        "answer": "no",
+        "fullAnswer": "No, the assistant is wearing a white shirt."
+    },
+    {
+        "question": "Is the dancer fat?",
+        "answer": "no",
+        "fullAnswer": "No, the dancer is thin."
+    },
+    {
+        "question": "Is the assistant helping the dancer?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the assistant is helping the dancer with dressing."
+    },
+    {
+        "question": "Is the chair wooden?",
+        "answer": "no",
+        "fullAnswer": "No, the chair is black."
+    },
+    {
+        "question": "Is the costume simple?",
+        "answer": "no",
+        "fullAnswer": "No, the costume is elaborate."
+    },
+    {
+        "question": "Is the assistant old?",
+        "answer": "no",
+        "fullAnswer": "No, the scene graph doesn't provide information about the assistant's age."
+    },
+    {
+        "question": "Is the dancer sitting?",
+        "answer": "no",
+        "fullAnswer": "No, the dancer is standing."
+    },
+    {
+        "question": "Is there a table on the stage?",
+        "answer": "no",
+        "fullAnswer": "No, there is no table in the scene graph."
+    },
+    {
+        "question": "Is the chair red?",
+        "answer": "no",
+        "fullAnswer": "No, the chair is black."
+    },
+    {
+        "question": "Is the weather sunny?",
+        "answer": "no",
+        "fullAnswer": "No, the weather is none."
+    },
+    {
+        "question": "Is the dancer old?",
+        "answer": "no",
+        "fullAnswer": "No, the scene graph doesn't provide information about the dancer's age."
+    },
+    {
+        "question": "Is the assistant tall?",
+        "answer": "no",
+        "fullAnswer": "No, the scene graph doesn't provide information about the assistant's height."
+    }
+]

@@ -1,0 +1,98 @@
+{
+    "width": 640,
+    "height": 480,
+    "location": "วัด (Temple)",
+    "weather": "แดด (Sunny)",
+    "objects": {
+        "112233": {
+            "name": "พระพุทธรูป (Buddha statue)",
+            "x": 115,
+            "y": 45,
+            "w": 150,
+            "h": 300,
+            "attributes": [
+                "สีทอง (Golden)",
+                "ปางสมาธิ (Meditating posture)"
+            ],
+            "relations": {
+                "445566": {
+                    "name": "ประดับด้วย (Decorated with)",
+                    "object": "778899"
+                },
+                "445567": {
+                    "name": "ตั้งอยู่บน (Standing on)",
+                    "object": "334455"
+                }
+            }
+        },
+        "334455": {
+            "name": "แท่นบูชา (Altar)",
+            "x": 0,
+            "y": 270,
+            "w": 300,
+            "h": 200,
+            "attributes": [
+                "สีทอง (Golden)",
+                "ลวดลายไทย (Thai pattern)"
+            ],
+            "relations": {}
+        },
+        "778899": {
+            "name": "พวงมาลัย (Garland)",
+            "x": 160,
+            "y": 180,
+            "w": 70,
+            "h": 80,
+            "attributes": [
+                "สีขาว (White)",
+                "ดอกไม้ (Flowers)"
+            ],
+            "relations": {}
+        },
+        "990011": {
+            "name": "ผู้คน (People)",
+            "x": 250,
+            "y": 100,
+            "w": 400,
+            "h": 350,
+            "attributes": [
+                "กลุ่ม (Group)",
+                "ชาวเอเชีย (Asian)"
+            ],
+            "relations": {
+                "445568": {
+                    "name": "กำลังสรงน้ำ (Watering)",
+                    "object": "112233"
+                }
+            }
+        },
+        "556677": {
+            "name": "เด็กชาย (Boy)",
+            "x": 280,
+            "y": 290,
+            "w": 150,
+            "h": 180,
+            "attributes": [
+                "สวมเสื้อแดง (Wearing red shirt)"
+            ],
+            "relations": {
+                "445569": {
+                    "name": "อยู่ใน (Inside)",
+                    "object": "889900"
+                }
+            }
+        },
+        "889900": {
+            "name": "อ่าง (Jar)",
+            "x": 250,
+            "y": 330,
+            "w": 200,
+            "h": 150,
+            "attributes": [
+                "ดินเผา (Terracotta)",
+                "ลวดลาย (Patterned)"
+            ],
+            "relations": {}
+        }
+    }
+}

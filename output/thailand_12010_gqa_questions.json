@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Is the man wearing a blue shirt?",
+        "answer": "no",
+        "fullAnswer": "No, the man is wearing a white shirt."
+    },
+    {
+        "question": "Are the children wearing green shirts?",
+        "answer": "no",
+        "fullAnswer": "No, the children are wearing white shirts."
+    },
+    {
+        "question": "Is the ritual modern?",
+        "answer": "no",
+        "fullAnswer": "No, the ritual is traditional."
+    },
+    {
+        "question": "Are the head masks blue?",
+        "answer": "yes",
+        "fullAnswer": "Yes, some of the head masks are blue."
+    },
+    {
+        "question": "Is there a woman in a red dress?",
+        "answer": "no",
+        "fullAnswer": "No, there are children wearing red pants."
+    },
+    {
+        "question": "Are the children wearing black pants?",
+        "answer": "no",
+        "fullAnswer": "No, the children are wearing red pants."
+    },
+    {
+        "question": "Is the man young?",
+        "answer": "no",
+        "fullAnswer": "No, the man is elderly."
+    },
+    {
+        "question": "Is the ritual taking place indoors?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the ritual is taking place on a stage."
+    },
+    {
+        "question": "Are the head masks plain?",
+        "answer": "no",
+        "fullAnswer": "No, the head masks are decorated."
+    },
+    {
+        "question": "Are there any animals in the scene?",
+        "answer": "no",
+        "fullAnswer": "No, there are no animals in the scene."
+    },
+    {
+        "question": "Are the children watching television?",
+        "answer": "no",
+        "fullAnswer": "No, the children are watching a ritual."
+    },
+    {
+        "question": "Is the man giving a speech?",
+        "answer": "no",
+        "fullAnswer": "No, the man is participating in a ritual."
+    },
+    {
+        "question": "Are the children all wearing hats?",
+        "answer": "no",
+        "fullAnswer": "No, the children are not wearing hats."
+    },
+    {
+        "question": "Is the weather rainy?",
+        "answer": "no",
+        "fullAnswer": "No, the weather is not rainy. The weather is nonexistent."
+    },
+    {
+        "question": "Are the head masks new?",
+        "answer": "no",
+        "fullAnswer": "No, the head masks are traditional."
+    },
+    {
+        "question": "Is there a car in the background?",
+        "answer": "no",
+        "fullAnswer": "No, there is no car in the background."
+    },
+    {
+        "question": "Is the man Asian?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the man is Asian."
+    },
+    {
+        "question": "Is the location a park?",
+        "answer": "no",
+        "fullAnswer": "No, the location is a stage."
+    },
+    {
+        "question": "Are the children wearing blue pants?",
+        "answer": "no",
+        "fullAnswer": "No, the children are wearing red pants."
+    },
+    {
+        "question": "Is there a dog present?",
+        "answer": "no",
+        "fullAnswer": "No, there is no dog present."
+    }
+]

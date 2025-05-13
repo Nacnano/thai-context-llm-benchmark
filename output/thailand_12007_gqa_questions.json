@@ -1,102 +1,102 @@
 [
     {
-        "question": "Is the actress wearing a red dress?",
-        "answer": "no",
-        "fullAnswer": "No, the actress is wearing a golden Thai dress."
-    },
-    {
-        "question": "Is there a chariot in the scene?",
+        "question": "Is the actor on the chariot wearing a golden costume?",
         "answer": "yes",
-        "fullAnswer": "Yes, there is a golden decorated chariot."
+        "fullAnswer": "Yes, the actor on the chariot is wearing a golden costume."
     },
     {
-        "question": "Are the male actors kneeling?",
+        "question": "Is there an umbrella above the actor?",
         "answer": "yes",
-        "fullAnswer": "Yes, there are male actors kneeling."
+        "fullAnswer": "Yes, there is an umbrella above the actor."
     },
     {
-        "question": "Is the ground green?",
-        "answer": "no",
-        "fullAnswer": "No, the ground is black."
-    },
-    {
-        "question": "Is the umbrella made of silver?",
-        "answer": "no",
-        "fullAnswer": "No, the umbrella is golden with patterns."
-    },
-    {
-        "question": "Is the scene in a park?",
-        "answer": "no",
-        "fullAnswer": "No, the scene is on a stage."
-    },
-    {
-        "question": "Is the female actor behind the chariot?",
-        "answer": "no",
-        "fullAnswer": "No, the female actor is on the chariot."
-    },
-    {
-        "question": "Is it raining?",
-        "answer": "no",
-        "fullAnswer": "No, there is no rain."
-    },
-    {
-        "question": "Are there any cats in the scene?",
-        "answer": "no",
-        "fullAnswer": "No, there are no cats in the scene."
-    },
-    {
-        "question": "Is the male actor wearing a blue shirt?",
-        "answer": "no",
-        "fullAnswer": "No, the kneeling male actor is wearing a white suit."
-    },
-    {
-        "question": "Is the chariot being pulled by horses?",
-        "answer": "no",
-        "fullAnswer": "No, the chariot is being pulled by kneeling male actors."
-    },
-    {
-        "question": "Is the umbrella above the actress?",
-        "answer": "yes",
-        "fullAnswer": "Yes, the golden patterned umbrella is above the actress."
-    },
-    {
-        "question": "Is there a male actor standing in front of the chariot?",
-        "answer": "no",
-        "fullAnswer": "No, a standing male actor is behind the chariot."
-    },
-    {
-        "question": "Is the background blurry?",
-        "answer": "no",
-        "fullAnswer": "No, the background is black."
-    },
-    {
-        "question": "Is the actress's dress blue?",
-        "answer": "no",
-        "fullAnswer": "No, the actress's dress is golden."
-    },
-    {
-        "question": "Is the chariot silver?",
+        "question": "Is the chariot blue?",
         "answer": "no",
         "fullAnswer": "No, the chariot is golden."
     },
     {
-        "question": "Is the kneeling actor's shirt black?",
+        "question": "Are the actors holding the chariot standing?",
         "answer": "no",
-        "fullAnswer": "No, the kneeling actor's shirt is white."
+        "fullAnswer": "No, the actors holding the chariot are kneeling."
     },
     {
-        "question": "Are there any clouds in the sky?",
+        "question": "Is the stage wet?",
         "answer": "no",
-        "fullAnswer": "No, there are no clouds in the sky."
+        "fullAnswer": "No, the scene graph indicates the weather is 'ไม่มี' (none)."
     },
     {
-        "question": "Is the stage made of wood?",
+        "question": "Is the actor with the golden costume wearing a mask?",
         "answer": "no",
-        "fullAnswer": "No, the stage is black."
+        "fullAnswer": "No, the actor with the golden costume is not wearing a mask."
     },
     {
-        "question": "Is the male actor behind the chariot wearing a simple shirt?",
+        "question": "Are all actors wearing white costumes?",
         "answer": "no",
-        "fullAnswer": "No, the male actor behind the chariot is wearing a colorful Ramakien outfit."
+        "fullAnswer": "No, some actors are wearing golden costumes."
+    },
+    {
+        "question": "Is the umbrella silver?",
+        "answer": "no",
+        "fullAnswer": "No, the umbrella is golden."
+    },
+    {
+        "question": "Are there any animals on the stage?",
+        "answer": "no",
+        "fullAnswer": "No, there are no animals on the stage according to the scene graph."
+    },
+    {
+        "question": "Is the golden chariot decorated?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the golden chariot is decorated."
+    },
+    {
+        "question": "Is the actor standing on the chariot wearing a hat?",
+        "answer": "no",
+        "fullAnswer": "No, the scene graph does not mention that the actor is wearing a hat."
+    },
+    {
+        "question": "Are the actors holding the chariot wearing shoes?",
+        "answer": "no",
+        "fullAnswer": "No, it is not specified that they are wearing shoes."
+    },
+    {
+        "question": "Is there a horse on the chariot?",
+        "answer": "no",
+        "fullAnswer": "No, there is no horse mentioned in the scene graph."
+    },
+    {
+        "question": "Is the scene taking place indoors?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the scene is taking place on a stage."
+    },
+    {
+        "question": "Is the actor wearing a blue costume?",
+        "answer": "no",
+        "fullAnswer": "No, there is an actor wearing golden costume."
+    },
+    {
+        "question": "Is the actor wearing a head covering?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the 'นักแสดง (ยักษ์)' is wearing a head covering called 'หัวโขน'."
+    },
+    {
+        "question": "Are the actors holding the chariot wearing the same color?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the actors holding the chariot are both wearing white."
+    },
+    {
+        "question": "Is the chariot made of wood?",
+        "answer": "no",
+        "fullAnswer": "No, the chariot is golden and decorated."
+    },
+    {
+        "question": "Is the actor with head covering on the chariot?",
+        "answer": "no",
+        "fullAnswer": "No, the actor with head covering standing to the left from the chariot."
+    },
+    {
+        "question": "Is there an animal pulling the chariot?",
+        "answer": "no",
+        "fullAnswer": "No, it is not specified that any animal is pulling the chariot."
     }
 ]

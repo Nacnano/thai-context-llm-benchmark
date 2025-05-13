@@ -1,0 +1,108 @@
+{
+    "width": 640,
+    "height": 480,
+    "location": "กลางแจ้ง (outdoor)",
+    "weather": "ไม่มี (none)",
+    "objects": {
+        "112233": {
+            "name": "ระนาดเอก (ranat ek)",
+            "x": 100,
+            "y": 350,
+            "w": 150,
+            "h": 100,
+            "attributes": [
+                "ไม้ (wooden)",
+                "สีน้ำตาล (brown)"
+            ],
+            "relations": {
+                "112234": {
+                    "name": "อยู่บน (on)",
+                    "object": "112240"
+                }
+            }
+        },
+        "112235": {
+            "name": "ระนาดทุ้ม (ranat thum)",
+            "x": 300,
+            "y": 350,
+            "w": 150,
+            "h": 100,
+            "attributes": [
+                "ไม้ (wooden)",
+                "สีน้ำตาล (brown)"
+            ],
+            "relations": {
+                "112236": {
+                    "name": "อยู่บน (on)",
+                    "object": "112240"
+                }
+            }
+        },
+        "112237": {
+            "name": "ฆ้องวงใหญ่ (khong wong yai)",
+            "x": 450,
+            "y": 350,
+            "w": 100,
+            "h": 100,
+            "attributes": [
+                "ไม้ (wooden)",
+                "สีน้ำตาล (brown)"
+            ],
+            "relations": {
+                "112238": {
+                    "name": "อยู่บน (on)",
+                    "object": "112240"
+                }
+            }
+        },
+        "112239": {
+            "name": "กลอง (drum)",
+            "x": 550,
+            "y": 350,
+            "w": 80,
+            "h": 100,
+            "attributes": [
+                "ไม้ (wooden)",
+                "สีน้ำตาล (brown)"
+            ],
+            "relations": {
+                "112238": {
+                    "name": "อยู่บน (on)",
+                    "object": "112240"
+                }
+            }
+        },
+        "112240": {
+            "name": "เวที (stage)",
+            "x": 0,
+            "y": 350,
+            "w": 640,
+            "h": 130,
+            "attributes": [
+                "ผ้าคลุม (covered with cloth)",
+                "สีม่วง (purple)"
+            ],
+            "relations": {}
+        },
+        "112241": {
+            "name": "นักดนตรี (musicians)",
+            "x": 0,
+            "y": 0,
+            "w": 640,
+            "h": 350,
+            "attributes": [],
+            "relations": {}
+        },
+        "112242": {
+            "name": "ต้นไม้ (trees)",
+            "x": 0,
+            "y": 0,
+            "w": 640,
+            "h": 300,
+            "attributes": [
+                "เขียว (green)"
+            ],
+            "relations": {}
+        }
+    }
+}

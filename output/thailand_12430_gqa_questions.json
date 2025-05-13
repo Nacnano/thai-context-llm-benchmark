@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Is the man holding a diagram?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the man is holding a diagram."
+    },
+    {
+        "question": "Is the background bright?",
+        "answer": "no",
+        "fullAnswer": "No, the background is dark."
+    },
+    {
+        "question": "Is the diagram new?",
+        "answer": "no",
+        "fullAnswer": "No, the diagram is old."
+    },
+    {
+        "question": "Are there cars in the room?",
+        "answer": "no",
+        "fullAnswer": "No, there are no cars in the room."
+    },
+    {
+        "question": "Is the man silent?",
+        "answer": "no",
+        "fullAnswer": "No, the man is speaking."
+    },
+    {
+        "question": "Are the people in the background talking?",
+        "answer": "no",
+        "fullAnswer": "No, the people in the background are listening."
+    },
+    {
+        "question": "Is the diagram made of metal?",
+        "answer": "no",
+        "fullAnswer": "No, the diagram is not made of metal."
+    },
+    {
+        "question": "Is the man wearing a hat?",
+        "answer": "no",
+        "fullAnswer": "No, the man is not wearing a hat."
+    },
+    {
+        "question": "Is there a table in the scene?",
+        "answer": "no",
+        "fullAnswer": "No, there is no table in the scene."
+    },
+    {
+        "question": "Is the diagram about animals?",
+        "answer": "no",
+        "fullAnswer": "No, the diagram is about the human body."
+    },
+    {
+        "question": "Is the weather sunny?",
+        "answer": "no",
+        "fullAnswer": "No, the weather is not sunny; it's indoors."
+    },
+    {
+        "question": "Is the diagram colorful?",
+        "answer": "no",
+        "fullAnswer": "No, the diagram is not colorful."
+    },
+    {
+        "question": "Is the man wearing a jacket?",
+        "answer": "no",
+        "fullAnswer": "No, the man is wearing a shirt."
+    },
+    {
+        "question": "Are there many people in the scene?",
+        "answer": "yes",
+        "fullAnswer": "Yes, there are many people in the scene."
+    },
+    {
+        "question": "Is the man standing in the kitchen?",
+        "answer": "no",
+        "fullAnswer": "No, the man is not standing in the kitchen."
+    },
+    {
+        "question": "Is the diagram digital?",
+        "answer": "no",
+        "fullAnswer": "No, the diagram is hand-drawn."
+    },
+    {
+        "question": "Is the man wearing glasses?",
+        "answer": "no",
+        "fullAnswer": "No, the man is not wearing glasses."
+    },
+    {
+        "question": "Are there dogs in the image?",
+        "answer": "no",
+        "fullAnswer": "No, there are no dogs in the image."
+    },
+    {
+        "question": "Is the man holding a book?",
+        "answer": "no",
+        "fullAnswer": "No, the man is holding a diagram."
+    },
+    {
+        "question": "Is the background blurry?",
+        "answer": "no",
+        "fullAnswer": "No, the background is not blurry."
+    }
+]

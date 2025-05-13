@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Is the girl wearing a blue dress?",
+        "answer": "no",
+        "fullAnswer": "No, the girl is wearing a red Thai dress."
+    },
+    {
+        "question": "Are the kids sitting on a table?",
+        "answer": "no",
+        "fullAnswer": "No, the kids are sitting on the sand."
+    },
+    {
+        "question": "Are the trees short?",
+        "answer": "no",
+        "fullAnswer": "No, the trees are tall."
+    },
+    {
+        "question": "Are the children wearing blue shirts?",
+        "answer": "no",
+        "fullAnswer": "No, the children are wearing Thai dresses."
+    },
+    {
+        "question": "Is the sand black?",
+        "answer": "no",
+        "fullAnswer": "No, the sand is light yellow."
+    },
+    {
+        "question": "Are the people standing far from the children?",
+        "answer": "no",
+        "fullAnswer": "No, the people standing are near the children."
+    },
+    {
+        "question": "Are the trees behind the children?",
+        "answer": "no",
+        "fullAnswer": "No, the trees are to the side of the children."
+    },
+    {
+        "question": "Is the weather cloudy?",
+        "answer": "no",
+        "fullAnswer": "No, the weather is sunny."
+    },
+    {
+        "question": "Are there any animals in the scene?",
+        "answer": "no",
+        "fullAnswer": "No, there are no animals in the scene."
+    },
+    {
+        "question": "Is there a car in the background?",
+        "answer": "no",
+        "fullAnswer": "No, there isn't a car in the background."
+    },
+    {
+        "question": "Is the girl walking slowly?",
+        "answer": "no",
+        "fullAnswer": "No, the girl is running."
+    },
+    {
+        "question": "Are the children playing with a ball?",
+        "answer": "no",
+        "fullAnswer": "No, the children are not playing with a ball."
+    },
+    {
+        "question": "Is the beach narrow?",
+        "answer": "no",
+        "fullAnswer": "No, the beach is wide."
+    },
+    {
+        "question": "Is the tree short?",
+        "answer": "no",
+        "fullAnswer": "No, the tree is tall."
+    },
+    {
+        "question": "Are the children wearing western clothes?",
+        "answer": "no",
+        "fullAnswer": "No, the children are wearing Thai dresses."
+    },
+    {
+        "question": "Is there a building in the image?",
+        "answer": "no",
+        "fullAnswer": "No, there is no building in the image."
+    },
+    {
+        "question": "Are the people watching a show?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the people are watching a show."
+    },
+    {
+        "question": "Is the girl wearing a green dress?",
+        "answer": "no",
+        "fullAnswer": "No, the girl is wearing a red Thai dress."
+    },
+    {
+        "question": "Are the kids surrounded by trees?",
+        "answer": "no",
+        "fullAnswer": "No, the kids are surrounded by people."
+    },
+    {
+        "question": "Is the sand dark?",
+        "answer": "no",
+        "fullAnswer": "No, the sand is light yellow."
+    }
+]

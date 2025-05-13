@@ -1,0 +1,88 @@
+{
+    "width": 640,
+    "height": 480,
+    "location": "เวที (stage)",
+    "weather": "ไม่มี (none)",
+    "objects": {
+        "387654": {
+            "name": "นักแสดง (dancer)",
+            "x": 320,
+            "y": 240,
+            "w": 300,
+            "h": 480,
+            "attributes": [
+                "หญิง (female)",
+                "อาวุโส (elderly)",
+                "แต่งกายแบบไทย (Thai costume)"
+            ],
+            "relations": {
+                "987654": {
+                    "name": "สวม (wearing)",
+                    "object": "456789"
+                },
+                "987655": {
+                    "name": "สวม (wearing)",
+                    "object": "567890"
+                },
+                "987656": {
+                    "name": "ถือ (holding)",
+                    "object": "678901"
+                }
+            }
+        },
+        "456789": {
+            "name": "เครื่องประดับศีรษะ (headdress)",
+            "x": 380,
+            "y": 50,
+            "w": 150,
+            "h": 200,
+            "attributes": [
+                "สีทอง (gold)",
+                "ประณีต (elaborate)",
+                "ไทย (Thai)"
+            ],
+            "relations": {
+                "876543": {
+                    "name": "อยู่บน (on)",
+                    "object": "387654"
+                }
+            }
+        },
+        "567890": {
+            "name": "ชุด (costume)",
+            "x": 320,
+            "y": 300,
+            "w": 300,
+            "h": 300,
+            "attributes": [
+                "สีสันสดใส (colorful)",
+                "ปักลูกปัด (beaded)",
+                "ไทย (Thai)"
+            ],
+            "relations": {
+                "765432": {
+                    "name": "อยู่บน (on)",
+                    "object": "387654"
+                }
+            }
+        },
+        "678901": {
+            "name": "เล็บ (fingernails)",
+            "x": 100,
+            "y": 50,
+            "w": 150,
+            "h": 200,
+            "attributes": [
+                "ยาว (long)",
+                "ปลอม (fake)",
+                "ประดับลูกปัด (beaded)"
+            ],
+            "relations": {
+                "765433": {
+                    "name": "ถือโดย (held by)",
+                    "object": "387654"
+                }
+            }
+        }
+    }
+}

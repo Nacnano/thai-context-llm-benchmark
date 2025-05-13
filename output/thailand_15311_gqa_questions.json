@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Is the Buddha statue golden?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the Buddha statue is golden."
+    },
+    {
+        "question": "Are there people present?",
+        "answer": "yes",
+        "fullAnswer": "Yes, there are people present."
+    },
+    {
+        "question": "Is the altar golden?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the altar is golden."
+    },
+    {
+        "question": "Is the garland white?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the garland is white."
+    },
+    {
+        "question": "Is the boy wearing a blue shirt?",
+        "answer": "no",
+        "fullAnswer": "No, the boy is wearing a red shirt."
+    },
+    {
+        "question": "Is the jar made of terracotta?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the jar is made of terracotta."
+    },
+    {
+        "question": "Is the Buddha statue in a reclining position?",
+        "answer": "no",
+        "fullAnswer": "No, the Buddha statue is in a meditating posture."
+    },
+    {
+        "question": "Are the people watering the Buddha statue?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the people are watering the Buddha statue."
+    },
+    {
+        "question": "Is the weather rainy?",
+        "answer": "no",
+        "fullAnswer": "No, the weather is sunny."
+    },
+    {
+        "question": "Are the garlands made of plastic?",
+        "answer": "no",
+        "fullAnswer": "No, the garlands are made of flowers."
+    },
+    {
+        "question": "Is the altar made of wood?",
+        "answer": "no",
+        "fullAnswer": "No, the altar is golden with Thai patterns."
+    },
+    {
+        "question": "Is the location a school?",
+        "answer": "no",
+        "fullAnswer": "No, the location is a temple."
+    },
+    {
+        "question": "Is there a car in the scene?",
+        "answer": "no",
+        "fullAnswer": "No, there is no car in the scene."
+    },
+    {
+        "question": "Are the people European?",
+        "answer": "no",
+        "fullAnswer": "No, the people are Asian."
+    },
+    {
+        "question": "Does the altar have an American pattern?",
+        "answer": "no",
+        "fullAnswer": "No, the altar has a Thai pattern."
+    },
+    {
+        "question": "Is the boy standing outside the jar?",
+        "answer": "no",
+        "fullAnswer": "No, the boy is inside the jar."
+    },
+    {
+        "question": "Is the jar painted?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the jar has patterns."
+    },
+    {
+        "question": "Is the Buddha statue small?",
+        "answer": "no",
+        "fullAnswer": "No, the Buddha statue is of a decent size."
+    },
+    {
+        "question": "Is there a cat near the Buddha statue?",
+        "answer": "no",
+        "fullAnswer": "No, there is no cat near the Buddha statue."
+    },
+    {
+        "question": "Is the boy standing?",
+        "answer": "no",
+        "fullAnswer": "No, the boy is inside a jar."
+    }
+]

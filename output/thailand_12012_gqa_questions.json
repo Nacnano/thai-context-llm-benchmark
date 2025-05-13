@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Is the actor wearing a blue shirt?",
+        "answer": "no",
+        "fullAnswer": "No, the actor is wearing a Thai dress."
+    },
+    {
+        "question": "Is the wooden floor yellow?",
+        "answer": "no",
+        "fullAnswer": "No, the wooden floor is brown."
+    },
+    {
+        "question": "Is there a red horse in the scene?",
+        "answer": "yes",
+        "fullAnswer": "Yes, there is a red horse in the scene."
+    },
+    {
+        "question": "Is the man wearing a white shirt?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the man is wearing a white shirt."
+    },
+    {
+        "question": "Is the stage wet?",
+        "answer": "no",
+        "fullAnswer": "No, the weather on the stage is none."
+    },
+    {
+        "question": "Is the headdress silver?",
+        "answer": "no",
+        "fullAnswer": "No, the headdress is gold and green."
+    },
+    {
+        "question": "Are both men wearing the same attire?",
+        "answer": "no",
+        "fullAnswer": "No, the men are wearing different attire."
+    },
+    {
+        "question": "Is the Thai actor wearing pants?",
+        "answer": "no",
+        "fullAnswer": "No, the Thai actor is wearing a traditional Thai dress."
+    },
+    {
+        "question": "Is the man wearing a blue robe?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the man is wearing a blue robe (sarong)."
+    },
+    {
+        "question": "Is the horse blue?",
+        "answer": "no",
+        "fullAnswer": "No, the horse is red."
+    },
+    {
+        "question": "Is the stage wet with rain?",
+        "answer": "no",
+        "fullAnswer": "No, the stage has no weather specified."
+    },
+    {
+        "question": "Is the headdress entirely gold?",
+        "answer": "no",
+        "fullAnswer": "No, the headdress is gold and green."
+    },
+    {
+        "question": "Is the man wearing a black shirt?",
+        "answer": "no",
+        "fullAnswer": "No, the man is wearing a white shirt."
+    },
+    {
+        "question": "Is there a woman in the scene?",
+        "answer": "no",
+        "fullAnswer": "No, there are only men in the scene."
+    },
+    {
+        "question": "Is the wooden floor polished?",
+        "answer": "no",
+        "fullAnswer": "The wooden floor is brown; whether it's polished is unknown."
+    },
+    {
+        "question": "Is there an elephant present?",
+        "answer": "no",
+        "fullAnswer": "No, there is no elephant in the scene."
+    },
+    {
+        "question": "Is the man's robe green?",
+        "answer": "no",
+        "fullAnswer": "No, the man's robe is blue."
+    },
+    {
+        "question": "Is the horse large?",
+        "answer": "no",
+        "fullAnswer": "The scene graph does not describe the size of the horse, just its color."
+    },
+    {
+        "question": "Is the actor's costume primarily orange?",
+        "answer": "no",
+        "fullAnswer": "No, the actor's costume is primarily green."
+    },
+    {
+        "question": "Are either of the people wearing shoes?",
+        "answer": "no",
+        "fullAnswer": "No, both people are barefoot."
+    }
+]

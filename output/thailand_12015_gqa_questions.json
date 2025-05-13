@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Is the ranat ek on the stage?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the ranat ek is on the stage."
+    },
+    {
+        "question": "Are there any cars in the scene?",
+        "answer": "no",
+        "fullAnswer": "No, there are no cars in the scene."
+    },
+    {
+        "question": "Is the ranat thum wooden?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the ranat thum is wooden."
+    },
+    {
+        "question": "Is the sky blue?",
+        "answer": "no",
+        "fullAnswer": "No, the sky is not in the scene."
+    },
+    {
+        "question": "Is the stage covered with a cloth?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the stage is covered with a cloth."
+    },
+    {
+        "question": "Is the khong wong yai made of metal?",
+        "answer": "no",
+        "fullAnswer": "No, the khong wong yai is wooden."
+    },
+    {
+        "question": "Is the drum on the stage?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the drum is on the stage."
+    },
+    {
+        "question": "Are the trees brown?",
+        "answer": "no",
+        "fullAnswer": "No, the trees are green."
+    },
+    {
+        "question": "Is the ranat ek green?",
+        "answer": "no",
+        "fullAnswer": "No, the ranat ek is brown."
+    },
+    {
+        "question": "Is there a table in the scene?",
+        "answer": "no",
+        "fullAnswer": "No, there is no table in the scene."
+    },
+    {
+        "question": "Is the stage red?",
+        "answer": "no",
+        "fullAnswer": "No, the stage is purple."
+    },
+    {
+        "question": "Is there a person in the scene?",
+        "answer": "yes",
+        "fullAnswer": "Yes, there are musicians in the scene."
+    },
+    {
+        "question": "Is the ranat thum blue?",
+        "answer": "no",
+        "fullAnswer": "No, the ranat thum is brown."
+    },
+    {
+        "question": "Is the weather sunny?",
+        "answer": "no",
+        "fullAnswer": "No, the weather is not specified."
+    },
+    {
+        "question": "Is the stage made of wood?",
+        "answer": "no",
+        "fullAnswer": "No, the stage is covered with cloth."
+    },
+    {
+        "question": "Is there a car in the scene?",
+        "answer": "no",
+        "fullAnswer": "No, there is no car in the scene."
+    },
+    {
+        "question": "Is the drum silver?",
+        "answer": "no",
+        "fullAnswer": "No, the drum is brown."
+    },
+    {
+        "question": "Is the khong wong yai on the ground?",
+        "answer": "no",
+        "fullAnswer": "No, the khong wong yai is on the stage."
+    },
+    {
+        "question": "Are the musicians wearing hats?",
+        "answer": "no",
+        "fullAnswer": "No, the musicians are not wearing hats."
+    },
+    {
+        "question": "Is the location indoors?",
+        "answer": "no",
+        "fullAnswer": "No, the location is outdoors."
+    }
+]

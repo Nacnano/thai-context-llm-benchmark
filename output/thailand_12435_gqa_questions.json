@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Is the room weather clear?",
+        "answer": "no",
+        "fullAnswer": "No, the room weather is ไม่มี."
+    },
+    {
+        "question": "Is there a man in a white shirt sitting down?",
+        "answer": "yes",
+        "fullAnswer": "Yes, there is a man in a white shirt sitting down."
+    },
+    {
+        "question": "Is the bed color blue?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the bed color is blue."
+    },
+    {
+        "question": "Is there a window made of wood?",
+        "answer": "yes",
+        "fullAnswer": "Yes, there is a window made of wood."
+    },
+    {
+        "question": "Is the fan color black?",
+        "answer": "no",
+        "fullAnswer": "No, the fan color is white."
+    },
+    {
+        "question": "Is a man with a purple shirt massaging someone?",
+        "answer": "yes",
+        "fullAnswer": "Yes, there is a man with a purple shirt massaging someone."
+    },
+    {
+        "question": "Is the man with a white shirt sitting on the bed?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the man with a white shirt is sitting on the bed."
+    },
+    {
+        "question": "Is there a man standing?",
+        "answer": "yes",
+        "fullAnswer": "Yes, there is a man standing."
+    },
+    {
+        "question": "Is the window near the bed?",
+        "answer": "no",
+        "fullAnswer": "No, the window is not near the bed according to scene graph."
+    },
+    {
+        "question": "Is there a fan in the room?",
+        "answer": "yes",
+        "fullAnswer": "Yes, there is a fan in the room."
+    },
+    {
+        "question": "Is the man getting massaged wearing a white shirt?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the man getting massaged is wearing a white shirt."
+    },
+    {
+        "question": "Is the man doing the massage wearing a blue shirt?",
+        "answer": "no",
+        "fullAnswer": "No, the man doing the massage is wearing a purple shirt."
+    },
+    {
+        "question": "Is the bed near the window?",
+        "answer": "no",
+        "fullAnswer": "No, the bed is not near the window according to scene graph."
+    },
+    {
+        "question": "Is there a car in the room?",
+        "answer": "no",
+        "fullAnswer": "No, there is no car in the room."
+    },
+    {
+        "question": "Is there a table in the room?",
+        "answer": "no",
+        "fullAnswer": "No, there is no table in the room."
+    },
+    {
+        "question": "Is the fan color blue?",
+        "answer": "no",
+        "fullAnswer": "No, the fan color is white."
+    },
+    {
+        "question": "Is there a black chair in the room?",
+        "answer": "no",
+        "fullAnswer": "No, there is no black chair in the room according to scene graph."
+    },
+    {
+        "question": "Is the standing man taller than the sitting man?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the standing man is taller than the sitting man."
+    },
+    {
+        "question": "Are both men in the scene graph in the ห้อง?",
+        "answer": "yes",
+        "fullAnswer": "Yes, both men are in the ห้อง."
+    },
+    {
+        "question": "Is the bed long?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the bed is long."
+    }
+]

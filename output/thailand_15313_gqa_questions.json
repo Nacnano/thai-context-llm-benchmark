@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Is the woman wearing a blue shirt?",
+        "answer": "no",
+        "fullAnswer": "No, the woman is wearing a white shirt."
+    },
+    {
+        "question": "Is the little girl wearing blue shoes?",
+        "answer": "no",
+        "fullAnswer": "No, the little girl is wearing red shoes."
+    },
+    {
+        "question": "Is the old woman wearing a yellow dress?",
+        "answer": "no",
+        "fullAnswer": "No, one of the old women is wearing a white lace shirt and the other is wearing a pink shawl."
+    },
+    {
+        "question": "Is the bucket silver?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the bucket is silver."
+    },
+    {
+        "question": "Is the girl wearing green shoes?",
+        "answer": "no",
+        "fullAnswer": "No, the girl is wearing red shoes."
+    },
+    {
+        "question": "Is there a table in the scene?",
+        "answer": "no",
+        "fullAnswer": "No, there is no table in the scene."
+    },
+    {
+        "question": "Is the older woman wearing a pink dress?",
+        "answer": "no",
+        "fullAnswer": "No, the older woman is wearing a pink shawl and a white lace shirt."
+    },
+    {
+        "question": "Is the location indoors?",
+        "answer": "no",
+        "fullAnswer": "No, the location is outdoors."
+    },
+    {
+        "question": "Is the woman wearing a pink shirt?",
+        "answer": "no",
+        "fullAnswer": "No, the woman is wearing a white shirt."
+    },
+    {
+        "question": "Is the little girl taller than the woman?",
+        "answer": "no",
+        "fullAnswer": "No, the little girl is shorter than the woman."
+    },
+    {
+        "question": "Is it raining in the scene?",
+        "answer": "no",
+        "fullAnswer": "No, there is no rain in the scene."
+    },
+    {
+        "question": "Is the water being poured into a cup?",
+        "answer": "no",
+        "fullAnswer": "No, the water is being poured onto the hands of the little girl and the old woman."
+    },
+    {
+        "question": "Is the silver bucket empty?",
+        "answer": "no",
+        "fullAnswer": "No, the silver bucket has water in it."
+    },
+    {
+        "question": "Is the girl wearing pants?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the girl is wearing pink shorts."
+    },
+    {
+        "question": "Is the older woman standing?",
+        "answer": "no",
+        "fullAnswer": "No, the older woman is sitting."
+    },
+    {
+        "question": "Is the woman pouring soda?",
+        "answer": "no",
+        "fullAnswer": "No, the woman is pouring water."
+    },
+    {
+        "question": "Are the old women wearing black shoes?",
+        "answer": "no",
+        "fullAnswer": "No, they are barefoot"
+    },
+    {
+        "question": "Is the little girl wearing pink?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the little girl is wearing pink."
+    },
+    {
+        "question": "Is the bucket made of glass?",
+        "answer": "no",
+        "fullAnswer": "No, the bucket is made of silver."
+    },
+    {
+        "question": "Are there any animals in the scene?",
+        "answer": "no",
+        "fullAnswer": "No, there are no animals in the scene."
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Is the woman wearing a red dress?",
+        "answer": "no",
+        "fullAnswer": "No, the woman is wearing a blue dress."
+    },
+    {
+        "question": "Is the sky cloudy?",
+        "answer": "no",
+        "fullAnswer": "No, the weather is sunny."
+    },
+    {
+        "question": "Is there a golden pagoda?",
+        "answer": "yes",
+        "fullAnswer": "Yes, there is a golden pagoda."
+    },
+    {
+        "question": "Are the people sad?",
+        "answer": "no",
+        "fullAnswer": "No, the people are smiling."
+    },
+    {
+        "question": "Is there a small silver bowl?",
+        "answer": "yes",
+        "fullAnswer": "Yes, there is a small silver bowl."
+    },
+    {
+        "question": "Is the woman holding a silver bowl?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the woman is holding a silver bowl."
+    },
+    {
+        "question": "Are the flags green?",
+        "answer": "no",
+        "fullAnswer": "No, the flags are yellow."
+    },
+    {
+        "question": "Is the child wearing a yellow shirt?",
+        "answer": "no",
+        "fullAnswer": "No, the child is wearing a blue shirt."
+    },
+    {
+        "question": "Is the silver bowl empty?",
+        "answer": "no",
+        "fullAnswer": "No, the silver bowl has water in it."
+    },
+    {
+        "question": "Is the pagoda short?",
+        "answer": "no",
+        "fullAnswer": "No, the pagoda is tall."
+    },
+    {
+        "question": "Is there a dog in the scene?",
+        "answer": "no",
+        "fullAnswer": "No, there is no dog in the scene."
+    },
+    {
+        "question": "Are all the people dry?",
+        "answer": "no",
+        "fullAnswer": "No, the people are wet."
+    },
+    {
+        "question": "Is the man holding a glass?",
+        "answer": "no",
+        "fullAnswer": "No, the man is holding a silver bowl."
+    },
+    {
+        "question": "Are the flags plain?",
+        "answer": "no",
+        "fullAnswer": "No, the flags have patterns."
+    },
+    {
+        "question": "Is the pagoda silver?",
+        "answer": "no",
+        "fullAnswer": "No, the pagoda is golden."
+    },
+    {
+        "question": "Is there a cat present?",
+        "answer": "no",
+        "fullAnswer": "No, there is no cat present."
+    },
+    {
+        "question": "Are all the silver bowls large?",
+        "answer": "no",
+        "fullAnswer": "No, there are also small silver bowls."
+    },
+    {
+        "question": "Is the woman's dress green?",
+        "answer": "no",
+        "fullAnswer": "No, the woman's dress is blue."
+    },
+    {
+        "question": "Is the background raining?",
+        "answer": "no",
+        "fullAnswer": "No, the weather is sunny."
+    },
+    {
+        "question": "Is the scene inside a building?",
+        "answer": "no",
+        "fullAnswer": "No, the scene is at a temple."
+    }
+]

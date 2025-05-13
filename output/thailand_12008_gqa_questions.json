@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Is the backdrop red?",
+        "answer": "no",
+        "fullAnswer": "No, the backdrop is blue."
+    },
+    {
+        "question": "Are there any green performers?",
+        "answer": "yes",
+        "fullAnswer": "Yes, there is a green performer."
+    },
+    {
+        "question": "Is the cloud pink?",
+        "answer": "no",
+        "fullAnswer": "No, the cloud is blue."
+    },
+    {
+        "question": "Is the elephant statue small?",
+        "answer": "no",
+        "fullAnswer": "No, the elephant statue is large."
+    },
+    {
+        "question": "Are the actors sitting on the clouds?",
+        "answer": "no",
+        "fullAnswer": "No, some actors are dancing on the clouds."
+    },
+    {
+        "question": "Is there a performer wearing a red dress?",
+        "answer": "no",
+        "fullAnswer": "No, the performers are wearing Thai costumes."
+    },
+    {
+        "question": "Is the pillar short?",
+        "answer": "no",
+        "fullAnswer": "No, the pillar is tall."
+    },
+    {
+        "question": "Is the weather rainy?",
+        "answer": "no",
+        "fullAnswer": "No, the weather is not specified."
+    },
+    {
+        "question": "Is the statue of the elephant black?",
+        "answer": "no",
+        "fullAnswer": "No, the statue of the elephant is white."
+    },
+    {
+        "question": "Are there any animals other than elephants?",
+        "answer": "no",
+        "fullAnswer": "No, there are only elephants."
+    },
+    {
+        "question": "Is there a performer in a blue outfit?",
+        "answer": "no",
+        "fullAnswer": "No, there is a green performer."
+    },
+    {
+        "question": "Is the cloud flat?",
+        "answer": "no",
+        "fullAnswer": "No, the cloud is fluffy."
+    },
+    {
+        "question": "Is there a small white pillar?",
+        "answer": "no",
+        "fullAnswer": "No, there is a tall golden pillar."
+    },
+    {
+        "question": "Is the stage outdoor?",
+        "answer": "no",
+        "fullAnswer": "No, the location is a stage."
+    },
+    {
+        "question": "Is the statue of elephant decorated?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the statue of elephant is decorated."
+    },
+    {
+        "question": "Is the stage sunny?",
+        "answer": "no",
+        "fullAnswer": "No, the weather is not specified."
+    },
+    {
+        "question": "Are there any animals dancing?",
+        "answer": "no",
+        "fullAnswer": "No, the performers are dancing."
+    },
+    {
+        "question": "Are the clouds on the left blue?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the clouds are blue."
+    },
+    {
+        "question": "Are there any square clouds?",
+        "answer": "no",
+        "fullAnswer": "No, the clouds are fluffy."
+    },
+    {
+        "question": "Is the elephant statue made of silver?",
+        "answer": "no",
+        "fullAnswer": "No, the elephant statue is white."
+    }
+]

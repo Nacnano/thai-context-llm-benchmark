@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Is the head ornament gold?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the head ornament is gold."
+    },
+    {
+        "question": "Is the base on which the head ornament sits black?",
+        "answer": "no",
+        "fullAnswer": "No, the base is white."
+    },
+    {
+        "question": "Is the woman wearing a blue shirt?",
+        "answer": "no",
+        "fullAnswer": "No, the woman is wearing a gray shirt."
+    },
+    {
+        "question": "Is the paintbrush large?",
+        "answer": "no",
+        "fullAnswer": "No, the paintbrush is small."
+    },
+    {
+        "question": "Is the workshop cold?",
+        "answer": "unknown",
+        "fullAnswer": "Unknown, the weather is none."
+    },
+    {
+        "question": "Is the base decorated?",
+        "answer": "no",
+        "fullAnswer": "No, the base is plain."
+    },
+    {
+        "question": "Is the head ornament detailed?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the head ornament is detailed."
+    },
+    {
+        "question": "Is the woman holding a knife?",
+        "answer": "no",
+        "fullAnswer": "No, the woman is holding a paintbrush."
+    },
+    {
+        "question": "Is the head ornament on the floor?",
+        "answer": "no",
+        "fullAnswer": "No, the head ornament is on a base."
+    },
+    {
+        "question": "Is the woman painting the base?",
+        "answer": "no",
+        "fullAnswer": "No, the woman is painting the head ornament."
+    },
+    {
+        "question": "Is the base round?",
+        "answer": "unknown",
+        "fullAnswer": "Unknown, the shape of the base is not specified."
+    },
+    {
+        "question": "Is the paintbrush in the man's hand?",
+        "answer": "no",
+        "fullAnswer": "No, the paintbrush is in the woman's hand."
+    },
+    {
+        "question": "Is the head ornament made of silver?",
+        "answer": "no",
+        "fullAnswer": "No, the head ornament is gold."
+    },
+    {
+        "question": "Is the woman smiling?",
+        "answer": "unknown",
+        "fullAnswer": "Unknown, the woman's expression is not specified."
+    },
+    {
+        "question": "Is the base metallic?",
+        "answer": "no",
+        "fullAnswer": "No, the base is white."
+    },
+    {
+        "question": "Is the paintbrush blue?",
+        "answer": "unknown",
+        "fullAnswer": "Unknown, the exact color of the paintbrush is not specified but it is colored."
+    },
+    {
+        "question": "Is the workshop illuminated by the sun?",
+        "answer": "unknown",
+        "fullAnswer": "Unknown, the weather is none."
+    },
+    {
+        "question": "Is there a table in the workshop?",
+        "answer": "unknown",
+        "fullAnswer": "Unknown, the presence of a table is not specified."
+    },
+    {
+        "question": "Is the woman standing?",
+        "answer": "unknown",
+        "fullAnswer": "Unknown, the woman's posture is not specified."
+    },
+    {
+        "question": "Is the head ornament heavy?",
+        "answer": "unknown",
+        "fullAnswer": "Unknown, the weight of the head ornament is not specified."
+    }
+]

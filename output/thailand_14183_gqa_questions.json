@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Are the people sitting?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the people are sitting on the mat."
+    },
+    {
+        "question": "Is the mat plain?",
+        "answer": "no",
+        "fullAnswer": "No, the mat is patterned."
+    },
+    {
+        "question": "Is the lightbulb broken?",
+        "answer": "no",
+        "fullAnswer": "No, the lightbulb is shining."
+    },
+    {
+        "question": "Is the thatched roof new?",
+        "answer": "no",
+        "fullAnswer": "No, the thatched roof is natural."
+    },
+    {
+        "question": "Is the portrait square?",
+        "answer": "no",
+        "fullAnswer": "No, the portrait is rectangular."
+    },
+    {
+        "question": "Is the headdress silver?",
+        "answer": "no",
+        "fullAnswer": "No, the headdress is gold."
+    },
+    {
+        "question": "Is the weather rainy?",
+        "answer": "no",
+        "fullAnswer": "No, the weather is none."
+    },
+    {
+        "question": "Are there a few people?",
+        "answer": "no",
+        "fullAnswer": "No, there are many people."
+    },
+    {
+        "question": "Is the mat made of metal?",
+        "answer": "no",
+        "fullAnswer": "No, the mat is made of something else."
+    },
+    {
+        "question": "Is the lightbulb hanging from the floor?",
+        "answer": "no",
+        "fullAnswer": "No, the lightbulb is hanging from the thatched roof."
+    },
+    {
+        "question": "Is the thatched roof made of stone?",
+        "answer": "no",
+        "fullAnswer": "No, the thatched roof is woven."
+    },
+    {
+        "question": "Is the portrait hanging below the people?",
+        "answer": "no",
+        "fullAnswer": "No, the portrait is above the people."
+    },
+    {
+        "question": "Is the headdress simple?",
+        "answer": "no",
+        "fullAnswer": "No, the headdress is elaborate."
+    },
+    {
+        "question": "Is the building open?",
+        "answer": "no",
+        "fullAnswer": "No, the building is indoors with thatched roof."
+    },
+    {
+        "question": "Is the mat small?",
+        "answer": "no",
+        "fullAnswer": "No, the mat is large."
+    },
+    {
+        "question": "Is the lightbulb dim?",
+        "answer": "no",
+        "fullAnswer": "No, the lightbulb is bright."
+    },
+    {
+        "question": "Is the portrait small?",
+        "answer": "no",
+        "fullAnswer": "No, the portrait is medium-sized."
+    },
+    {
+        "question": "Is the portrait unframed?",
+        "answer": "no",
+        "fullAnswer": "No, the portrait is gold-framed."
+    },
+    {
+        "question": "Is the building modern?",
+        "answer": "no",
+        "fullAnswer": "No, the building is a simple structure with a thatched roof."
+    },
+    {
+        "question": "Is there a patterned mat on the roof?",
+        "answer": "no",
+        "fullAnswer": "No, there is a patterned mat on the floor."
+    }
+]

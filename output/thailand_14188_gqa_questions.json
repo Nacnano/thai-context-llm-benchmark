@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Is the actor wearing a blue dress?",
+        "answer": "no",
+        "fullAnswer": "No, the actor is wearing a colorful dress."
+    },
+    {
+        "question": "Is the trainer wearing a hat?",
+        "answer": "no",
+        "fullAnswer": "No, the trainer is not wearing a hat."
+    },
+    {
+        "question": "Is there a car in the background?",
+        "answer": "no",
+        "fullAnswer": "No, there is no car in the background."
+    },
+    {
+        "question": "Is the crown made of silver?",
+        "answer": "no",
+        "fullAnswer": "No, the crown is golden."
+    },
+    {
+        "question": "Is the actor dancing with the background?",
+        "answer": "no",
+        "fullAnswer": "No, the actor is dancing with the trainer."
+    },
+    {
+        "question": "Are there any animals in the scene?",
+        "answer": "no",
+        "fullAnswer": "No, there are no animals in the scene."
+    },
+    {
+        "question": "Is the background made of wood?",
+        "answer": "no",
+        "fullAnswer": "No, the background is made of brick and trees."
+    },
+    {
+        "question": "Is the weather rainy?",
+        "answer": "no",
+        "fullAnswer": "No, the weather is not mentioned."
+    },
+    {
+        "question": "Is the trainer wearing shoes?",
+        "answer": "no",
+        "fullAnswer": "No, the trainer is not wearing shoes."
+    },
+    {
+        "question": "Is the actor wearing a white shirt?",
+        "answer": "no",
+        "fullAnswer": "No, the actor is wearing a Thai dress."
+    },
+    {
+        "question": "Is the location an indoor area?",
+        "answer": "no",
+        "fullAnswer": "No, the location is an outdoor area."
+    },
+    {
+        "question": "Is the actor on the left side?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the actor is on the left side."
+    },
+    {
+        "question": "Is the trainer dancing near the actor?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the trainer is dancing near the actor."
+    },
+    {
+        "question": "Is there a building in the scene?",
+        "answer": "yes",
+        "fullAnswer": "Yes, there is a building in the background."
+    },
+    {
+        "question": "Is the crown placed on the head of the trainer?",
+        "answer": "no",
+        "fullAnswer": "No, the crown is placed on the head of the actor."
+    },
+    {
+        "question": "Is the dress black in color?",
+        "answer": "no",
+        "fullAnswer": "No, the dress is colorful."
+    },
+    {
+        "question": "Is there any water nearby?",
+        "answer": "no",
+        "fullAnswer": "No, there is no water nearby."
+    },
+    {
+        "question": "Are the attributes of the background grass?",
+        "answer": "no",
+        "fullAnswer": "No, the attributes of the background are brick and trees."
+    },
+    {
+        "question": "Does the trainer have a beard?",
+        "answer": "no",
+        "fullAnswer": "No, the trainer does not have a beard."
+    },
+    {
+        "question": "Is the actor wearing a hat?",
+        "answer": "no",
+        "fullAnswer": "No, the actor is wearing a crown."
+    }
+]

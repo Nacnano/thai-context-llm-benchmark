@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Is there a woman wearing a red shirt?",
+        "answer": "yes",
+        "fullAnswer": "Yes, there is a woman wearing a red shirt."
+    },
+    {
+        "question": "Is the blue chair on the left?",
+        "answer": "no",
+        "fullAnswer": "No, the blue chair is not on the left."
+    },
+    {
+        "question": "Is the woman in the pink shirt sitting?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the woman in the pink shirt is sitting."
+    },
+    {
+        "question": "Are the two women in red shirts?",
+        "answer": "no",
+        "fullAnswer": "No, only one woman is in a red shirt."
+    },
+    {
+        "question": "Is the bed white?",
+        "answer": "no",
+        "fullAnswer": "No, the bed is blue."
+    },
+    {
+        "question": "Is there a woman in a yellow shirt?",
+        "answer": "yes",
+        "fullAnswer": "Yes, there is a woman wearing a yellow shirt."
+    },
+    {
+        "question": "Is someone wearing a blue shirt massaging someone else?",
+        "answer": "no",
+        "fullAnswer": "No, someone in a yellow shirt is massaging someone in a blue shirt."
+    },
+    {
+        "question": "Are the beds the same color?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the beds are the same color."
+    },
+    {
+        "question": "Is the chair made of wood?",
+        "answer": "no",
+        "fullAnswer": "No, the chair is not made of wood."
+    },
+    {
+        "question": "Is the scene taking place outdoors?",
+        "answer": "no",
+        "fullAnswer": "No, the scene is taking place indoors."
+    },
+    {
+        "question": "Is there a woman in green shirt?",
+        "answer": "no",
+        "fullAnswer": "No, there is no woman in green shirt."
+    },
+    {
+        "question": "Is the weather rainy?",
+        "answer": "no",
+        "fullAnswer": "No, the weather is not rainy."
+    },
+    {
+        "question": "Is there a woman massaging the woman in the blue shirt?",
+        "answer": "yes",
+        "fullAnswer": "Yes, there is a woman massaging the woman in the blue shirt."
+    },
+    {
+        "question": "Is the chair near the middle of the image?",
+        "answer": "no",
+        "fullAnswer": "No, the chair is near the right of the image."
+    },
+    {
+        "question": "Is the person being massaged lying down?",
+        "answer": "no",
+        "fullAnswer": "No, the person being massaged is sitting."
+    },
+    {
+        "question": "Is the shirt of the massager yellow?",
+        "answer": "maybe",
+        "fullAnswer": "Maybe, the shirt of the massager can be yellow."
+    },
+    {
+        "question": "Is the seat comfortable?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the seat is comfortable."
+    },
+    {
+        "question": "Is the sky blue?",
+        "answer": "no",
+        "fullAnswer": "No, the sky color is not available."
+    },
+    {
+        "question": "Is the woman wearing a pink shirt standing?",
+        "answer": "no",
+        "fullAnswer": "No, the woman wearing a pink shirt is sitting."
+    },
+    {
+        "question": "Is there a table in the scene?",
+        "answer": "no",
+        "fullAnswer": "No, there is no table in the scene."
+    }
+]

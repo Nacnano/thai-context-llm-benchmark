@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Are there people in the room?",
+        "answer": "yes",
+        "fullAnswer": "Yes, there are people in the room."
+    },
+    {
+        "question": "Is the table empty?",
+        "answer": "no",
+        "fullAnswer": "No, the table is full of items."
+    },
+    {
+        "question": "Are there apples on the table?",
+        "answer": "yes",
+        "fullAnswer": "Yes, there are apples on the table."
+    },
+    {
+        "question": "Are there red flowers in a vase?",
+        "answer": "yes",
+        "fullAnswer": "Yes, there are red and yellow flowers in a vase."
+    },
+    {
+        "question": "Is the man wearing a black shirt?",
+        "answer": "no",
+        "fullAnswer": "No, the man is wearing a white outfit."
+    },
+    {
+        "question": "Is there a candle with light?",
+        "answer": "yes",
+        "fullAnswer": "Yes, there is a yellow candle with light."
+    },
+    {
+        "question": "Are the curtains plain?",
+        "answer": "no",
+        "fullAnswer": "No, the curtains are patterned."
+    },
+    {
+        "question": "Are there grapes on the table?",
+        "answer": "yes",
+        "fullAnswer": "Yes, there are grapes on the table."
+    },
+    {
+        "question": "Are there any blue flowers in the vase?",
+        "answer": "no",
+        "fullAnswer": "No, there are yellow and red flowers in the vase."
+    },
+    {
+        "question": "Is the man holding a book?",
+        "answer": "no",
+        "fullAnswer": "No, the man is holding a candle."
+    },
+    {
+        "question": "Is there food on the table?",
+        "answer": "yes",
+        "fullAnswer": "Yes, there is fruit on the table."
+    },
+    {
+        "question": "Is there a dog present?",
+        "answer": "no",
+        "fullAnswer": "No, there is no dog present."
+    },
+    {
+        "question": "Is the location outside?",
+        "answer": "no",
+        "fullAnswer": "No, the location is a meeting room."
+    },
+    {
+        "question": "Are the flowers in the vase blue?",
+        "answer": "no",
+        "fullAnswer": "No, the flowers in the vase are red and yellow."
+    },
+    {
+        "question": "Are there pineapples on the table?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the fruit include apples, grapes and mango."
+    },
+    {
+        "question": "Is it raining outside?",
+        "answer": "no",
+        "fullAnswer": "No, the weather is sunny."
+    },
+    {
+        "question": "Is the table round?",
+        "answer": "no",
+        "fullAnswer": "No, the table is long."
+    },
+    {
+        "question": "Are the people standing?",
+        "answer": "no",
+        "fullAnswer": "No, the people are sitting."
+    },
+    {
+        "question": "Is the man wearing a hat?",
+        "answer": "no",
+        "fullAnswer": "No, the man is not wearing a hat."
+    },
+    {
+        "question": "Are there oranges on the table?",
+        "answer": "no",
+        "fullAnswer": "No, there are mangoes, apples and grapes on the table."
+    }
+]

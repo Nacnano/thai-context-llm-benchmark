@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Are the students wearing blue uniforms?",
+        "answer": "no",
+        "fullAnswer": "No, the students are wearing Thai costumes."
+    },
+    {
+        "question": "Is the hall made of metal?",
+        "answer": "no",
+        "fullAnswer": "No, the hall is made of wood."
+    },
+    {
+        "question": "Are the ceiling fans black?",
+        "answer": "no",
+        "fullAnswer": "No, the ceiling fans are white."
+    },
+    {
+        "question": "Are the students sitting?",
+        "answer": "no",
+        "fullAnswer": "No, the students are practicing."
+    },
+    {
+        "question": "Are there computers in the hall?",
+        "answer": "no",
+        "fullAnswer": "No, there are no computers."
+    },
+    {
+        "question": "Is the floor concrete?",
+        "answer": "no",
+        "fullAnswer": "No, the floor is wooden."
+    },
+    {
+        "question": "Is the classroom empty?",
+        "answer": "no",
+        "fullAnswer": "No, the classroom is full of students."
+    },
+    {
+        "question": "Are the students wearing hats?",
+        "answer": "no",
+        "fullAnswer": "No, the students are not wearing hats."
+    },
+    {
+        "question": "Is there a green board in the room?",
+        "answer": "no",
+        "fullAnswer": "No, there is no green board."
+    },
+    {
+        "question": "Is the hall small?",
+        "answer": "no",
+        "fullAnswer": "No, the hall is spacious."
+    },
+    {
+        "question": "Is the floor white?",
+        "answer": "no",
+        "fullAnswer": "No, the floor is brown."
+    },
+    {
+        "question": "Are the windows closed?",
+        "answer": "no",
+        "fullAnswer": "No, the windows are open."
+    },
+    {
+        "question": "Are there many ceiling fans?",
+        "answer": "yes",
+        "fullAnswer": "Yes, there are many ceiling fans."
+    },
+    {
+        "question": "Are the students wearing formal dresses?",
+        "answer": "no",
+        "fullAnswer": "No, the students are wearing Thai costumes."
+    },
+    {
+        "question": "Are the walls made of bricks?",
+        "answer": "no",
+        "fullAnswer": "No, the walls are made of wood."
+    },
+    {
+        "question": "Is there a black board in the hall?",
+        "answer": "no",
+        "fullAnswer": "No, there is no black board."
+    },
+    {
+        "question": "Are the windows made of glass?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the windows are made of glass."
+    },
+    {
+        "question": "Is the group of students small?",
+        "answer": "no",
+        "fullAnswer": "No, the group of students is large."
+    },
+    {
+        "question": "Is the wooden floor old?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the wooden floor has traces."
+    },
+    {
+        "question": "Is the weather sunny?",
+        "answer": "no",
+        "fullAnswer": "No, the weather is none."
+    }
+]

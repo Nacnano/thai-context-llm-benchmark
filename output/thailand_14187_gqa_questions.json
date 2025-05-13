@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Is the dancer wearing a blue dress?",
+        "answer": "no",
+        "fullAnswer": "No, the dancer is wearing a thai dress."
+    },
+    {
+        "question": "Are there any red objects in the image?",
+        "answer": "no",
+        "fullAnswer": "No, there are no red objects."
+    },
+    {
+        "question": "Is the floor made of wood?",
+        "answer": "no",
+        "fullAnswer": "No, the floor is white."
+    },
+    {
+        "question": "Is the musician standing?",
+        "answer": "no",
+        "fullAnswer": "No, the musician is sitting."
+    },
+    {
+        "question": "Is the curtain blue?",
+        "answer": "no",
+        "fullAnswer": "No, the curtain is black."
+    },
+    {
+        "question": "Is the dancer a male?",
+        "answer": "no",
+        "fullAnswer": "No, the dancer is female."
+    },
+    {
+        "question": "Is there a table in the scene?",
+        "answer": "no",
+        "fullAnswer": "No, there is no table."
+    },
+    {
+        "question": "Are all the musicians female?",
+        "answer": "no",
+        "fullAnswer": "No, the musician is male."
+    },
+    {
+        "question": "Is the floor black?",
+        "answer": "no",
+        "fullAnswer": "No, the floor is white."
+    },
+    {
+        "question": "Is the weather rainy?",
+        "answer": "no",
+        "fullAnswer": "No, the weather is none."
+    },
+    {
+        "question": "Is the instrument a guitar?",
+        "answer": "no",
+        "fullAnswer": "No, the instrument is thai percussion and wind instruments."
+    },
+    {
+        "question": "Is there a car in the scene?",
+        "answer": "no",
+        "fullAnswer": "No, there is no car."
+    },
+    {
+        "question": "Are the curtains made of metal?",
+        "answer": "no",
+        "fullAnswer": "No, the curtains are made of fabric."
+    },
+    {
+        "question": "Is the dancer barefoot?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the dancer is barefoot."
+    },
+    {
+        "question": "Is the floor rough?",
+        "answer": "no",
+        "fullAnswer": "No, the floor is smooth."
+    },
+    {
+        "question": "Is the musician wearing jeans?",
+        "answer": "no",
+        "fullAnswer": "No, the musician is wearing thai dress."
+    },
+    {
+        "question": "Is the stage outdoors?",
+        "answer": "no",
+        "fullAnswer": "No, the stage is indoors."
+    },
+    {
+        "question": "Is the instrument modern?",
+        "answer": "no",
+        "fullAnswer": "No, the instrument is Thai."
+    },
+    {
+        "question": "Is the dancer sitting?",
+        "answer": "no",
+        "fullAnswer": "No, the dancer is standing."
+    },
+    {
+        "question": "Is the curtain in the foreground?",
+        "answer": "no",
+        "fullAnswer": "No, the curtain is the background."
+    }
+]

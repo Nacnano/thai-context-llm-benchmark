@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Is the dancer young?",
+        "answer": "no",
+        "fullAnswer": "No, the dancer is elderly."
+    },
+    {
+        "question": "Does the dancer wear a gold headdress?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the dancer wears a gold headdress."
+    },
+    {
+        "question": "Is the costume on the dancer plain?",
+        "answer": "no",
+        "fullAnswer": "No, the costume is colorful."
+    },
+    {
+        "question": "Are the fingernails held by the dancer short?",
+        "answer": "no",
+        "fullAnswer": "No, the fingernails held by the dancer are long."
+    },
+    {
+        "question": "Is the headdress located on the table?",
+        "answer": "no",
+        "fullAnswer": "No, the headdress is on the dancer."
+    },
+    {
+        "question": "Is the dancer male?",
+        "answer": "no",
+        "fullAnswer": "No, the dancer is female."
+    },
+    {
+        "question": "Is the costume black?",
+        "answer": "no",
+        "fullAnswer": "No, the costume is colorful."
+    },
+    {
+        "question": "Are the fingernails real?",
+        "answer": "no",
+        "fullAnswer": "No, the fingernails are fake."
+    },
+    {
+        "question": "Is the dancer wearing jewelry?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the dancer is wearing a headdress."
+    },
+    {
+        "question": "Is the headdress simple?",
+        "answer": "no",
+        "fullAnswer": "No, the headdress is elaborate."
+    },
+    {
+        "question": "Is the dancer wearing western clothes?",
+        "answer": "no",
+        "fullAnswer": "No, the dancer is wearing Thai costume."
+    },
+    {
+        "question": "Are the fingernails plastic?",
+        "answer": "no",
+        "fullAnswer": "No, the fingernails are decorated."
+    },
+    {
+        "question": "Is there a musician on the stage?",
+        "answer": "no",
+        "fullAnswer": "No, there is a dancer on the stage."
+    },
+    {
+        "question": "Is the headdress silver?",
+        "answer": "no",
+        "fullAnswer": "No, the headdress is gold."
+    },
+    {
+        "question": "Is the costume made of silk?",
+        "answer": "no",
+        "fullAnswer": "No, the costume is beaded."
+    },
+    {
+        "question": "Is the stage indoor?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the stage is indoor."
+    },
+    {
+        "question": "Is the weather rainy?",
+        "answer": "no",
+        "fullAnswer": "No, the weather is none."
+    },
+    {
+        "question": "Is the fingernails held by the dancer short?",
+        "answer": "no",
+        "fullAnswer": "No, the fingernails held by the dancer are long."
+    },
+    {
+        "question": "Is the fingernails on the dancer plain?",
+        "answer": "no",
+        "fullAnswer": "No, the fingernails are beaded."
+    },
+    {
+        "question": "Is there any snow in the scene?",
+        "answer": "no",
+        "fullAnswer": "No, there is no snow in the scene."
+    }
+]

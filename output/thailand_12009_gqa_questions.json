@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Are there any white lamps in the scene?",
+        "answer": "yes",
+        "fullAnswer": "Yes, there are white lamps in the scene."
+    },
+    {
+        "question": "How many lamps are described in the scene graph?",
+        "answer": "2",
+        "fullAnswer": "There are 2 lamps described in the scene graph."
+    },
+    {
+        "question": "Is there a small statue in the scene?",
+        "answer": "no",
+        "fullAnswer": "No, there is a statue, but it is large."
+    },
+    {
+        "question": "Are the actors wearing blue costumes?",
+        "answer": "no",
+        "fullAnswer": "No, the actors are wearing Thai costumes."
+    },
+    {
+        "question": "Is the statue silver?",
+        "answer": "no",
+        "fullAnswer": "No, the statue is gold."
+    },
+    {
+        "question": "Are the lamps square?",
+        "answer": "no",
+        "fullAnswer": "No, the lamps are round."
+    },
+    {
+        "question": "Are there more than two actors?",
+        "answer": "yes",
+        "fullAnswer": "Yes, there are many actors."
+    },
+    {
+        "question": "Is the location a beach?",
+        "answer": "no",
+        "fullAnswer": "No, the location is a stage."
+    },
+    {
+        "question": "Is there a table in the scene?",
+        "answer": "no",
+        "fullAnswer": "No, there is no table in the scene."
+    },
+    {
+        "question": "Are the lamps black?",
+        "answer": "no",
+        "fullAnswer": "No, the lamps are white."
+    },
+    {
+        "question": "Is the weather rainy?",
+        "answer": "no",
+        "fullAnswer": "No, the weather is none."
+    },
+    {
+        "question": "Is there a golden object in the scene?",
+        "answer": "yes",
+        "fullAnswer": "Yes, there is a golden statue in the scene."
+    },
+    {
+        "question": "Are the actors few?",
+        "answer": "no",
+        "fullAnswer": "No, the actors are many."
+    },
+    {
+        "question": "Are the lamps located on the left?",
+        "answer": "yes",
+        "fullAnswer": "Yes, one of the lamps is located on the left."
+    },
+    {
+        "question": "Is there a small, black cat?",
+        "answer": "no",
+        "fullAnswer": "No, there is no cat in the image."
+    },
+    {
+        "question": "Is there a light fixture in the scene?",
+        "answer": "yes",
+        "fullAnswer": "Yes, there are two lamps in the scene."
+    },
+    {
+        "question": "Are the actors wearing western clothing?",
+        "answer": "no",
+        "fullAnswer": "No, the actors are wearing Thai costumes."
+    },
+    {
+        "question": "Is the statue made of wood?",
+        "answer": "no",
+        "fullAnswer": "No, the statue is gold."
+    },
+    {
+        "question": "Are there any red lamps?",
+        "answer": "no",
+        "fullAnswer": "No, there are white lamps."
+    },
+    {
+        "question": "Is the performance taking place indoors?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the location is a stage."
+    }
+]

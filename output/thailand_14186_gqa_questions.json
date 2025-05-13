@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Are all of the musicians female?",
+        "answer": "no",
+        "fullAnswer": "No, the musicians are male."
+    },
+    {
+        "question": "Is there a male wearing a yellow shirt?",
+        "answer": "yes",
+        "fullAnswer": "Yes, there are multiple males wearing yellow shirts."
+    },
+    {
+        "question": "Is the location described as a kitchen?",
+        "answer": "no",
+        "fullAnswer": "No, the location is described as a stage."
+    },
+    {
+        "question": "Are the drums made of wood?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the drums are made of wood."
+    },
+    {
+        "question": "Are the performers in the back wearing blue clothes?",
+        "answer": "no",
+        "fullAnswer": "No, the performers in the back are wearing thai dresses."
+    },
+    {
+        "question": "Is there a musical instrument called a flute?",
+        "answer": "yes",
+        "fullAnswer": "Yes, there is a musical instrument called a flute (ปี่)."
+    },
+    {
+        "question": "Are all the thai dresses worn by women?",
+        "answer": "yes",
+        "fullAnswer": "Yes, all the thai dresses are worn by women."
+    },
+    {
+        "question": "Is it sunny in the scene?",
+        "answer": "no",
+        "fullAnswer": "No, the weather is described as none."
+    },
+    {
+        "question": "Are the musicians standing?",
+        "answer": "no",
+        "fullAnswer": "No, the musicians are sitting."
+    },
+    {
+        "question": "Is the flute brown?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the flute is brown."
+    },
+    {
+        "question": "Is there a person playing the flute?",
+        "answer": "yes",
+        "fullAnswer": "Yes, there is a person playing the flute."
+    },
+    {
+        "question": "Are the actors taller than the musicians?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the actors are taller than the musicians."
+    },
+    {
+        "question": "Are any of the drums white?",
+        "answer": "no",
+        "fullAnswer": "No, all the drums are brown."
+    },
+    {
+        "question": "Is the stage wet?",
+        "answer": "no",
+        "fullAnswer": "The state of the stage is unknown."
+    },
+    {
+        "question": "Is there a musical instrument that is described as a 'ระนาด'?",
+        "answer": "yes",
+        "fullAnswer": "Yes, there is an instrument called 'ระนาด'."
+    },
+    {
+        "question": "Are there more than 3 women?",
+        "answer": "yes",
+        "fullAnswer": "Yes, there are more than 3 women."
+    },
+    {
+        "question": "Is the flute being played by a woman?",
+        "answer": "no",
+        "fullAnswer": "No, the flute is being played by a man."
+    },
+    {
+        "question": "Are the actors wearing shoes?",
+        "answer": "no",
+        "fullAnswer": "The question of whether the actors are wearing shoes cannot be determined from the given information."
+    },
+    {
+        "question": "Is the stage made of glass?",
+        "answer": "no",
+        "fullAnswer": "The material of the stage is unknown."
+    },
+    {
+        "question": "Are the drums located behind the musicians?",
+        "answer": "no",
+        "fullAnswer": "No, the musicians are playing the drums."
+    }
+]

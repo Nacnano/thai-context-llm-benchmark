@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Is the Buddha statue made of silver?",
+        "answer": "no",
+        "fullAnswer": "No, the Buddha statue is made of gold."
+    },
+    {
+        "question": "Are the people standing?",
+        "answer": "no",
+        "fullAnswer": "No, the people are sitting."
+    },
+    {
+        "question": "Is the altar black?",
+        "answer": "no",
+        "fullAnswer": "No, the altar is gold."
+    },
+    {
+        "question": "Are there any animals in the scene?",
+        "answer": "no",
+        "fullAnswer": "No, there are no animals in the scene."
+    },
+    {
+        "question": "Is the painting new?",
+        "answer": "no",
+        "fullAnswer": "No, the painting is old."
+    },
+    {
+        "question": "Is it raining in the image?",
+        "answer": "no",
+        "fullAnswer": "No, the weather is nonexistent."
+    },
+    {
+        "question": "Are the walls blue?",
+        "answer": "no",
+        "fullAnswer": "No, the walls are white."
+    },
+    {
+        "question": "Is the Buddha statue located on the table?",
+        "answer": "no",
+        "fullAnswer": "No, the Buddha statue is located on the altar."
+    },
+    {
+        "question": "Are the monks dancing?",
+        "answer": "no",
+        "fullAnswer": "No, the monks are chanting."
+    },
+    {
+        "question": "Is there a table in front of the monks?",
+        "answer": "no",
+        "fullAnswer": "No, there is an altar in front of the monks."
+    },
+    {
+        "question": "Is the statue located on the wall?",
+        "answer": "no",
+        "fullAnswer": "No, the painting is located on the wall."
+    },
+    {
+        "question": "Are the people looking away from the Buddha?",
+        "answer": "no",
+        "fullAnswer": "No, the people are looking at the Buddha."
+    },
+    {
+        "question": "Is the altar plain?",
+        "answer": "no",
+        "fullAnswer": "No, the altar is decorated."
+    },
+    {
+        "question": "Is the Buddha Statue sitting?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the Buddha Statue is sitting."
+    },
+    {
+        "question": "Is there something behind the monks?",
+        "answer": "yes",
+        "fullAnswer": "Yes, there are people behind the monks."
+    },
+    {
+        "question": "Are the walls newly painted?",
+        "answer": "no",
+        "fullAnswer": "No, the walls are old."
+    },
+    {
+        "question": "Are the people smiling?",
+        "answer": "no",
+        "fullAnswer": "No, the people are devout."
+    },
+    {
+        "question": "Is the altar silver?",
+        "answer": "no",
+        "fullAnswer": "No, the altar is golden."
+    },
+    {
+        "question": "Are the people talking?",
+        "answer": "no",
+        "fullAnswer": "No, the people are listening."
+    },
+    {
+        "question": "Is the location a school?",
+        "answer": "no",
+        "fullAnswer": "No, the location is a temple."
+    }
+]

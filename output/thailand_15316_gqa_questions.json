@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Is the sand brown?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the sand is brown."
+    },
+    {
+        "question": "Are the flags on the sandcastle blue?",
+        "answer": "yes",
+        "fullAnswer": "Yes, some of the flags are blue."
+    },
+    {
+        "question": "Is the sandcastle small?",
+        "answer": "no",
+        "fullAnswer": "No, the sandcastle is large."
+    },
+    {
+        "question": "Are there any dogs in the scene?",
+        "answer": "no",
+        "fullAnswer": "No, there are no dogs in the scene."
+    },
+    {
+        "question": "Are there people around the sandcastle?",
+        "answer": "yes",
+        "fullAnswer": "Yes, there are people around the sandcastle."
+    },
+    {
+        "question": "Is the little girl wearing a blue dress?",
+        "answer": "no",
+        "fullAnswer": "No, the little girl is wearing a dress but it is not blue."
+    },
+    {
+        "question": "Is the weather rainy?",
+        "answer": "no",
+        "fullAnswer": "No, the weather is sunny."
+    },
+    {
+        "question": "Are the flags hanging above the people?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the flags are hanging above the people."
+    },
+    {
+        "question": "Is the sandcastle decorated with flowers?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the sandcastle is decorated with flowers."
+    },
+    {
+        "question": "Are there many people?",
+        "answer": "yes",
+        "fullAnswer": "Yes, there are many people."
+    },
+    {
+        "question": "Is the girl far from the sandcastle?",
+        "answer": "no",
+        "fullAnswer": "No, the girl is near the sandcastle."
+    },
+    {
+        "question": "Are the flags colorful?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the flags are colorful."
+    },
+    {
+        "question": "Is the location a beach?",
+        "answer": "no",
+        "fullAnswer": "No, the location is an outdoor field."
+    },
+    {
+        "question": "Are there any cars visible?",
+        "answer": "no",
+        "fullAnswer": "No, there are no cars visible in the scene graph."
+    },
+    {
+        "question": "Is the sandcastle made of stone?",
+        "answer": "no",
+        "fullAnswer": "No, the sandcastle is made of sand."
+    },
+    {
+        "question": "Are all the people wearing hats?",
+        "answer": "no",
+        "fullAnswer": "No, not all the people are wearing hats."
+    },
+    {
+        "question": "Is the little girl sad?",
+        "answer": "no",
+        "fullAnswer": "No, the little girl is playing."
+    },
+    {
+        "question": "Are there any trees in the scene?",
+        "answer": "no",
+        "fullAnswer": "No, there are no trees in the scene graph description."
+    },
+    {
+        "question": "Are the flags small?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the flags are small"
+    },
+    {
+        "question": "Is the sand wet?",
+        "answer": "no",
+        "fullAnswer": "No, the sand's attribute is not listed as wet"
+    }
+]

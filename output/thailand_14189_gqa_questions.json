@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Are the performers wearing Thai costumes?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the performers are wearing Thai costumes."
+    },
+    {
+        "question": "Is the roof of the church orange?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the roof of the church is orange."
+    },
+    {
+        "question": "Is the performance director sitting?",
+        "answer": "no",
+        "fullAnswer": "No, the performance director is standing."
+    },
+    {
+        "question": "Is the building blue?",
+        "answer": "no",
+        "fullAnswer": "No, the building is white."
+    },
+    {
+        "question": "Are the performers dancing?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the performers are dancing."
+    },
+    {
+        "question": "Is the church roof made of wood?",
+        "answer": "no",
+        "fullAnswer": "No, the church roof is made of tiles."
+    },
+    {
+        "question": "Is the performance director wearing a blue shirt?",
+        "answer": "no",
+        "fullAnswer": "No, the performance director is wearing a yellow shirt."
+    },
+    {
+        "question": "Is the building one story?",
+        "answer": "no",
+        "fullAnswer": "No, the building is multi-storied."
+    },
+    {
+        "question": "Is the scene taking place indoors?",
+        "answer": "no",
+        "fullAnswer": "No, the scene is taking place outdoors."
+    },
+    {
+        "question": "Is the weather rainy?",
+        "answer": "no",
+        "fullAnswer": "No, the weather is sunny."
+    },
+    {
+        "question": "Is there a red car present?",
+        "answer": "no",
+        "fullAnswer": "No, there is no red car present."
+    },
+    {
+        "question": "Is the church roof metal?",
+        "answer": "no",
+        "fullAnswer": "No, the church roof is tile."
+    },
+    {
+        "question": "Is the performance director short?",
+        "answer": "no",
+        "fullAnswer": "no"
+    },
+    {
+        "question": "Is the outdoor location a temple?",
+        "answer": "no",
+        "fullAnswer": "no"
+    },
+    {
+        "question": "Is there ice present?",
+        "answer": "no",
+        "fullAnswer": "No, there is no ice present."
+    },
+    {
+        "question": "Is the roof white?",
+        "answer": "no",
+        "fullAnswer": "No, the roof is orange."
+    },
+    {
+        "question": "Is the performance director sitting down?",
+        "answer": "no",
+        "fullAnswer": "No, the performance director is standing."
+    },
+    {
+        "question": "Is the building made of wood?",
+        "answer": "no",
+        "fullAnswer": "no"
+    },
+    {
+        "question": "Is the weather cloudy?",
+        "answer": "no",
+        "fullAnswer": "No, the weather is sunny."
+    },
+    {
+        "question": "Are the actors sad?",
+        "answer": "no",
+        "fullAnswer": "no"
+    }
+]

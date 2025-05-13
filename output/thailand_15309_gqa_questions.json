@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Is the woman sitting on a chair?",
+        "answer": "no",
+        "fullAnswer": "No, the woman is sitting on a mat."
+    },
+    {
+        "question": "Is there a blue car in the picture?",
+        "answer": "no",
+        "fullAnswer": "No, there is no car in the picture."
+    },
+    {
+        "question": "Is the mat green?",
+        "answer": "no",
+        "fullAnswer": "No, the mat is red."
+    },
+    {
+        "question": "Is the weather rainy?",
+        "answer": "no",
+        "fullAnswer": "No, the weather is sunny."
+    },
+    {
+        "question": "Is the tree inside the building?",
+        "answer": "no",
+        "fullAnswer": "No, the tree is outside."
+    },
+    {
+        "question": "Is the building a house?",
+        "answer": "no",
+        "fullAnswer": "No, the building is a temple."
+    },
+    {
+        "question": "Is the woman standing?",
+        "answer": "no",
+        "fullAnswer": "No, the woman is sitting."
+    },
+    {
+        "question": "Is the offering on a plate?",
+        "answer": "no",
+        "fullAnswer": "No, the offering is in a container."
+    },
+    {
+        "question": "Is the sky cloudy?",
+        "answer": "no",
+        "fullAnswer": "No, the sky isn't mentioned in the scene graph."
+    },
+    {
+        "question": "Is the woman praying?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the woman is praying."
+    },
+    {
+        "question": "Is the tree brown?",
+        "answer": "no",
+        "fullAnswer": "No, the tree is green."
+    },
+    {
+        "question": "Is the location a school?",
+        "answer": "no",
+        "fullAnswer": "No, the location is a temple."
+    },
+    {
+        "question": "Is the temple new?",
+        "answer": "no",
+        "fullAnswer": "No, the temple is old."
+    },
+    {
+        "question": "Is the woman close to the tree?",
+        "answer": "no",
+        "fullAnswer": "No, the woman is close to the offering."
+    },
+    {
+        "question": "Is there a car near the woman?",
+        "answer": "no",
+        "fullAnswer": "No, there is no car near the woman."
+    },
+    {
+        "question": "Is the mat blue?",
+        "answer": "no",
+        "fullAnswer": "No, the mat is red."
+    },
+    {
+        "question": "Is the woman wearing glasses?",
+        "answer": "unknown",
+        "fullAnswer": "Unknown, the scene graph doesn't provide the information."
+    },
+    {
+        "question": "Are the trees yellow?",
+        "answer": "no",
+        "fullAnswer": "No, the trees are green."
+    },
+    {
+        "question": "Is the food sweet?",
+        "answer": "unknown",
+        "fullAnswer": "Unknown, the scene graph doesn't specify."
+    },
+    {
+        "question": "Are there any animals in the image?",
+        "answer": "no",
+        "fullAnswer": "No, there is no animal in the image."
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Are the performers wearing shoes?",
+        "answer": "no",
+        "fullAnswer": "No, the performers are not wearing shoes."
+    },
+    {
+        "question": "Is the stage blue?",
+        "answer": "no",
+        "fullAnswer": "No, the stage is red."
+    },
+    {
+        "question": "Are there any animals in the scene?",
+        "answer": "no",
+        "fullAnswer": "No, there are no animals in the scene."
+    },
+    {
+        "question": "Is the weather sunny?",
+        "answer": "no",
+        "fullAnswer": "No, there is no specified weather."
+    },
+    {
+        "question": "Is there a bicycle in the image?",
+        "answer": "no",
+        "fullAnswer": "No, there is no bicycle in the image."
+    },
+    {
+        "question": "Are the trees short?",
+        "answer": "no",
+        "fullAnswer": "No, the trees are tall."
+    },
+    {
+        "question": "Are the cars in the front of the image?",
+        "answer": "no",
+        "fullAnswer": "No, the cars are in the back of the image."
+    },
+    {
+        "question": "Is the dancer wearing a hat?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the dancer is wearing a crown."
+    },
+    {
+        "question": "Is the stage made of metal?",
+        "answer": "no",
+        "fullAnswer": "No, the stage is made of fabric."
+    },
+    {
+        "question": "Are the trees bare?",
+        "answer": "no",
+        "fullAnswer": "No, the trees are green and bushy."
+    },
+    {
+        "question": "Are the spectators few in number?",
+        "answer": "no",
+        "fullAnswer": "No, the spectators are numerous."
+    },
+    {
+        "question": "Is the stage located outdoors?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the scene is outdoors."
+    },
+    {
+        "question": "Is the car black?",
+        "answer": "no",
+        "fullAnswer": "No, the car is white."
+    },
+    {
+        "question": "Is the dancer holding a microphone?",
+        "answer": "no",
+        "fullAnswer": "No, the dancer is dancing and is surrounded by viewers."
+    },
+    {
+        "question": "Is the weather rainy?",
+        "answer": "no",
+        "fullAnswer": "No, the weather is not specified."
+    },
+    {
+        "question": "Is the performance taking place indoors?",
+        "answer": "no",
+        "fullAnswer": "No, the performance is taking place outdoors."
+    },
+    {
+        "question": "Is the stage small?",
+        "answer": "no",
+        "fullAnswer": "No, the stage is large."
+    },
+    {
+        "question": "Are the viewers bored?",
+        "answer": "no",
+        "fullAnswer": "No, the viewers are standing and watching."
+    },
+    {
+        "question": "Is the tree short?",
+        "answer": "no",
+        "fullAnswer": "No, the tree is tall."
+    },
+    {
+        "question": "Is the dancer sitting?",
+        "answer": "no",
+        "fullAnswer": "No, the dancers are dancing."
+    }
+]

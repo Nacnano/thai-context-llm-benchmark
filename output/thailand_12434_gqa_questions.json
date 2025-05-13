@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Is the woman wearing a red shirt?",
+        "answer": "no",
+        "fullAnswer": "No, the woman is wearing a purple shirt."
+    },
+    {
+        "question": "Is the man wearing blue pants?",
+        "answer": "no",
+        "fullAnswer": "No, the man is wearing red pants."
+    },
+    {
+        "question": "Is the mat black?",
+        "answer": "no",
+        "fullAnswer": "No, the mat is white."
+    },
+    {
+        "question": "Is the window made of metal?",
+        "answer": "no",
+        "fullAnswer": "No, the window is made of wood."
+    },
+    {
+        "question": "Is there a dog in the room?",
+        "answer": "no",
+        "fullAnswer": "No, there is no dog in the room."
+    },
+    {
+        "question": "Is there a table in the living room?",
+        "answer": "no",
+        "fullAnswer": "No, there is no table in the living room."
+    },
+    {
+        "question": "Is the woman sitting on a chair?",
+        "answer": "no",
+        "fullAnswer": "No, the woman is on the mat."
+    },
+    {
+        "question": "Is the man standing?",
+        "answer": "no",
+        "fullAnswer": "No, the man is sitting."
+    },
+    {
+        "question": "Are the books on a table?",
+        "answer": "no",
+        "fullAnswer": "No, the books are on a shelf."
+    },
+    {
+        "question": "Is the window clear?",
+        "answer": "no",
+        "fullAnswer": "No, the window is wooden and blue."
+    },
+    {
+        "question": "Is there a lamp in the room?",
+        "answer": "no",
+        "fullAnswer": "No, there is no lamp in the room."
+    },
+    {
+        "question": "Is the woman wearing brown pants?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the woman is wearing brown pants."
+    },
+    {
+        "question": "Is the man massaging the woman?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the man is massaging the woman."
+    },
+    {
+        "question": "Is the room a kitchen?",
+        "answer": "no",
+        "fullAnswer": "No, the room is a living room."
+    },
+    {
+        "question": "Is the weather rainy?",
+        "answer": "no",
+        "fullAnswer": "No, there is no weather mentioned."
+    },
+    {
+        "question": "Are the books on the floor?",
+        "answer": "no",
+        "fullAnswer": "No, the books are on a shelf."
+    },
+    {
+        "question": "Is the woman sitting on the floor?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the woman is sitting on the mat which is on the floor."
+    },
+    {
+        "question": "Is the man wearing a striped shirt?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the man is wearing a striped shirt."
+    },
+    {
+        "question": "Is the window close to the woman?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the window is close to the woman."
+    },
+    {
+        "question": "Is the mat located near the man?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the man is on the mat."
+    }
+]

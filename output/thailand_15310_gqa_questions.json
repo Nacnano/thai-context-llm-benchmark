@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Is the crowd small?",
+        "answer": "no",
+        "fullAnswer": "No, the crowd is large."
+    },
+    {
+        "question": "Is the Buddha statue silver?",
+        "answer": "no",
+        "fullAnswer": "No, the Buddha statue is gold."
+    },
+    {
+        "question": "Is the crowd thin?",
+        "answer": "no",
+        "fullAnswer": "No, the crowd is dense."
+    },
+    {
+        "question": "Is the water dirty?",
+        "answer": "no",
+        "fullAnswer": "No, the water is clean."
+    },
+    {
+        "question": "Is the weather rainy?",
+        "answer": "no",
+        "fullAnswer": "No, the weather is sunny."
+    },
+    {
+        "question": "Is the Buddha statue below the crowd?",
+        "answer": "no",
+        "fullAnswer": "No, the Buddha statue is above the crowd."
+    },
+    {
+        "question": "Is the water stationary?",
+        "answer": "no",
+        "fullAnswer": "No, the water is splashing."
+    },
+    {
+        "question": "Is the crowd static?",
+        "answer": "no",
+        "fullAnswer": "No, the crowd is moving."
+    },
+    {
+        "question": "Is the Buddha statue made of wood?",
+        "answer": "no",
+        "fullAnswer": "No, the Buddha statue is gold."
+    },
+    {
+        "question": "Is the road made of grass?",
+        "answer": "no",
+        "fullAnswer": "No, the road is paved."
+    },
+    {
+        "question": "Is there a Buddha statue above the crowd?",
+        "answer": "yes",
+        "fullAnswer": "Yes, there is a Buddha statue above the crowd."
+    },
+    {
+        "question": "Is the crowd wet?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the crowd is wet from the splashing water."
+    },
+    {
+        "question": "Is the Buddha statue small?",
+        "answer": "no",
+        "fullAnswer": "No, the Buddha statue is of a moderate size."
+    },
+    {
+        "question": "Is the water being thrown at the crowd?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the water is being splashed at the crowd."
+    },
+    {
+        "question": "Is the crowd calm?",
+        "answer": "no",
+        "fullAnswer": "No, the crowd is active."
+    },
+    {
+        "question": "Is the Buddha statue blue?",
+        "answer": "no",
+        "fullAnswer": "No, the Buddha statue is gold."
+    },
+    {
+        "question": "Is the weather cloudy?",
+        "answer": "no",
+        "fullAnswer": "No, the weather is sunny."
+    },
+    {
+        "question": "Is there a car in the crowd?",
+        "answer": "no",
+        "fullAnswer": "No, there is no car in the crowd."
+    },
+    {
+        "question": "Is the water clean?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the water is clean."
+    },
+    {
+        "question": "Is there a golden Buddha statue?",
+        "answer": "yes",
+        "fullAnswer": "Yes, there is a golden Buddha statue."
+    }
+]

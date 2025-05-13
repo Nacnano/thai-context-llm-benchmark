@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Is there an actor on the stage?",
+        "answer": "yes",
+        "fullAnswer": "Yes, there is an actor on the stage."
+    },
+    {
+        "question": "Is the ceremony important?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the ceremony is important."
+    },
+    {
+        "question": "Is the cloth clean?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the cloth is clean."
+    },
+    {
+        "question": "Are the dancers wearing Thai costumes?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the dancers are wearing Thai costumes."
+    },
+    {
+        "question": "Is there a blue curtain?",
+        "answer": "no",
+        "fullAnswer": "No, there is no blue curtain."
+    },
+    {
+        "question": "Is the candle white?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the candle is white."
+    },
+    {
+        "question": "Is the ceremony happening indoors?",
+        "answer": "no",
+        "fullAnswer": "No, the ceremony is not happening indoors."
+    },
+    {
+        "question": "Are the dancers standing next to the actor?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the dancers are standing next to the actor."
+    },
+    {
+        "question": "Is the cloth black?",
+        "answer": "no",
+        "fullAnswer": "No, the cloth is not black. It is white."
+    },
+    {
+        "question": "Are the Thai costumes simple?",
+        "answer": "no",
+        "fullAnswer": "No, the Thai costumes are not simple. They are colorful."
+    },
+    {
+        "question": "Is the candle short?",
+        "answer": "no",
+        "fullAnswer": "No, the candle is not short."
+    },
+    {
+        "question": "Is the ceremony secular?",
+        "answer": "no",
+        "fullAnswer": "No, the ceremony is not secular. It is sacred."
+    },
+    {
+        "question": "Is there an animal present?",
+        "answer": "no",
+        "fullAnswer": "No, there is no animal present."
+    },
+    {
+        "question": "Is the dancer wearing a hat?",
+        "answer": "no",
+        "fullAnswer": "No, the dancer is not wearing a hat."
+    },
+    {
+        "question": "Is the cloth used for a table?",
+        "answer": "no",
+        "fullAnswer": "No, the cloth is not used for a table; it's used as a seat."
+    },
+    {
+        "question": "Is there a green plant?",
+        "answer": "no",
+        "fullAnswer": "No, there is no green plant."
+    },
+    {
+        "question": "Is the actor wearing shoes?",
+        "answer": "no",
+        "fullAnswer": "No, the actor is not wearing shoes."
+    },
+    {
+        "question": "Are the dancers wearing necklaces?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the dancers are wearing necklaces (jewelry)."
+    },
+    {
+        "question": "Is the location a temple?",
+        "answer": "no",
+        "fullAnswer": "No, the location is not a temple. It's a stage."
+    },
+    {
+        "question": "Is it raining?",
+        "answer": "no",
+        "fullAnswer": "No, the weather is none."
+    }
+]

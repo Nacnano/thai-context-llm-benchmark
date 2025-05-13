@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Is there a woman with short hair in the scene?",
+        "answer": "yes",
+        "fullAnswer": "Yes, there is a woman with short hair in the scene."
+    },
+    {
+        "question": "Is there a wall that is not made of wood?",
+        "answer": "no",
+        "fullAnswer": "No, there is a wall and it is made of wood."
+    },
+    {
+        "question": "Is the woman on the right wearing a brown shirt?",
+        "answer": "no",
+        "fullAnswer": "No, the woman on the right is wearing a white shirt."
+    },
+    {
+        "question": "Is there a floor in the image?",
+        "answer": "yes",
+        "fullAnswer": "Yes, there is a floor in the image."
+    },
+    {
+        "question": "Is the woman on the left massaging the woman on the right?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the woman on the left is massaging the woman on the right."
+    },
+    {
+        "question": "Is there a woman with long hair?",
+        "answer": "yes",
+        "fullAnswer": "Yes, there is a woman with long hair."
+    },
+    {
+        "question": "Is the scene taking place outdoors?",
+        "answer": "no",
+        "fullAnswer": "No, the scene is taking place indoors."
+    },
+    {
+        "question": "Is the floor made of wood?",
+        "answer": "no",
+        "fullAnswer": "No, the floor is not described as made of wood."
+    },
+    {
+        "question": "Is the woman on the left wearing a white shirt?",
+        "answer": "no",
+        "fullAnswer": "No, the woman on the left is wearing a brown shirt."
+    },
+    {
+        "question": "Is there a table in the scene?",
+        "answer": "no",
+        "fullAnswer": "No, there is no table in the scene."
+    },
+    {
+        "question": "Does the woman on the right have short hair?",
+        "answer": "no",
+        "fullAnswer": "No, the woman on the right has long hair."
+    },
+    {
+        "question": "Is the wall painted blue?",
+        "answer": "no",
+        "fullAnswer": "No, the wall is made of wood."
+    },
+    {
+        "question": "Is there a hand on the woman with long hair?",
+        "answer": "yes",
+        "fullAnswer": "Yes, there is a hand on the woman with long hair."
+    },
+    {
+        "question": "Is it raining in the image?",
+        "answer": "no",
+        "fullAnswer": "No, the weather is described as 'ไม่มี' which means 'none'."
+    },
+    {
+        "question": "Is the woman with long hair wearing a skirt?",
+        "answer": "no",
+        "fullAnswer": "No, the woman with long hair is wearing a white shirt."
+    },
+    {
+        "question": "Is there a window in the scene?",
+        "answer": "no",
+        "fullAnswer": "No, there is no window in the scene."
+    },
+    {
+        "question": "Is the woman on the left wearing a ponytail?",
+        "answer": "no",
+        "fullAnswer": "No, the woman on the left has short hair."
+    },
+    {
+        "question": "Is the floor blue?",
+        "answer": "no",
+        "fullAnswer": "No, the color of the floor is not specified."
+    },
+    {
+        "question": "Are both women wearing the same color shirt?",
+        "answer": "no",
+        "fullAnswer": "No, one woman is wearing brown and the other is wearing white."
+    },
+    {
+        "question": "Is the wall made of brick?",
+        "answer": "no",
+        "fullAnswer": "No, the wall is made of wood."
+    }
+]

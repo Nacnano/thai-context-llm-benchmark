@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Is the drawing of a human body new?",
+        "answer": "no",
+        "fullAnswer": "No, the drawing of a human body is old."
+    },
+    {
+        "question": "Are there any dogs in the scene?",
+        "answer": "no",
+        "fullAnswer": "No, there are no dogs in the scene."
+    },
+    {
+        "question": "Is the wall made of wood?",
+        "answer": "no",
+        "fullAnswer": "No, the wall is made of stone and cement."
+    },
+    {
+        "question": "Is the drawing on the floor?",
+        "answer": "no",
+        "fullAnswer": "No, the drawing is on the wall."
+    },
+    {
+        "question": "Is there a modern style to the Thai characters?",
+        "answer": "no",
+        "fullAnswer": "No, the Thai characters are ancient."
+    },
+    {
+        "question": "Are the decorations on the wall square?",
+        "answer": "no",
+        "fullAnswer": "No, the decorations are floral and circular."
+    },
+    {
+        "question": "Are the floral decorations red?",
+        "answer": "no",
+        "fullAnswer": "No, the floral decorations are green."
+    },
+    {
+        "question": "Is there a skeleton in the image?",
+        "answer": "yes",
+        "fullAnswer": "Yes, there is a skeleton in the image."
+    },
+    {
+        "question": "Is the weather rainy?",
+        "answer": "no",
+        "fullAnswer": "No, there is no weather mentioned."
+    },
+    {
+        "question": "Is the painting related to plants?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the painting shows the connection between the human body and the wall and there is decoration with flowers"
+    },
+    {
+        "question": "Is the drawing of a human body on the floor?",
+        "answer": "no",
+        "fullAnswer": "No, the drawing of a human body is on the wall."
+    },
+    {
+        "question": "Is the wall decoration blue?",
+        "answer": "no",
+        "fullAnswer": "No, the wall decoration is green."
+    },
+    {
+        "question": "Is there a table in the scene?",
+        "answer": "no",
+        "fullAnswer": "No, there is no table in the scene."
+    },
+    {
+        "question": "Are the Thai characters written in pencil?",
+        "answer": "no",
+        "fullAnswer": "No, the Thai characters are written in handwriting."
+    },
+    {
+        "question": "Is the human body drawing a recent creation?",
+        "answer": "no",
+        "fullAnswer": "No, the human body drawing is old."
+    },
+    {
+        "question": "Is the location a modern building?",
+        "answer": "no",
+        "fullAnswer": "No, the location is a temple wall."
+    },
+    {
+        "question": "Is the wall made of glass?",
+        "answer": "no",
+        "fullAnswer": "No, the wall is made of stone."
+    },
+    {
+        "question": "Are the decorative patterns square?",
+        "answer": "no",
+        "fullAnswer": "No, the decorative patterns are floral and circular."
+    },
+    {
+        "question": "Is the human skeleton a complete one?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the human skeleton is a complete one."
+    },
+    {
+        "question": "Is the skeleton connected to the text?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the skeleton is connected to the body drawing."
+    }
+]

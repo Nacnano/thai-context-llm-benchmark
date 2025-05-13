@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Is the woman wearing a hijab massaging someone?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the woman wearing a hijab is massaging someone."
+    },
+    {
+        "question": "Is there a rectangular object that is black in color?",
+        "answer": "yes",
+        "fullAnswer": "Yes, there is a rectangular object, which is a mat, that is black in color."
+    },
+    {
+        "question": "Is the window closed?",
+        "answer": "unknown",
+        "fullAnswer": "It is unknown whether the window is closed or not."
+    },
+    {
+        "question": "Is the woman who is being massaged lying on a mat?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the woman who is being massaged is lying on a mat."
+    },
+    {
+        "question": "Is the fan moving?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the fan is moving."
+    },
+    {
+        "question": "Is the chair in the room made of leather?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the chair in the room is made of leather."
+    },
+    {
+        "question": "Is there a projector in the room?",
+        "answer": "yes",
+        "fullAnswer": "Yes, there is a projector in the room."
+    },
+    {
+        "question": "Is the projector hanging?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the projector is hanging."
+    },
+    {
+        "question": "Is there a square window?",
+        "answer": "yes",
+        "fullAnswer": "Yes, there is a square window."
+    },
+    {
+        "question": "Is the fan's color white?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the fan's color is white."
+    },
+    {
+        "question": "Is one of the women sitting?",
+        "answer": "yes",
+        "fullAnswer": "Yes, one of the women is sitting."
+    },
+    {
+        "question": "Is the person being massaged wearing a t-shirt?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the person being massaged is wearing a t-shirt."
+    },
+    {
+        "question": "Is the mat on top of a table?",
+        "answer": "no",
+        "fullAnswer": "No, the mat is not on top of a table."
+    },
+    {
+        "question": "Is the window large?",
+        "answer": "unknown",
+        "fullAnswer": "It is unknown whether the window is large or not."
+    },
+    {
+        "question": "Are there curtains on the window?",
+        "answer": "yes",
+        "fullAnswer": "Yes, there are curtains on the window."
+    },
+    {
+        "question": "Is the room outdoors?",
+        "answer": "no",
+        "fullAnswer": "No, the room is not outdoors."
+    },
+    {
+        "question": "Is the hijab black?",
+        "answer": "unknown",
+        "fullAnswer": "It is unknown what color the hijab is."
+    },
+    {
+        "question": "Is someone working on a computer?",
+        "answer": "unknown",
+        "fullAnswer": "It is unknown whether someone is working on a computer."
+    },
+    {
+        "question": "Is the floor dirty?",
+        "answer": "unknown",
+        "fullAnswer": "It is unknown whether the floor is dirty."
+    },
+    {
+        "question": "Are there more than two women in the room?",
+        "answer": "yes",
+        "fullAnswer": "Yes, there are more than two women in the room."
+    }
+]

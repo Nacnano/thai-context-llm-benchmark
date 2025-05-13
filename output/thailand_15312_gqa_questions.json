@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Is the woman wearing a dress with lace?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the woman is wearing a dress with lace."
+    },
+    {
+        "question": "Is there a blue object in the image?",
+        "answer": "no",
+        "fullAnswer": "No, there are no blue objects in the image."
+    },
+    {
+        "question": "Is the monk wearing an orange robe?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the monk is wearing an orange robe."
+    },
+    {
+        "question": "Is the brass bowl located on a table?",
+        "answer": "no",
+        "fullAnswer": "No, the brass bowl is on a mat."
+    },
+    {
+        "question": "Is the mat blue?",
+        "answer": "no",
+        "fullAnswer": "No, the mat is red."
+    },
+    {
+        "question": "Is the woman's hair blonde?",
+        "answer": "no",
+        "fullAnswer": "No, the woman's hair is black."
+    },
+    {
+        "question": "Is the sky cloudy?",
+        "answer": "no",
+        "fullAnswer": "No, the weather is sunny."
+    },
+    {
+        "question": "Is the temple located in a forest?",
+        "answer": "no",
+        "fullAnswer": "No, the location is วัด."
+    },
+    {
+        "question": "Is the man wearing a green shirt?",
+        "answer": "no",
+        "fullAnswer": "No, the man is wearing a pink shirt."
+    },
+    {
+        "question": "Is the brass bowl silver?",
+        "answer": "no",
+        "fullAnswer": "No, the brass bowl is golden."
+    },
+    {
+        "question": "Is there a car in the image?",
+        "answer": "no",
+        "fullAnswer": "No, there is no car in the image."
+    },
+    {
+        "question": "Is the person pouring water a child?",
+        "answer": "no",
+        "fullAnswer": "No, the person pouring water is a woman."
+    },
+    {
+        "question": "Is the temple made of wood?",
+        "answer": "no",
+        "fullAnswer": "The temple is not described in terms of material."
+    },
+    {
+        "question": "Is the mat smooth?",
+        "answer": "no",
+        "fullAnswer": "No, the mat is patterned."
+    },
+    {
+        "question": "Is the monk wearing a hat?",
+        "answer": "no",
+        "fullAnswer": "No, the monk is not wearing a hat."
+    },
+    {
+        "question": "Is the woman wearing pants?",
+        "answer": "no",
+        "fullAnswer": "It is uncertain, but she is wearing a lace shirt."
+    },
+    {
+        "question": "Is the man receiving water bald?",
+        "answer": "no",
+        "fullAnswer": "The man has hair."
+    },
+    {
+        "question": "Is there a cat in the image?",
+        "answer": "no",
+        "fullAnswer": "No, there is no cat in the image."
+    },
+    {
+        "question": "Is the weather raining?",
+        "answer": "no",
+        "fullAnswer": "No, the weather is sunny."
+    },
+    {
+        "question": "Is the bowl made of clay?",
+        "answer": "no",
+        "fullAnswer": "No, the bowl is made of brass."
+    }
+]

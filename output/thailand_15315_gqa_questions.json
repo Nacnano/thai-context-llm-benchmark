@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Is the man on the left stirring the pot?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the man on the left is stirring the pot."
+    },
+    {
+        "question": "Are there any liquids in the pan?",
+        "answer": "yes",
+        "fullAnswer": "Yes, there are liquids in the pan."
+    },
+    {
+        "question": "Is the liquid in the pan clear?",
+        "answer": "no",
+        "fullAnswer": "No, the liquid in the pan is brown."
+    },
+    {
+        "question": "Are both men wearing hats?",
+        "answer": "yes",
+        "fullAnswer": "Yes, both men are wearing hats."
+    },
+    {
+        "question": "Is the environment an indoor setting?",
+        "answer": "no",
+        "fullAnswer": "No, the environment is outdoors."
+    },
+    {
+        "question": "Is one of the men stirring the pot with a spoon?",
+        "answer": "no",
+        "fullAnswer": "No, both men are stirring the pot with logs."
+    },
+    {
+        "question": "Is the pan small?",
+        "answer": "no",
+        "fullAnswer": "No, the pan is big."
+    },
+    {
+        "question": "Is there any fire in the scene?",
+        "answer": "no",
+        "fullAnswer": "No, there is no fire in the scene."
+    },
+    {
+        "question": "Is the pan square?",
+        "answer": "no",
+        "fullAnswer": "No, the pan is round."
+    },
+    {
+        "question": "Is the liquid in the pan blue?",
+        "answer": "no",
+        "fullAnswer": "No, the liquid in the pan is brown."
+    },
+    {
+        "question": "Are the logs short?",
+        "answer": "no",
+        "fullAnswer": "No, the logs are long."
+    },
+    {
+        "question": "Is the weather rainy?",
+        "answer": "no",
+        "fullAnswer": "No, the weather is not rainy."
+    },
+    {
+        "question": "Is there a bicycle in the scene?",
+        "answer": "no",
+        "fullAnswer": "No, there is no bicycle in the scene according to the scene graph."
+    },
+    {
+        "question": "Is the liquid transparent?",
+        "answer": "no",
+        "fullAnswer": "No, the liquid is not transparent."
+    },
+    {
+        "question": "Are the logs used by the people?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the logs are used by the people."
+    },
+    {
+        "question": "Is the pan metallic?",
+        "answer": "no",
+        "fullAnswer": "I am unsure from the given data, but it is likely metallic based on the context."
+    },
+    {
+        "question": "Is the sky in the scene blue?",
+        "answer": "no",
+        "fullAnswer": "No, there is no sky in the scene graph."
+    },
+    {
+        "question": "Are the men wearing glasses?",
+        "answer": "no",
+        "fullAnswer": "No, the men are not wearing glasses according to the scene graph."
+    },
+    {
+        "question": "Is the liquid cold?",
+        "answer": "no",
+        "fullAnswer": "I am unsure from the given data but likely warm."
+    },
+    {
+        "question": "Are the logs used to stir the liquid?",
+        "answer": "yes",
+        "fullAnswer": "Yes, the logs are used to stir the liquid."
+    }
+]
