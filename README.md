@@ -88,7 +88,15 @@
     - Combine everything (SAM+YOLO if possible but maybe too hard) into a pipeline
     - Benchmark (use eyes) the generated questions (make sense mai?)
 - 12/05/2025 (After final exam):
+
   - Slide
+
+- 13/05/2025:
+  - DONE:
+    - Presentation
+  - TODO:
+    - Write a detail documentaion for everything (code/prompt/steps for running the pipeline)
+    - List what to do next (any ideas) and (probably) will talk to Aj. next
 
 Present after final exam (online/onsite)
 
