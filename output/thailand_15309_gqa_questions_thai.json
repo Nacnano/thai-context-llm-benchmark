@@ -1,0 +1,102 @@
+[
+    {
+        "question": "ผู้คนกำลังทำอะไร (Phu khon kamlang tham arai - What are the people doing)?",
+        "shortAnswer": "สวดมนต์ (Suat mon - Praying)",
+        "fullAnswer": "ผู้คนจำนวนมากกำลังนั่งสวดมนต์ (Phu khon chamnuan mak kamlang nang suat mon - Many people are sitting and praying)."
+    },
+    {
+        "question": "พื้นทำจากอะไร (Phuen tham chak arai - What is the floor made of)?",
+        "shortAnswer": "เสื่อ (Suea - Mat)",
+        "fullAnswer": "พื้นทำจากเสื่อสีแดง (Phuen tham chak suea si daeng - The floor is made of a red mat)."
+    },
+    {
+        "question": "เสามีสีอะไร (Sao mi si arai - What color are the pillars)?",
+        "shortAnswer": "สีแดง (Si daeng - Red)",
+        "fullAnswer": "เสามีสีแดง (Sao mi si daeng - The pillars are red)."
+    },
+    {
+        "question": "สายสิญจน์มีสีอะไร (Sai sinchon mi si arai - What color is the sacred thread)?",
+        "shortAnswer": "สีขาว (Si khao - White)",
+        "fullAnswer": "สายสิญจน์มีสีขาว (Sai sinchon mi si khao - The sacred thread is white)."
+    },
+    {
+        "question": "ผู้คนนั่งอยู่บนอะไร (Phu khon nang yu bon arai - What are the people sitting on)?",
+        "shortAnswer": "พื้น (Phuen - Floor)",
+        "fullAnswer": "ผู้คนนั่งอยู่บนพื้นสีแดง (Phu khon nang yu bon phuen si daeng - The people are sitting on the red floor)."
+    },
+    {
+        "question": "เสาทำจากอะไร (Sao tham chak arai - What are the pillars made of)?",
+        "shortAnswer": "ไม้ (Mai - Wood)",
+        "fullAnswer": "เสาทำจากไม้ (Sao tham chak mai - The pillars are made of wood)."
+    },
+    {
+        "question": "ต้นไม้อยู่ตรงไหน (Ton mai yu trong nai - Where are the trees)?",
+        "shortAnswer": "ด้านหลัง (Dan lang - Behind)",
+        "fullAnswer": "ต้นไม้อยู่ด้านหลัง (Ton mai yu dan lang - The trees are in the background)."
+    },
+    {
+        "question": "มีคนมากไหม (Mi khon mak mai - Are there many people)?",
+        "shortAnswer": "ใช่ (Chai - Yes)",
+        "fullAnswer": "มีผู้คนจำนวนมาก (Mi phu khon chamnuan mak - There are many people)."
+    },
+    {
+        "question": "สายสิญจน์ทำอะไร (Sai sinchon tham arai - What is the sacred thread doing)?",
+        "shortAnswer": "ผูก (Phuk - Tied)",
+        "fullAnswer": "สายสิญจน์ถูกผูกข้ามผู้คน (Sai sinchon thuk phuk kham phu khon - The sacred thread is tied across the people)."
+    },
+    {
+        "question": "ภาพนี้ถ่ายที่ไหน (Phap ni thai thi nai - Where was this picture taken)?",
+        "shortAnswer": "วัด (Wat - Temple)",
+        "fullAnswer": "ภาพนี้ถ่ายที่วัด (Phap ni thai thi wat - This picture was taken at a temple)."
+    },
+    {
+        "question": "สีของต้นไม้คืออะไร (Si khong ton mai khue arai - What is the color of the trees)?",
+        "shortAnswer": "สีเขียว (Si khiao - Green)",
+        "fullAnswer": "สีของต้นไม้คือสีเขียว (Si khong ton mai khue si khiao - The color of the trees is green)."
+    },
+    {
+        "question": "ผู้คนกำลังนั่งหรือยืน (Phu khon kamlang nang rue yuen - Are the people sitting or standing)?",
+        "shortAnswer": "นั่ง (Nang - Sitting)",
+        "fullAnswer": "ผู้คนกำลังนั่ง (Phu khon kamlang nang - The people are sitting)."
+    },
+    {
+        "question": "มีเสาอยู่หน้าใคร (Mi sao yu na khrai - Who are the pillars in front of)?",
+        "shortAnswer": "ผู้คน (Phu khon - People)",
+        "fullAnswer": "เสาอยู่หน้าผู้คน (Sao yu na phu khon - The pillars are in front of the people)."
+    },
+    {
+        "question": "สภาพอากาศเป็นอย่างไร (Saphap akat pen yangrai - What is the weather like)?",
+        "shortAnswer": "ไม่มี (Mai mi - None)",
+        "fullAnswer": "สภาพอากาศไม่มีข้อมูล (Saphap akat mai mi khomun - There is no information about the weather)."
+    },
+    {
+        "question": "พื้นอยู่ตรงไหนของผู้คน (Phuen yu trong nai khong phu khon - Where is the floor in relation to the people)?",
+        "shortAnswer": "บน (Bon - On)",
+        "fullAnswer": "พื้นอยู่บนของผู้คน (Phuen yu bon khong phu khon - The floor is under the people)."
+    },
+    {
+        "question": "อะไรข้ามผู้คนอยู่ (Arai kham phu khon yu - What is going across the people)?",
+        "shortAnswer": "สายสิญจน์ (Sai sinchon - Sacred thread)",
+        "fullAnswer": "สายสิญจน์ข้ามผู้คนอยู่ (Sai sinchon kham phu khon yu - The sacred thread is going across the people)."
+    },
+    {
+        "question": "มีเสาทำจากไม้อยู่หรือไม่ (Mi sao tham chak mai yu rue mai - Are there wooden pillars)?",
+        "shortAnswer": "ใช่ (Chai - Yes)",
+        "fullAnswer": "ใช่ มีเสาทำจากไม้ (Chai, mi sao tham chak mai - Yes, there are wooden pillars)."
+    },
+    {
+        "question": "ผู้คนสวดมนต์ที่ไหน (Phu khon suat mon thi nai - Where are the people praying)?",
+        "shortAnswer": "วัด (Wat - Temple)",
+        "fullAnswer": "ผู้คนสวดมนต์ที่วัด (Phu khon suat mon thi wat - The people are praying at a temple)."
+    },
+    {
+        "question": "มีต้นไม้สีอะไร (Mi ton mai si arai - What color are the trees)?",
+        "shortAnswer": "สีเขียว (Si khiao - Green)",
+        "fullAnswer": "มีต้นไม้สีเขียว (Mi ton mai si khiao - There are green trees)."
+    },
+    {
+        "question": "พื้นมีสีอะไร (Phuen mi si arai - What color is the floor)?",
+        "shortAnswer": "สีแดง (Si daeng - Red)",
+        "fullAnswer": "พื้นมีสีแดง (Phuen mi si daeng - The floor is red)."
+    }
+]

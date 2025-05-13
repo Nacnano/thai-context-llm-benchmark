@@ -1,0 +1,102 @@
+[
+    {
+        "question": "ห้องนี้มีคนกี่คน (Hong Nee Mee Khon Kee Khon - How many people are in this room)?",
+        "shortAnswer": "จำนวนมาก (Jamnuan Mak - many)",
+        "fullAnswer": "มีคนจำนวนมากในห้องนี้ (Mee Khon Jamnuan Mak Nai Hong Nee - There are many people in this room)."
+    },
+    {
+        "question": "ดอกไม้มีสีอะไร (Dok Mai Mee See Arai - What color are the flowers)?",
+        "shortAnswer": "หลากสี (Lak See - colorful)",
+        "fullAnswer": "ดอกไม้มีสีหลากสี (Dok Mai Mee See Lak See - The flowers are colorful)."
+    },
+    {
+        "question": "เทียนมีสีอะไร (Tian Mee See Arai - What color is the candle)?",
+        "shortAnswer": "สีเหลือง (See Lueang - yellow)",
+        "fullAnswer": "เทียนมีสีเหลือง (Tian Mee See Lueang - The candle is yellow)."
+    },
+    {
+        "question": "ผลไม้อยู่บนอะไร (Phon La Mai Yu Bon Arai - What are the fruits on)?",
+        "shortAnswer": "โต๊ะ (To - table)",
+        "fullAnswer": "ผลไม้อยู่บนโต๊ะ (Phon La Mai Yu Bon To - The fruits are on the table)."
+    },
+    {
+        "question": "ดอกไม้อยู่บนอะไร (Dok Mai Yu Bon Arai - What are the flowers on)?",
+        "shortAnswer": "โต๊ะ (To - table)",
+        "fullAnswer": "ดอกไม้อยู่บนโต๊ะ (Dok Mai Yu Bon To - The flowers are on the table)."
+    },
+    {
+        "question": "เทียนอยู่บนอะไร (Tian Yu Bon Arai - What is the candle on)?",
+        "shortAnswer": "โต๊ะ (To - table)",
+        "fullAnswer": "เทียนอยู่บนโต๊ะ (Tian Yu Bon To - The candle is on the table)."
+    },
+    {
+        "question": "ลักษณะของโต๊ะเป็นอย่างไร (Laksana Khong To Pen Yangrai - What is the table like)?",
+        "shortAnswer": "ยาว (ยาว - long)",
+        "fullAnswer": "โต๊ะยาว (To Yao - The table is long)."
+    },
+    {
+        "question": "ผู้ชายสวมเสื้อสีอะไร (Phu Chai Suam Suea See Arai - What color shirt is the man wearing)?",
+        "shortAnswer": "สีขาว (See Khao - white)",
+        "fullAnswer": "ผู้ชายสวมเสื้อสีขาว (Phu Chai Suam Suea See Khao - The man is wearing a white shirt)."
+    },
+    {
+        "question": "ผู้ชายมีอายุเท่าไหร่ (Phu Chai Mee Ayu Thao Rai - How old is the man)?",
+        "shortAnswer": "อาวุโส (Awuso - senior)",
+        "fullAnswer": "ผู้ชายอาวุโส (Phu Chai Awuso - The man is senior)."
+    },
+    {
+        "question": "ม่านมีสีอะไร (Maan Mee See Arai - What color are the curtains)?",
+        "shortAnswer": "สีครีม (See Kreem - cream)",
+        "fullAnswer": "ม่านมีสีครีม (Maan Mee See Kreem - The curtains are cream colored)."
+    },
+    {
+        "question": "ม่านมีความยาวเท่าไหร่ (Maan Mee Khwam Yao Thao Rai - How long are the curtains)?",
+        "shortAnswer": "ยาว (Yao - long)",
+        "fullAnswer": "ม่านยาว (Maan Yao - The curtains are long)."
+    },
+    {
+        "question": "สภาพอากาศภายนอกเป็นอย่างไร (Saphap Akat Phainok Pen Yangrai - What is the weather like outside)?",
+        "shortAnswer": "ไม่มี (Mai Mee - none)",
+        "fullAnswer": "ไม่มีสภาพอากาศ (Mai Mee Saphap Akat - There is no weather)."
+    },
+    {
+        "question": "ผลไม้มีลักษณะอย่างไร (Phon La Mai Mee Laksana Yangrai - What are the fruits like)?",
+        "shortAnswer": "สด (Sot - fresh)",
+        "fullAnswer": "ผลไม้สด (Phon La Mai Sot - The fruits are fresh)."
+    },
+    {
+        "question": "ผลไม้มีสีอะไร (Phon La Mai Mee See Arai - What color are the fruits)?",
+        "shortAnswer": "หลากสี (Lak See - colorful)",
+        "fullAnswer": "ผลไม้มีสีหลากสี (Phon La Mai Mee See Lak See - The fruits are colorful)."
+    },
+    {
+        "question": "ดอกไม้สวยงามหรือไม่ (Dok Mai Suay Ngam Rue Mai - Are the flowers beautiful)?",
+        "shortAnswer": "สวยงาม (Suay Ngam - beautiful)",
+        "fullAnswer": "ดอกไม้สวยงาม (Dok Mai Suay Ngam - The flowers are beautiful)."
+    },
+    {
+        "question": "เทียนสว่างหรือไม่ (Tian Sa Wang Rue Mai - Is the candle bright)?",
+        "shortAnswer": "สว่าง (Sa Wang - bright)",
+        "fullAnswer": "เทียนสว่าง (Tian Sa Wang - The candle is bright)."
+    },
+    {
+        "question": "คนกำลังทำอะไร (Khon Kamlang Tham Arai - What are the people doing)?",
+        "shortAnswer": "จำนวนมาก (Jamnuan Mak - many)",
+        "fullAnswer": "มีคนจำนวนมาก (Mee Khon Jamnuan Mak - There are many people)."
+    },
+    {
+        "question": "ห้องนี้คือที่ไหน (Hong Nee Khue Tee Nai - Where is this room)?",
+        "shortAnswer": "ห้องโถง (Hong Thong - hall)",
+        "fullAnswer": "ห้องนี้คือห้องโถง (Hong Nee Khue Hong Thong - This room is a hall)."
+    },
+    {
+        "question": "มีอะไรอยู่บนโต๊ะ (Mee Arai Yu Bon To - What is on the table)?",
+        "shortAnswer": "ผลไม้ ดอกไม้ เทียน (Phon La Mai, Dok Mai, Tian - Fruits, flowers, candle)",
+        "fullAnswer": "มีผลไม้ ดอกไม้ และเทียนอยู่บนโต๊ะ (Mee Phon La Mai, Dok Mai Lae Tian Yu Bon To - There are fruits, flowers and a candle on the table)."
+    },
+    {
+        "question": "มีใครสวมเสื้อสีขาว (Mee Khrai Suam Suea See Khao - Who is wearing a white shirt)?",
+        "shortAnswer": "ผู้ชาย (Phu Chai - man)",
+        "fullAnswer": "ผู้ชายสวมเสื้อสีขาว (Phu Chai Suam Suea See Khao - The man is wearing a white shirt)."
+    }
+]

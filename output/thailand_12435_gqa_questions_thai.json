@@ -1,0 +1,102 @@
+[
+    {
+        "question": "ชายแก่กำลังนั่งอยู่บนอะไร",
+        "shortAnswer": "เตียง",
+        "fullAnswer": "ชายแก่กำลังนั่งอยู่บนเตียง"
+    },
+    {
+        "question": "ใครกำลังนวดชายแก่",
+        "shortAnswer": "ชาย",
+        "fullAnswer": "ชายหนุ่มกำลังนวดชายแก่"
+    },
+    {
+        "question": "เตียงมีสีอะไร",
+        "shortAnswer": "สีฟ้า",
+        "fullAnswer": "เตียงมีสีฟ้า"
+    },
+    {
+        "question": "พัดลมติดอยู่ที่ไหน",
+        "shortAnswer": "ผนัง",
+        "fullAnswer": "พัดลมติดอยู่ที่ผนัง"
+    },
+    {
+        "question": "เพดานมีสีอะไร",
+        "shortAnswer": "สีขาว",
+        "fullAnswer": "เพดานมีสีขาว"
+    },
+    {
+        "question": "มีหน้าต่างในห้องหรือไม่",
+        "shortAnswer": "ใช่",
+        "fullAnswer": "ใช่ มีหน้าต่างในห้อง"
+    },
+    {
+        "question": "ชายหนุ่มกำลังทำอะไร",
+        "shortAnswer": "นวด",
+        "fullAnswer": "ชายหนุ่มกำลังนวด"
+    },
+    {
+        "question": "ใครกำลังถูกนวด",
+        "shortAnswer": "ชาย",
+        "fullAnswer": "ชายแก่กำลังถูกนวด"
+    },
+    {
+        "question": "หน้าต่างมีอะไร",
+        "shortAnswer": "มู่ลี่",
+        "fullAnswer": "หน้าต่างมีมู่ลี่"
+    },
+    {
+        "question": "พัดลมกี่ตัวอยู่ในห้อง",
+        "shortAnswer": "1",
+        "fullAnswer": "มีพัดลม 1 ตัวอยู่ในห้อง"
+    },
+    {
+        "question": "ชายหนุ่มกำลังยืนหรือนั่ง",
+        "shortAnswer": "ยืน",
+        "fullAnswer": "ชายหนุ่มกำลังยืน"
+    },
+    {
+        "question": "ชายแก่มีอายุเท่าไร",
+        "shortAnswer": "แก่",
+        "fullAnswer": "ชายแก่มีอายุแก่"
+    },
+    {
+        "question": "ห้องนี้มีอะไร",
+        "shortAnswer": "เตียง",
+        "fullAnswer": "ห้องนี้มีเตียง"
+    },
+    {
+        "question": "ความกว้างของภาพเท่าไร",
+        "shortAnswer": "640",
+        "fullAnswer": "ความกว้างของภาพคือ 640"
+    },
+    {
+        "question": "ความสูงของภาพเท่าไร",
+        "shortAnswer": "480",
+        "fullAnswer": "ความสูงของภาพคือ 480"
+    },
+    {
+        "question": "ชายหนุ่มมีความสัมพันธ์กับชายแก่อย่างไร",
+        "shortAnswer": "นวด",
+        "fullAnswer": "ชายหนุ่มกำลังนวดชายแก่"
+    },
+    {
+        "question": "อากาศเป็นอย่างไร",
+        "shortAnswer": "ไม่มี",
+        "fullAnswer": "อากาศไม่มีอะไร"
+    },
+    {
+        "question": "มีเตียงกี่เตียงในห้อง",
+        "shortAnswer": "1",
+        "fullAnswer": "มีเตียง 1 เตียงในห้อง"
+    },
+    {
+        "question": "ชายแก่กำลังนั่งอยู่ที่ไหน",
+        "shortAnswer": "เตียง",
+        "fullAnswer": "ชายแก่กำลังนั่งอยู่ที่เตียง"
+    },
+    {
+        "question": "ชายหนุ่มอายุเท่าไร",
+        "shortAnswer": "หนุ่ม",
+        "fullAnswer": "ชายหนุ่มอายุหนุ่ม"
+    }
+]

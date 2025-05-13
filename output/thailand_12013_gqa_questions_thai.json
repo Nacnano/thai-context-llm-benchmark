@@ -1,0 +1,102 @@
+[
+    {
+        "question": "ชฎาสีอะไร",
+        "shortAnswer": "ทอง",
+        "fullAnswer": "ชฎามีสีทอง"
+    },
+    {
+        "question": "ศิลปินเป็นเพศอะไร",
+        "shortAnswer": "หญิง",
+        "fullAnswer": "ศิลปินเป็นเพศหญิง"
+    },
+    {
+        "question": "ชฎาอยู่บนอะไร",
+        "shortAnswer": "แท่น",
+        "fullAnswer": "ชฎาอยู่บนแท่น"
+    },
+    {
+        "question": "ศิลปินใช้เครื่องมืออะไร",
+        "shortAnswer": "พู่กัน",
+        "fullAnswer": "ศิลปินใช้พู่กัน"
+    },
+    {
+        "question": "แท่นทำจากวัสดุอะไร",
+        "shortAnswer": "ปูน",
+        "fullAnswer": "แท่นทำจากปูน"
+    },
+    {
+        "question": "สีของแท่นคืออะไร",
+        "shortAnswer": "สีขาว",
+        "fullAnswer": "แท่นมีสีขาว"
+    },
+    {
+        "question": "พู่กันมีขนาดเล็กหรือไม่",
+        "shortAnswer": "ใช่",
+        "fullAnswer": "ใช่ พู่กันมีขนาดเล็ก"
+    },
+    {
+        "question": "ศิลปินมีเชื้อชาติอะไร",
+        "shortAnswer": "เอเชีย",
+        "fullAnswer": "ศิลปินมีเชื้อชาติเอเชีย"
+    },
+    {
+        "question": "ชฎามีลักษณะอย่างไร",
+        "shortAnswer": "ประณีต",
+        "fullAnswer": "ชฎามีลักษณะประณีต"
+    },
+    {
+        "question": "พู่กันอยู่ใกล้กับอะไร",
+        "shortAnswer": "ชฎา",
+        "fullAnswer": "พู่กันอยู่ใกล้กับชฎา"
+    },
+    {
+        "question": "ชฎาเป็นของวัฒนธรรมอะไร",
+        "shortAnswer": "ไทย",
+        "fullAnswer": "ชฎาเป็นของวัฒนธรรมไทย"
+    },
+    {
+        "question": "ใครกำลังใช้พู่กัน",
+        "shortAnswer": "ศิลปิน",
+        "fullAnswer": "ศิลปินกำลังใช้พู่กัน"
+    },
+    {
+        "question": "แท่นรองรับอะไร",
+        "shortAnswer": "ชฎา",
+        "fullAnswer": "แท่นรองรับชฎา"
+    },
+    {
+        "question": "พู่กันมีรูปร่างลักษณะใด",
+        "shortAnswer": "เรียว",
+        "fullAnswer": "พู่กันมีรูปร่างเรียว"
+    },
+    {
+        "question": "ศิลปินกำลังทำอะไรกับชฎา",
+        "shortAnswer": "ทาสี",
+        "fullAnswer": "ศิลปินกำลังทาสีชฎา"
+    },
+    {
+        "question": "สถานที่ในภาพคือที่ไหน",
+        "shortAnswer": "สตูดิโอ",
+        "fullAnswer": "สถานที่ในภาพคือสตูดิโอ"
+    },
+    {
+        "question": "มีศิลปินกี่คนในภาพ",
+        "shortAnswer": "1",
+        "fullAnswer": "มีศิลปิน 1 คนในภาพ"
+    },
+    {
+        "question": "ชฎาทำจากวัสดุอะไร",
+        "shortAnswer": "ทอง",
+        "fullAnswer": "ชฎาทำจากทอง"
+    },
+    {
+        "question": "แท่นมีรูปทรงอะไร",
+        "shortAnswer": "ปูน",
+        "fullAnswer": "แท่นมีรูปทรงคล้ายปูน"
+    },
+    {
+        "question": "ศิลปินกำลังถืออะไร",
+        "shortAnswer": "พู่กัน",
+        "fullAnswer": "ศิลปินกำลังถือพู่กัน"
+    }
+]

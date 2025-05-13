@@ -2,97 +2,121 @@
     "width": 640,
     "height": 480,
     "location": "วัด (Temple)",
-    "weather": "แดด (Sunny)",
+    "weather": "แดดจ้า (Sunny)",
     "objects": {
-        "112233": {
+        "123456": {
             "name": "พระพุทธรูป (Buddha statue)",
-            "x": 115,
-            "y": 45,
+            "x": 120,
+            "y": 50,
             "w": 150,
             "h": 300,
             "attributes": [
                 "สีทอง (Golden)",
-                "ปางสมาธิ (Meditating posture)"
+                "นั่ง (Sitting)",
+                "ประดับดอกไม้ (Decorated with flowers)"
             ],
             "relations": {
-                "445566": {
-                    "name": "ประดับด้วย (Decorated with)",
-                    "object": "778899"
+                "123457": {
+                    "name": "อยู่บน (on)",
+                    "object": "123458"
                 },
-                "445567": {
-                    "name": "ตั้งอยู่บน (Standing on)",
-                    "object": "334455"
+                "123468": {
+                    "name": "กำลังถูกรดน้ำโดย (being watered by)",
+                    "object": "123460"
                 }
             }
         },
-        "334455": {
+        "123458": {
             "name": "แท่นบูชา (Altar)",
-            "x": 0,
-            "y": 270,
-            "w": 300,
-            "h": 200,
+            "x": 80,
+            "y": 300,
+            "w": 200,
+            "h": 100,
             "attributes": [
                 "สีทอง (Golden)",
-                "ลวดลายไทย (Thai pattern)"
+                "ประดับลวดลาย (Ornate)",
+                "ไม้ (Wooden)"
             ],
             "relations": {}
         },
-        "778899": {
-            "name": "พวงมาลัย (Garland)",
-            "x": 160,
-            "y": 180,
-            "w": 70,
-            "h": 80,
-            "attributes": [
-                "สีขาว (White)",
-                "ดอกไม้ (Flowers)"
-            ],
-            "relations": {}
-        },
-        "990011": {
+        "123459": {
             "name": "ผู้คน (People)",
-            "x": 250,
+            "x": 280,
             "y": 100,
-            "w": 400,
-            "h": 350,
+            "w": 350,
+            "h": 300,
             "attributes": [
                 "กลุ่ม (Group)",
                 "ชาวเอเชีย (Asian)"
             ],
             "relations": {
-                "445568": {
-                    "name": "กำลังสรงน้ำ (Watering)",
-                    "object": "112233"
+                "123461": {
+                    "name": "กำลังมอง (looking at)",
+                    "object": "123456"
                 }
             }
         },
-        "556677": {
+        "123460": {
             "name": "เด็กชาย (Boy)",
-            "x": 280,
-            "y": 290,
+            "x": 200,
+            "y": 250,
             "w": 150,
-            "h": 180,
-            "attributes": [
-                "สวมเสื้อแดง (Wearing red shirt)"
-            ],
-            "relations": {
-                "445569": {
-                    "name": "อยู่ใน (Inside)",
-                    "object": "889900"
-                }
-            }
-        },
-        "889900": {
-            "name": "อ่าง (Jar)",
-            "x": 250,
-            "y": 330,
-            "w": 200,
             "h": 150,
             "attributes": [
-                "ดินเผา (Terracotta)",
-                "ลวดลาย (Patterned)"
+                "กำลังรดน้ำพระ (Watering the Buddha)",
+                "เสื้อแดง (Red shirt)",
+                "อยู่ในโอ่ง (In a jar)"
             ],
             "relations": {}
+        },
+        "123462": {
+            "name": "โอ่ง (Jar)",
+            "x": 170,
+            "y": 340,
+            "w": 200,
+            "h": 140,
+            "attributes": [
+                "ดินเผา (Clay)",
+                "ขนาดใหญ่ (Large)",
+                "ลวดลาย (Patterned)"
+            ],
+            "relations": {
+                "123463": {
+                    "name": "เด็กชายอยู่ใน (boy inside)",
+                    "object": "123460"
+                }
+            }
+        },
+        "123464": {
+            "name": "กำแพงอิฐ (Brick wall)",
+            "x": 350,
+            "y": 0,
+            "w": 300,
+            "h": 400,
+            "attributes": [
+                "สีแดง (Red)",
+                "พื้นหลัง (Background)",
+                "ก่ออิฐ (Bricked)"
+            ],
+            "relations": {}
+        },
+        "123465": {
+            "name": "ร่ม (Umbrella)",
+            "x": 0,
+            "y": 0,
+            "w": 150,
+            "h": 150,
+            "attributes": [
+                "สีส้ม (Orange)",
+                "ตกแต่ง (Decorated)",
+                "กันแดด (Sunshade)"
+            ],
+            "relations": {
+                "123466": {
+                    "name": "อยู่เหนือ (above)",
+                    "object": "123456"
+                }
+            }
         }
     }
 }

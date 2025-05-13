@@ -1,77 +1,84 @@
 {
     "width": 640,
     "height": 480,
-    "location": "วัด",
-    "weather": "แดด",
+    "location": "วัด (Wat - Temple)",
+    "weather": "none",
     "objects": {
-        "271881": {
-            "name": "ผู้หญิง",
-            "x": 320,
-            "y": 300,
-            "w": 50,
-            "h": 80,
+        "123456": {
+            "name": "ผู้คน (Phu khon - People)",
+            "x": 100,
+            "y": 200,
+            "w": 500,
+            "h": 250,
             "attributes": [
-                "นั่ง",
-                "สวดมนต์"
+                "จำนวนมาก (Chamnuan mak - Many)",
+                "นั่ง (Nang - Sitting)",
+                "สวดมนต์ (Suat mon - Praying)"
+            ],
+            "relations": {}
+        },
+        "789012": {
+            "name": "เสา (Sao - Pillars)",
+            "x": 350,
+            "y": 50,
+            "w": 50,
+            "h": 300,
+            "attributes": [
+                "สีแดง (Si daeng - Red)",
+                "ไม้ (Mai - Wooden)"
             ],
             "relations": {
-                "32452": {
-                    "name": "อยู่บน",
-                    "object": "275312"
-                },
-                "32453": {
-                    "name": "ใกล้กับ",
-                    "object": "279472"
+                "34567": {
+                    "name": "อยู่หน้า (Yu na - In front of)",
+                    "object": "123456"
                 }
             }
         },
-        "275312": {
-            "name": "เสื่อ",
-            "x": 350,
-            "y": 400,
-            "w": 100,
-            "h": 50,
+        "234567": {
+            "name": "สายสิญจน์ (Sai sinchon - Sacred thread)",
+            "x": 300,
+            "y": 0,
+            "w": 300,
+            "h": 400,
             "attributes": [
-                "สีแดง",
-                "ปูพื้น"
+                "สีขาว (Si khao - White)",
+                "ผูก (Phuk - Tied)"
             ],
-            "relations": {}
+            "relations": {
+                "45678": {
+                    "name": "ข้าม (Kham - Across)",
+                    "object": "123456"
+                }
+            }
         },
-        "279472": {
-            "name": "อาหาร",
-            "x": 400,
-            "y": 420,
-            "w": 80,
-            "h": 40,
-            "attributes": [
-                "ถวายพระ",
-                "ในกระทง"
-            ],
-            "relations": {}
-        },
-        "282356": {
-            "name": "ต้นไม้",
-            "x": 100,
-            "y": 100,
+        "890123": {
+            "name": "ต้นไม้ (Ton mai - Trees)",
+            "x": 0,
+            "y": 0,
             "w": 150,
-            "h": 100,
-            "attributes": [
-                "สีเขียว",
-                "ด้านนอก"
-            ],
-            "relations": {}
-        },
-        "285789": {
-            "name": "อาคาร",
-            "x": 450,
-            "y": 150,
-            "w": 200,
             "h": 150,
             "attributes": [
-                "วัด",
-                "เก่า"
+                "สีเขียว (Si khiao - Green)",
+                "ด้านหลัง (Dan lang - Behind)"
             ],
             "relations": {}
+        },
+        "901234": {
+            "name": "พื้น (Phuen - Floor)",
+            "x": 0,
+            "y": 400,
+            "w": 640,
+            "h": 80,
+            "attributes": [
+                "สีแดง (Si daeng - Red)",
+                "เสื่อ (Suea - Mat)"
+            ],
+            "relations": {
+                "56789": {
+                    "name": "บน (Bon - On)",
+                    "object": "123456"
+                }
+            }
         }
     }
 }

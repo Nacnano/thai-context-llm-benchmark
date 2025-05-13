@@ -1,0 +1,102 @@
+[
+    {
+        "question": "คนในรูปกำลังทำอะไร (What are the people in the picture doing?)",
+        "shortAnswer": "เล่นน้ำ (Playing water)",
+        "fullAnswer": "คนกำลังเล่นน้ำ (People are playing water)"
+    },
+    {
+        "question": "สภาพอากาศในรูปเป็นอย่างไร (What is the weather like in the picture?)",
+        "shortAnswer": "แดดจ้า (Sunny)",
+        "fullAnswer": "สภาพอากาศแดดจ้า (The weather is sunny)"
+    },
+    {
+        "question": "คนในรูปสวมเสื้อผ้าแบบไหน (What kind of clothes are the people wearing?)",
+        "shortAnswer": "เสื้อผ้าไทย (Thai clothes)",
+        "fullAnswer": "คนในรูปสวมเสื้อผ้าไทย (The people in the picture are wearing Thai clothes)"
+    },
+    {
+        "question": "น้ำในรูปมีลักษณะอย่างไร (What is the water in the picture like?)",
+        "shortAnswer": "ใส (Clear)",
+        "fullAnswer": "น้ำในรูปมีลักษณะใส (The water in the picture is clear)"
+    },
+    {
+        "question": "ชามที่คนถือมีสีอะไร (What color is the bowl that the people are holding?)",
+        "shortAnswer": "เงิน (Silver)",
+        "fullAnswer": "ชามที่คนถือมีสีเงิน (The bowl that the people are holding is silver)"
+    },
+    {
+        "question": "ดอกไม้ที่คนสวมมีสีอะไร (What color are the flowers that the people are wearing?)",
+        "shortAnswer": "สีขาว (White)",
+        "fullAnswer": "ดอกไม้ที่คนสวมมีสีขาว (The flowers that the people are wearing are white)"
+    },
+    {
+        "question": "อาคารในรูปคืออะไร (What is the building in the picture?)",
+        "shortAnswer": "วัด (Temple)",
+        "fullAnswer": "อาคารในรูปคือวัด (The building in the picture is a temple)"
+    },
+    {
+        "question": "หลังคาอาคารในรูปมีสีอะไร (What color is the roof of the building in the picture?)",
+        "shortAnswer": "แดง (Red)",
+        "fullAnswer": "หลังคาอาคารในรูปมีสีแดง (The roof of the building in the picture is red)"
+    },
+    {
+        "question": "ธงที่ประดับมีสีอะไร (What color are the decorated flags?)",
+        "shortAnswer": "สีเหลือง (Yellow)",
+        "fullAnswer": "ธงที่ประดับมีสีเหลือง (The decorated flags are yellow)"
+    },
+    {
+        "question": "คนในรูปกำลังยิ้มหรือไม่ (Are the people in the picture smiling?)",
+        "shortAnswer": "ใช่ (Yes)",
+        "fullAnswer": "ใช่, คนในรูปกำลังยิ้ม (Yes, the people in the picture are smiling)"
+    },
+    {
+        "question": "มีชามกี่ใบในรูป (How many bowls are there in the picture?)",
+        "shortAnswer": "หลายใบ (Many)",
+        "fullAnswer": "มีชามหลายใบในรูป (There are many bowls in the picture)"
+    },
+    {
+        "question": "มีดอกไม้ประเภทไหนในรูป (What type of flowers are in the picture?)",
+        "shortAnswer": "พวงมาลัย (Garland)",
+        "fullAnswer": "มีดอกไม้ประเภทพวงมาลัยในรูป (There are garland type flowers in the picture)"
+    },
+    {
+        "question": "ธงติดอยู่กับอะไร (What is the flag attached to?)",
+        "shortAnswer": "อาคาร (Building)",
+        "fullAnswer": "ธงติดอยู่กับอาคาร (The flag is attached to the building)"
+    },
+    {
+        "question": "คนในรูปเปียกหรือไม่ (Are the people in the picture wet?)",
+        "shortAnswer": "ใช่ (Yes)",
+        "fullAnswer": "ใช่, คนในรูปเปียก (Yes, the people in the picture are wet)"
+    },
+    {
+        "question": "น้ำในชามมีลักษณะอย่างไร (What is the water in the bowl like?)",
+        "shortAnswer": "เยอะ (A lot)",
+        "fullAnswer": "น้ำในชามมีลักษณะเยอะ (There is a lot of water in the bowl)"
+    },
+    {
+        "question": "อาคารในรูปทำจากอะไร (What is the building in the picture made of?)",
+        "shortAnswer": "ทอง (Gold)",
+        "fullAnswer": "อาคารในรูปทำจากทอง (The building in the picture is made of gold)"
+    },
+    {
+        "question": "ดอกไม้ถูกสวมโดยใคร (Who are the flowers worn by?)",
+        "shortAnswer": "คน (People)",
+        "fullAnswer": "ดอกไม้ถูกสวมโดยคน (The flowers are worn by people)"
+    },
+    {
+        "question": "กิจกรรมที่ทำเกี่ยวข้องกับประเพณีอะไร (What tradition is the activity related to?)",
+        "shortAnswer": "สงกรานต์ (Songkran)",
+        "fullAnswer": "กิจกรรมที่ทำเกี่ยวข้องกับประเพณีสงกรานต์ (The activity is related to the Songkran tradition)"
+    },
+    {
+        "question": "สิ่งที่อยู่ในชามคืออะไร (What is in the bowl?)",
+        "shortAnswer": "น้ำ (Water)",
+        "fullAnswer": "สิ่งที่อยู่ในชามคือน้ำ (What's in the bowl is water)"
+    },
+    {
+        "question": "วัดมีลักษณะอย่างไร (What does the temple look like?)",
+        "shortAnswer": "ทอง (Gold)",
+        "fullAnswer": "วัดมีลักษณะทอง (The temple looks gold)"
+    }
+]
