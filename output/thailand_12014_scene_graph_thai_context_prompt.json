@@ -1,0 +1,134 @@
+{
+    "width": 640,
+    "height": 480,
+    "location": "sala ไม้ (ศาลาไม้ - wooden pavilion/hall), likely a traditional Thai structure, possibly a school or community center",
+    "weather": "ภายในอาคาร (pai nai อาคาร - indoor)",
+    "objects": {
+        "1001": {
+            "name": "นักเรียน (nak rian - students)",
+            "x": 320,
+            "y": 200,
+            "w": 500,
+            "h": 300,
+            "attributes": [
+                "หญิง (ying - female)",
+                "หลายคน (lai khon - many people)",
+                "สวมเสื้อยืดสีขาว (suam suea yut sii khao - wearing white t-shirts)",
+                "สวมกางเกงโจงกระเบนสีแดง (suam kang keng chong kraben sii daeng - wearing red chong kraben pants, traditional Thai pants)"
+            ],
+            "relations": {
+                "1002": {
+                    "name": "กำลังฝึกซ้อม (gam langฝึกซ้อม - practicing)",
+                    "object": "นาฏศิลป์ไทย (natasin thai - Thai classical dance)"
+                }
+            }
+        },
+        "1003": {
+            "name": "กางเกงโจงกระเบน (kang keng chong kraben)",
+            "x": 300,
+            "y": 350,
+            "w": 100,
+            "h": 100,
+            "attributes": [
+                "สีแดง (sii daeng - red)",
+                "ผ้าไหม (pha mai - silk or possibly a similar fabric)",
+                "แบบไทย (baep thai - Thai style)"
+            ],
+            "relations": {
+                "1004": {
+                    "name": "สวมใส่โดย (suam sai doi - worn by)",
+                    "object": "นักเรียน (nak rian - students)"
+                }
+            }
+        },
+        "1005": {
+            "name": "พื้นไม้ (pheun mai - wooden floor)",
+            "x": 320,
+            "y": 400,
+            "w": 640,
+            "h": 80,
+            "attributes": [
+                "ขัดเงา (khat ngao - polished)",
+                "สีน้ำตาล (sii nam tan - brown)",
+                "มีร่อง (mee rong - has grooves/lines)"
+            ],
+            "relations": {
+                "1006": {
+                    "name": "อยู่ใต้ (yu tai - beneath)",
+                    "object": "นักเรียน (nak rian - students)"
+                }
+            }
+        },
+        "1007": {
+            "name": "เพดาน (phee dan - ceiling)",
+            "x": 320,
+            "y": 50,
+            "w": 640,
+            "h": 100,
+            "attributes": [
+                "ไม้ (mai - wooden)",
+                "มีพัดลม (mee phat lom - has fans)",
+                "แบบไทย (baep thai - Thai style)"
+            ],
+            "relations": {
+                "1008": {
+                    "name": "อยู่เหนือ (yu nuea - above)",
+                    "object": "นักเรียน (nak rian - students)"
+                }
+            }
+        },
+        "1009": {
+            "name": "เสา (sao - pillars/columns)",
+            "x": 50,
+            "y": 250,
+            "w": 50,
+            "h": 200,
+            "attributes": [
+                "ไม้ (mai - wooden)",
+                "สีแดง (sii daeng - red)",
+                "ตกแต่ง (tok taeng - decorated)"
+            ],
+            "relations": {
+                "1010": {
+                    "name": "ค้ำ (kham - supports)",
+                    "object": "เพดาน (phee dan - ceiling)"
+                }
+            }
+        },
+        "1011": {
+            "name": "นาฬิกา (nalika - clock)",
+            "x": 50,
+            "y": 100,
+            "w": 50,
+            "h": 50,
+            "attributes": [
+                "กลม (glom - round)",
+                "แขวนผนัง (khwaen phanang - wall mounted)"
+            ],
+            "relations": {
+                "1012": {
+                    "name": "ติดอยู่บน (tit yu bon - attached to)",
+                    "object": "ผนังไม้ (phanang mai - wooden wall)"
+                }
+            }
+        },
+        "1013": {
+            "name": "ป้าย (pai - sign)",
+            "x": 150,
+            "y": 100,
+            "w": 150,
+            "h": 50,
+            "attributes": [
+                "ทอง (thong - golden)",
+                "ข้อความภาษาไทย (khokhwam phasa thai - Thai text)",
+                "ประดับ (pradap - decorated)"
+            ],
+            "relations": {
+                "1014": {
+                    "name": "อยู่บน (yu bon - on)",
+                    "object": "ผนังไม้ (phanang mai - wooden wall)"
+                }
+            }
+        }
+    }
+}

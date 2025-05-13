@@ -1,0 +1,142 @@
+{
+    "width": 640,
+    "height": 480,
+    "location": "ห้องพิธี (Ceremonial Room)",
+    "weather": "ไม่มี (None)",
+    "objects": {
+        "123456": {
+            "name": "หัวโขน (Khon Mask)",
+            "x": 300,
+            "y": 50,
+            "w": 80,
+            "h": 120,
+            "attributes": [
+                "สีทอง (Gold)",
+                "ประดับด้วยอัญมณี (Jeweled)",
+                "หลากหลายอารมณ์ (Various Emotions)"
+            ],
+            "relations": {
+                "654321": {
+                    "name": "วางอยู่บน (Sitting on)",
+                    "object": "789012"
+                }
+            }
+        },
+        "789012": {
+            "name": "แท่นบูชา (Altar)",
+            "x": 250,
+            "y": 170,
+            "w": 400,
+            "h": 50,
+            "attributes": [
+                "สีขาว (White)",
+                "ปูผ้า (Covered with Cloth)",
+                "สะอาด (Clean)"
+            ],
+            "relations": {
+                "987654": {
+                    "name": "รองรับ (Supporting)",
+                    "object": "123456"
+                },
+                "234567": {
+                    "name": "มี (Contains)",
+                    "object": "345678"
+                }
+            }
+        },
+        "345678": {
+            "name": "พานผลไม้ (Fruit Offering Tray)",
+            "x": 100,
+            "y": 150,
+            "w": 60,
+            "h": 40,
+            "attributes": [
+                "สีทอง (Gold)",
+                "มีผลไม้ (With Fruit)",
+                "ถวาย (Offering)"
+            ],
+            "relations": {
+                "456789": {
+                    "name": "วางอยู่บน (Sitting on)",
+                    "object": "789012"
+                }
+            }
+        },
+        "901234": {
+            "name": "ครู (Teacher/Master)",
+            "x": 350,
+            "y": 100,
+            "w": 80,
+            "h": 150,
+            "attributes": [
+                "ผมขาว (White hair)",
+                "สวมชุดขาว (Wearing white)",
+                "อาวุโส (Senior)"
+            ],
+            "relations": {
+                "567890": {
+                    "name": "กำลังทำพิธี (Performing ceremony)",
+                    "object": "876543"
+                },
+                "678901": {
+                    "name": "ถือ (Holding)",
+                    "object": "543210"
+                }
+            }
+        },
+        "876543": {
+            "name": "เด็กนักเรียน (Students)",
+            "x": 200,
+            "y": 300,
+            "w": 300,
+            "h": 150,
+            "attributes": [
+                "สวมเสื้อขาว (Wearing white shirts)",
+                "สวมโจงกระเบนสีแดง (Wearing red chong kraben)",
+                "ตั้งใจ (Intentional)"
+            ],
+            "relations": {
+                "789012": {
+                    "name": "กำลังดู (Watching)",
+                    "object": "901234"
+                }
+            }
+        },
+        "543210": {
+            "name": "มาลัยดอกไม้ (Flower Garland)",
+            "x": 380,
+            "y": 150,
+            "w": 30,
+            "h": 40,
+            "attributes": [
+                "ดอกดาวเรือง (Marigold)",
+                "กลิ่นหอม (Fragrant)",
+                "สีส้ม (Orange)"
+            ],
+            "relations": {
+                "321098": {
+                    "name": "ถือโดย (Held by)",
+                    "object": "901234"
+                }
+            }
+        },
+        "667788": {
+            "name": "เทวรูป (Deity Statue)",
+            "x": 350,
+            "y": 150,
+            "w": 40,
+            "h": 50,
+            "attributes": [
+                "ทองเหลือง (Brass)",
+                "ขนาดเล็ก (Small)",
+                "ศักดิ์สิทธิ์ (Sacred)"
+            ],
+            "relations": {
+                "778899": {
+                    "name": "วางอยู่บน (Sitting on)",
+                    "object": "789012"
+                }
+            }
+        }
+    }
+}

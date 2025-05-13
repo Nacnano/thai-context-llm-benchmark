@@ -1,0 +1,127 @@
+{
+    "width": 640,
+    "height": 480,
+    "location": "วัด (Wat - Temple)",
+    "weather": "แดดจ้า (Daet jaa - Sunny)",
+    "objects": {
+        "387291": {
+            "name": "ศาลา (Sala - Pavilion)",
+            "x": 300,
+            "y": 100,
+            "w": 300,
+            "h": 150,
+            "attributes": [
+                "เก่าแก่ (Kao gae - Ancient)",
+                "ไม้ (Mai - Wooden)",
+                "มีเสา (Mee sao - With pillars)"
+            ],
+            "relations": {
+                "456789": {
+                    "name": "อยู่ด้านหลัง (Yoo dan lang - Behind)",
+                    "object": "387302"
+                }
+            }
+        },
+        "387292": {
+            "name": "ผู้หญิง (Phu ying - Women)",
+            "x": 100,
+            "y": 300,
+            "w": 500,
+            "h": 150,
+            "attributes": [
+                "ใส่เสื้อผ้าไทย (Sai suea pha thai - Wearing Thai clothing)",
+                "นั่งพนมมือ (Nang phanom mue - Sitting with hands in prayer)",
+                "ทำบุญ (Tham boon - Making merit)"
+            ],
+            "relations": {
+                "456790": {
+                    "name": "นั่งบน (Nang bon - Sitting on)",
+                    "object": "387293"
+                }
+            }
+        },
+        "387293": {
+            "name": "เสื่อ (Suea - Mat)",
+            "x": 100,
+            "y": 400,
+            "w": 500,
+            "h": 50,
+            "attributes": [
+                "สีแดง (See daeng - Red)",
+                "สาน (San - Woven)",
+                "ปูพื้น (Poo phuen - Laid on the floor)"
+            ],
+            "relations": {}
+        },
+        "387294": {
+            "name": "เครื่องบูชา (Krueang boocha - Offerings)",
+            "x": 350,
+            "y": 400,
+            "w": 200,
+            "h": 80,
+            "attributes": [
+                "ดอกไม้ (Dok mai - Flowers)",
+                "ธูปเทียน (Thoop thian - Incense and candles)",
+                "กล้วย (Kluay - Bananas)"
+            ],
+            "relations": {
+                "456791": {
+                    "name": "วางอยู่หน้า (Wang yoo na - Placed in front of)",
+                    "object": "387292"
+                }
+            }
+        },
+        "387295": {
+            "name": "สายสิญจน์ (Sai sinchon - Holy thread)",
+            "x": 300,
+            "y": 150,
+            "w": 200,
+            "h": 150,
+            "attributes": [
+                "สีขาว (See khao - White)",
+                "ผูกกับเสา (Phook kap sao - Tied to the pillars)",
+                "ใช้ในพิธี (Chai nai phitee - Used in ceremony)"
+            ],
+            "relations": {}
+        },
+        "387296": {
+            "name": "เสา (Sao - Pillars)",
+            "x": 350,
+            "y": 200,
+            "w": 50,
+            "h": 200,
+            "attributes": [
+                "สีแดง (See daeng - Red)",
+                "ไม้ (Mai - Wooden)",
+                "ค้ำยัน (Kham yan - Supporting)"
+            ],
+            "relations": {}
+        },
+        "387297": {
+            "name": "ธง (Thong - Flags)",
+            "x": 50,
+            "y": 50,
+            "w": 50,
+            "h": 50,
+            "attributes": [
+                "สีสัน (See san - Colorful)",
+                "แขวน (Kwaen - Hanging)",
+                "ประดับ (Pradab - Decorated)"
+            ],
+            "relations": {}
+        },
+        "387302": {
+            "name": "กำแพง (Gamphaeng - Wall)",
+            "x": 0,
+            "y": 250,
+            "w": 150,
+            "h": 200,
+            "attributes": [
+                "ปูน (Poon - Concrete)",
+                "เก่า (Kao - Old)",
+                "มีลวดลาย (Mee luatlai - Has patterns)"
+            ],
+            "relations": {}
+        }
+    }
+}

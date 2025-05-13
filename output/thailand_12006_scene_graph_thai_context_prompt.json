@@ -1,0 +1,127 @@
+{
+    "width": 640,
+    "height": 480,
+    "location": "โรงละคร (theater stage)",
+    "weather": "ไม่มี (none)",
+    "objects": {
+        "101": {
+            "name": "นักแสดงโขน (Khon dancer)",
+            "x": 300,
+            "y": 200,
+            "w": 100,
+            "h": 200,
+            "attributes": [
+                "สวมชุดไทย (wearing Thai costume)",
+                "สวมชฎา (wearing Chada)",
+                "ถือธนู (holding bow)"
+            ],
+            "relations": {
+                "102": {
+                    "name": "อยู่บน (on)",
+                    "object": "103"
+                }
+            }
+        },
+        "103": {
+            "name": "นักแสดงโขน (Khon dancer)",
+            "x": 300,
+            "y": 300,
+            "w": 100,
+            "h": 150,
+            "attributes": [
+                "สวมชุดไทย (wearing Thai costume)",
+                "สวมหัวโขน (wearing Hua Khon mask)",
+                "ถือดาบ (holding sword)"
+            ],
+            "relations": {
+                "104": {
+                    "name": "รองรับ (supporting)",
+                    "object": "101"
+                }
+            }
+        },
+        "105": {
+            "name": "ฝูงลิง (group of monkeys)",
+            "x": 100,
+            "y": 350,
+            "w": 500,
+            "h": 100,
+            "attributes": [
+                "สวมชุดไทย (wearing Thai costume)",
+                "สวมหัวโขน (wearing Hua Khon mask)",
+                "ถืออาวุธ (holding weapons)"
+            ],
+            "relations": {}
+        },
+        "106": {
+            "name": "ฉากหลัง (backdrop)",
+            "x": 0,
+            "y": 0,
+            "w": 640,
+            "h": 150,
+            "attributes": [
+                "ทิวทัศน์ป่า (forest scenery)",
+                "มืด (dark)"
+            ],
+            "relations": {}
+        },
+        "107": {
+            "name": "ธง (flag)",
+            "x": 450,
+            "y": 150,
+            "w": 20,
+            "h": 100,
+            "attributes": [
+                "สี (colored)",
+                "ประดับตกแต่ง (decorated)"
+            ],
+            "relations": {}
+        },
+        "108": {
+            "name": "ดาบ (sword)",
+            "x": 350,
+            "y": 350,
+            "w": 30,
+            "h": 40,
+            "attributes": [
+                "สีเงิน (silver)",
+                "คม (sharp)"
+            ],
+            "relations": {
+                "109": {
+                    "name": "ถือโดย (held by)",
+                    "object": "103"
+                }
+            }
+        },
+        "110": {
+            "name": "ธนู (bow)",
+            "x": 250,
+            "y": 180,
+            "w": 50,
+            "h": 50,
+            "attributes": [
+                "ไม้ (wooden)",
+                "โค้ง (curved)"
+            ],
+            "relations": {
+                "111": {
+                    "name": "ถือโดย (held by)",
+                    "object": "101"
+                }
+            }
+        },
+        "112": {
+            "name": "พื้นเวที (stage floor)",
+            "x": 0,
+            "y": 400,
+            "w": 640,
+            "h": 80,
+            "attributes": [
+                "สีน้ำเงิน (blue)",
+                "เรียบ (smooth)"
+            ],
+            "relations": {}
+        }
+    }
+}

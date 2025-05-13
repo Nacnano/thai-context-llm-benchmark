@@ -1,0 +1,102 @@
+[
+    {
+        "question": "นักแสดงชายใส่เสื้อสีอะไร (nak sadaeng chaai sai sue sii arai - What color shirt is the male dancer wearing?)",
+        "shortAnswer": "ขาว (khaao - white)",
+        "fullAnswer": "นักแสดงชายใส่เสื้อสีขาว (nak sadaeng chaai sai sue sii khaao - The male dancer is wearing a white shirt)."
+    },
+    {
+        "question": "พื้นของเวทีทำจากอะไร (phuen khong wetii tham jaak arai - What is the stage floor made of?)",
+        "shortAnswer": "ไม้ (mai - wood)",
+        "fullAnswer": "พื้นของเวทีทำจากไม้ (phuen khong wetii tham jaak mai - The stage floor is made of wood)."
+    },
+    {
+        "question": "ผู้ช่วยแต่งตัวใส่กางเกงสีอะไร (phuu chuai taeng dtua sai gaang geng sii arai - What color pants is the dresser wearing?)",
+        "shortAnswer": "น้ำเงิน (nam nguen - blue)",
+        "fullAnswer": "ผู้ช่วยแต่งตัวใส่กางเกงสีน้ำเงิน (phuu chuai taeng dtua sai gaang geng sii nam nguen - The dresser is wearing blue pants)."
+    },
+    {
+        "question": "โจงกระเบนมีสีอะไร (Jong Kraben mii sii arai - What color is the Jong Kraben?)",
+        "shortAnswer": "ทองและแดง (thong lae daeng - gold and red)",
+        "fullAnswer": "โจงกระเบนมีสีทองและแดง (Jong Kraben mii sii thong lae daeng - The Jong Kraben is gold and red)."
+    },
+    {
+        "question": "ผู้ช่วยแต่งตัวกำลังทำอะไร (phuu chuai taeng dtua gamlang tham arai - What is the dresser doing?)",
+        "shortAnswer": "จัดชุด (jat chut - adjusting clothes)",
+        "fullAnswer": "ผู้ช่วยแต่งตัวกำลังจัดชุด (phuu chuai taeng dtua gamlang jat chut - The dresser is adjusting clothes)."
+    },
+    {
+        "question": "เก้าอี้มีสีอะไร (gao ii mii sii arai - What color is the chair?)",
+        "shortAnswer": "ดำ (dam - black)",
+        "fullAnswer": "เก้าอี้มีสีดำ (gao ii mii sii dam - The chair is black)."
+    },
+    {
+        "question": "นักแสดงชายกำลังทำอะไร (nak sadaeng chaai gamlang tham arai - What is the male dancer doing?)",
+        "shortAnswer": "แต่งกาย (taeng gaai - getting dressed)",
+        "fullAnswer": "นักแสดงชายกำลังแต่งกาย (nak sadaeng chaai gamlang taeng gaai - The male dancer is getting dressed)."
+    },
+    {
+        "question": "พร็อพประกอบฉากวางอยู่บนอะไร (prop bragob chaak waang yu bon arai - What are the stage props lying on?)",
+        "shortAnswer": "พื้น (phuen - floor)",
+        "fullAnswer": "พร็อพประกอบฉากวางอยู่บนพื้น (prop bragob chaak waang yu bon phuen - The stage props are lying on the floor)."
+    },
+    {
+        "question": "ชุดแต่งกายมีเข็มขัดสีอะไร (chut taeng gaai mii khem khat sii arai - What color is the belt on the Thai costume?)",
+        "shortAnswer": "เขียว (khiao - green)",
+        "fullAnswer": "ชุดแต่งกายมีเข็มขัดสีเขียว (chut taeng gaai mii khem khat sii khiao - The belt on the Thai costume is green)."
+    },
+    {
+        "question": "พื้นไม้มีสีอะไร (phuen mai mii sii arai - What color is the wooden floor?)",
+        "shortAnswer": "น้ำตาล (nam tan - brown)",
+        "fullAnswer": "พื้นไม้มีสีน้ำตาล (phuen mai mii sii nam tan - The wooden floor is brown)."
+    },
+    {
+        "question": "ชุดโจงกระเบนมีลายอะไร (Chut Jong Kraben mii laai arai - What pattern is on the Jong Kraben?)",
+        "shortAnswer": "ลายไทย (laai thai - Thai pattern)",
+        "fullAnswer": "ชุดโจงกระเบนมีลายไทย (Chut Jong Kraben mii laai thai - The Jong Kraben has a Thai pattern)."
+    },
+    {
+        "question": "ผู้ช่วยแต่งตัวสวมเสื้ออะไร (phuu chuai taeng dtua suam sue arai - What shirt is the dresser wearing?)",
+        "shortAnswer": "เสื้อเชิ้ต (sue cheut - shirt)",
+        "fullAnswer": "ผู้ช่วยแต่งตัวสวมเสื้อเชิ้ต (phuu chuai taeng dtua suam sue cheut - The dresser is wearing a shirt)."
+    },
+    {
+        "question": "นักแสดงชายกำลังถูกแต่งกายโดยใคร (nak sadaeng chaai gamlang thuuk taeng gaai doi khrai - Who is dressing the male dancer?)",
+        "shortAnswer": "ผู้ช่วยแต่งตัว (phuu chuai taeng dtua - dresser)",
+        "fullAnswer": "นักแสดงชายกำลังถูกแต่งกายโดยผู้ช่วยแต่งตัว (nak sadaeng chaai gamlang thuuk taeng gaai doi phuu chuai taeng dtua - The male dancer is being dressed by the dresser)."
+    },
+    {
+        "question": "ผู้ช่วยแต่งตัวกำลังนั่งอยู่บนอะไร (phuu chuai taeng dtua gamlang nang yu bon arai - What is the dresser sitting on?)",
+        "shortAnswer": "เก้าอี้ (gao ii - chair)",
+        "fullAnswer": "ผู้ช่วยแต่งตัวกำลังนั่งอยู่บนเก้าอี้ (phuu chuai taeng dtua gamlang nang yu bon gao ii - The dresser is sitting on a chair)."
+    },
+    {
+        "question": "เวทีการแสดงมีสภาพอากาศเป็นอย่างไร (wetii gaan sadaeng mii saphap aagaat pen yaang rai - What is the weather like on the stage?)",
+        "shortAnswer": "ไม่มี (mai mii - none)",
+        "fullAnswer": "เวทีการแสดงไม่มีสภาพอากาศ (wetii gaan sadaeng mai mii saphap aagaat - There is no weather on the stage)."
+    },
+    {
+        "question": "พร็อพประกอบฉากมีสีอะไร (prop bragob chaak mii sii arai - What color are the stage props?)",
+        "shortAnswer": "แดง (daeng - red)",
+        "fullAnswer": "พร็อพประกอบฉากมีสีแดง (prop bragob chaak mii sii daeng - The stage props are red)."
+    },
+    {
+        "question": "นักแสดงชายแต่งหน้าแบบไหน (nak sadaeng chaai taeng naa baep nai - What kind of makeup is the male dancer wearing?)",
+        "shortAnswer": "แต่งหน้าจัด (taeng naa jat - heavily made up)",
+        "fullAnswer": "นักแสดงชายแต่งหน้าจัด (nak sadaeng chaai taeng naa jat - The male dancer is heavily made up)."
+    },
+    {
+        "question": "ชุดแต่งกายมีผ้าพันเอวสีอะไร (chut taeng gaai mii phaa phan eo sii arai - What color is the waist wrap on the Thai costume?)",
+        "shortAnswer": "ขาว (khaao - white)",
+        "fullAnswer": "ชุดแต่งกายมีผ้าพันเอวสีขาว (chut taeng gaai mii phaa phan eo sii khaao - The waist wrap on the Thai costume is white)."
+    },
+    {
+        "question": "โจงกระเบนทำจากอะไร (Jong Kraben tham jaak arai - What is the Jong Kraben made of?)",
+        "shortAnswer": "ผ้าไหม (phaa mai - silk)",
+        "fullAnswer": "โจงกระเบนทำจากผ้าไหม (Jong Kraben tham jaak phaa mai - The Jong Kraben is made of silk)."
+    },
+    {
+        "question": "ขาของเก้าอี้ทำจากอะไร (khaa khong gao ii tham jaak arai - What are the legs of the chair made of?)",
+        "shortAnswer": "โลหะ (lo ha - metal)",
+        "fullAnswer": "ขาของเก้าอี้ทำจากโลหะ (khaa khong gao ii tham jaak lo ha - The legs of the chair are made of metal)."
+    }
+]

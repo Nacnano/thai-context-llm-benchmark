@@ -1,0 +1,139 @@
+{
+    "width": 640,
+    "height": 480,
+    "location": "เวทีแสดง (Stage)",
+    "weather": "ไม่มี (None)",
+    "objects": {
+        "112233": {
+            "name": "ป้ายผ้าใบ (Canvas Banner)",
+            "x": 320,
+            "y": 50,
+            "w": 640,
+            "h": 100,
+            "attributes": [
+                "สีฟ้า (Blue)",
+                "มีตัวอักษรไทย (Thai Text)"
+            ],
+            "relations": {}
+        },
+        "223344": {
+            "name": "นักแสดงชาย (Male Performers)",
+            "x": 320,
+            "y": 250,
+            "w": 640,
+            "h": 480,
+            "attributes": [
+                "สวมชุดไทย (Thai Costumes)",
+                "สวมมงกุฎ (Wearing Crowns)"
+            ],
+            "relations": {}
+        },
+        "334455": {
+            "name": "มงกุฎ (Crowns)",
+            "x": 320,
+            "y": 50,
+            "w": 200,
+            "h": 150,
+            "attributes": [
+                "สีทอง (Gold)",
+                "ประดับอัญมณี (Jeweled)"
+            ],
+            "relations": {
+                "445566": {
+                    "name": "อยู่บนศีรษะของ (On Head Of)",
+                    "object": "223344"
+                }
+            }
+        },
+        "445566": {
+            "name": "ชุดไทย (Thai Costumes)",
+            "x": 320,
+            "y": 300,
+            "w": 640,
+            "h": 300,
+            "attributes": [
+                "สีสันสดใส (Colorful)",
+                "ประดับเลื่อม (Sequin)"
+            ],
+            "relations": {
+                "556677": {
+                    "name": "สวมใส่โดย (Worn By)",
+                    "object": "223344"
+                }
+            }
+        },
+        "556677": {
+            "name": "เทียน (Candle)",
+            "x": 50,
+            "y": 400,
+            "w": 50,
+            "h": 100,
+            "attributes": [
+                "สีขาว (White)",
+                "จุดไฟ (Lit)"
+            ],
+            "relations": {
+                "667788": {
+                    "name": "อยู่บน (On)",
+                    "object": "778899"
+                }
+            }
+        },
+        "667788": {
+            "name": "ข้าวตอก (Popped Rice)",
+            "x": 200,
+            "y": 450,
+            "w": 100,
+            "h": 30,
+            "attributes": [
+                "สีขาว (White)",
+                "โปรย (Scattered)"
+            ],
+            "relations": {
+                "778899": {
+                    "name": "อยู่บน (On)",
+                    "object": "889900"
+                }
+            }
+        },
+        "778899": {
+            "name": "พาน (Tray)",
+            "x": 30,
+            "y": 450,
+            "w": 50,
+            "h": 30,
+            "attributes": [
+                "สีเงิน (Silver)"
+            ],
+            "relations": {}
+        },
+        "889900": {
+            "name": "ผ้าขาว (White Cloth)",
+            "x": 320,
+            "y": 400,
+            "w": 640,
+            "h": 100,
+            "attributes": [
+                "สีขาว (White)",
+                "สะอาด (Clean)"
+            ],
+            "relations": {}
+        },
+        "990011": {
+            "name": "เสื่อ (Reed Mat)",
+            "x": 320,
+            "y": 470,
+            "w": 640,
+            "h": 10,
+            "attributes": [
+                "สาน (Woven)"
+            ],
+            "relations": {
+                "112233": {
+                    "name": "อยู่ใต้ (Underneath)",
+                    "object": "889900"
+                }
+            }
+        }
+    }
+}

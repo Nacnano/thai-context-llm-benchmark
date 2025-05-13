@@ -1,0 +1,102 @@
+[
+    {
+        "question": "พระบรมฉายาลักษณ์มีกรอบสีอะไร (Phra Borom Chayaluk mee krop see arai - What color is the frame of the royal portrait?)",
+        "shortAnswer": "ทอง (Thong - Golden)",
+        "fullAnswer": "พระบรมฉายาลักษณ์มีกรอบสีทอง (Phra Borom Chayaluk mee krop see thong - The royal portrait has a golden frame.)"
+    },
+    {
+        "question": "นักแสดงนั่งอยู่บนอะไร (Nak sadaeng nang yu bon arai - What are the performers sitting on?)",
+        "shortAnswer": "เสื่อ (Suea - Mat)",
+        "fullAnswer": "นักแสดงนั่งอยู่บนเสื่อ (Nak sadaeng nang yu bon suea - The performers are sitting on a mat.)"
+    },
+    {
+        "question": "หมอผีถืออะไรอยู่ (Mor phee thue arai yu - What is the spirit doctor holding?)",
+        "shortAnswer": "ไม้ (Mai - Staff)",
+        "fullAnswer": "หมอผีถือไม้อยู่ (Mor phee thue mai yu - The spirit doctor is holding a staff.)"
+    },
+    {
+        "question": "เครื่องดนตรีเป็นแบบไหน (Krueang dontree pen baep nai - What kind of musical instruments are they?)",
+        "shortAnswer": "พื้นเมือง (Phuen Mueang - Folk)",
+        "fullAnswer": "เครื่องดนตรีเป็นแบบพื้นเมือง (Krueang dontree pen baep phuen mueang - The musical instruments are folk instruments.)"
+    },
+    {
+        "question": "พื้นทำจากอะไร (Phuen tham chak arai - What is the ground made of?)",
+        "shortAnswer": "ดิน (Din - Earth)",
+        "fullAnswer": "พื้นทำจากดิน (Phuen tham chak din - The ground is made of earth.)"
+    },
+    {
+        "question": "สภาพอากาศเป็นอย่างไร (Saphap akat pen yangrai - What is the weather like?)",
+        "shortAnswer": "แดดจัด (Daed Jad - Sunny)",
+        "fullAnswer": "สภาพอากาศแดดจัด (Saphap akat daed jad - The weather is sunny.)"
+    },
+    {
+        "question": "ศาลาทำจากอะไร (Sala tham chak arai - What is the pavilion made of?)",
+        "shortAnswer": "ไม้ไผ่ (Mai Phai - Bamboo)",
+        "fullAnswer": "ศาลาทำจากไม้ไผ่ (Sala tham chak mai phai - The pavilion is made of bamboo.)"
+    },
+    {
+        "question": "เครื่องทรงมีลักษณะอย่างไร (Krueang song mee laksana yangrai - What are the characteristics of the regalia?)",
+        "shortAnswer": "สีสันสดใส (See San Sot Sai - Colorful)",
+        "fullAnswer": "เครื่องทรงมีสีสันสดใส (Krueang song mee see san sot sai - The regalia is colorful.)"
+    },
+    {
+        "question": "พิธีกรรมเกี่ยวกับอะไร (Phithi kam kiao kap arai - What is the ceremony about?)",
+        "shortAnswer": "ศาสนา (Sasana - Religion)",
+        "fullAnswer": "พิธีกรรมเกี่ยวกับศาสนา (Phithi kam kiao kap sasana - The ceremony is about religion.)"
+    },
+    {
+        "question": "มีอะไรอยู่บนศาลา (Mee arai yu bon sala - What is on the pavilion?)",
+        "shortAnswer": "เครื่องบูชา (Krueang Bucha - Offerings)",
+        "fullAnswer": "มีเครื่องบูชาอยู่บนศาลา (Mee krueang bucha yu bon sala - There are offerings on the pavilion.)"
+    },
+    {
+        "question": "ใครสวมใส่เครื่องทรง (Krai suam sai krueang song - Who wears the regalia?)",
+        "shortAnswer": "หมอผี (Mor Phee - Spirit Doctor/Shaman)",
+        "fullAnswer": "หมอผีสวมใส่เครื่องทรง (Mor Phee suam sai krueang song - The Spirit Doctor/Shaman wears the regalia.)"
+    },
+    {
+        "question": "พระบรมฉายาลักษณ์อยู่เหนืออะไร (Phra Borom Chayaluk yu nuea arai - What is above the Royal Portrait?)",
+        "shortAnswer": "เครื่องทรง (Krueang Song - Regalia)",
+        "fullAnswer": "พระบรมฉายาลักษณ์อยู่เหนือเครื่องทรง (Phra Borom Chayaluk yu nuea krueang song - The Royal Portrait is above the Regalia.)"
+    },
+    {
+        "question": "เครื่องดนตรีใช้ในอะไร (Krueang dontree chai nai arai - What are the musical instruments used in?)",
+        "shortAnswer": "พิธีกรรม (Phithi Kam - Ceremony)",
+        "fullAnswer": "เครื่องดนตรีใช้ในพิธีกรรม (Krueang dontree chai nai phithi kam - The musical instruments are used in the Ceremony.)"
+    },
+    {
+        "question": "ผู้คนกำลังทำอะไร (Phu khon kamlang tham arai - What are the people doing?)",
+        "shortAnswer": "ชมพิธี (Chom Phithi - Watching Ceremony)",
+        "fullAnswer": "ผู้คนกำลังชมพิธี (Phu khon kamlang chom phithi - The people are watching the ceremony.)"
+    },
+    {
+        "question": "นักแสดงแต่งกายแบบไหน (Nak sadaeng taeng kai baep nai - What kind of dress do the performers wear?)",
+        "shortAnswer": "พื้นเมือง (Phuen Mueang - Folk Costume)",
+        "fullAnswer": "นักแสดงแต่งกายแบบพื้นเมือง (Nak sadaeng taeng kai baep phuen mueang - The performers wear folk costumes.)"
+    },
+    {
+        "question": "เสื่อมีลักษณะอย่างไร (Suea mee laksana yangrai - What are the characteristics of the mat?)",
+        "shortAnswer": "ลวดลายไทย (Lueat Lai Thai - Thai Pattern)",
+        "fullAnswer": "เสื่อมีลวดลายไทย (Suea mee lueat lai thai - The mat has a Thai pattern.)"
+    },
+    {
+        "question": "อะไรอยู่ใกล้หมอผี (Arai yu klai mor phee - What is near the spirit doctor?)",
+        "shortAnswer": "เครื่องดนตรี (Krueang Dontree - Musical Instruments)",
+        "fullAnswer": "เครื่องดนตรีอยู่ใกล้หมอผี (Krueang dontree yu klai mor phee - Musical instruments are near the spirit doctor.)"
+    },
+    {
+        "question": "อะไรมีอยู่บนศาลา (Arai mee yu bon sala - What is present on the pavilion?)",
+        "shortAnswer": "เครื่องบูชา (Krueang Bucha - Offerings)",
+        "fullAnswer": "เครื่องบูชามีอยู่บนศาลา (Krueang bucha mee yu bon sala - Offerings are present on the pavilion.)"
+    },
+    {
+        "question": "พื้นรองรับอะไร (Phuen rong rap arai - What does the ground support?)",
+        "shortAnswer": "ผู้คน (Phu Khon - People)",
+        "fullAnswer": "พื้นรองรับผู้คน (Phuen rong rap phu khon - The ground supports the people.)"
+    },
+    {
+        "question": "อะไรที่ศาลามุงด้วย (Arai tee sala moong duai - What is the pavilion roofed with?)",
+        "shortAnswer": "หลังคา (Langkha - Thatched Roof)",
+        "fullAnswer": "ศาลามุงด้วยหลังคา (Sala moong duai langkha - The pavilion is roofed with a thatched roof.)"
+    }
+]

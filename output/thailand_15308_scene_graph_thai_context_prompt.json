@@ -1,0 +1,172 @@
+{
+    "width": 640,
+    "height": 480,
+    "location": "ภายในวัด (Inside a temple/Wat)",
+    "weather": "ไม่มี (None - indicating indoor setting)",
+    "objects": {
+        "548291": {
+            "name": "พระพุทธรูป (Buddha Statue)",
+            "x": 320,
+            "y": 100,
+            "w": 100,
+            "h": 150,
+            "attributes": [
+                "สีทอง (Golden)",
+                "ประดิษฐาน (Enshrined)",
+                "ศักดิ์สิทธิ์ (Sacred)"
+            ],
+            "relations": {
+                "675432": {
+                    "name": "อยู่เหนือ (Above)",
+                    "object": "548292"
+                }
+            }
+        },
+        "548292": {
+            "name": "โต๊ะหมู่บูชา (Altar)",
+            "x": 320,
+            "y": 250,
+            "w": 200,
+            "h": 100,
+            "attributes": [
+                "สีทอง (Golden)",
+                "ประดับ (Decorated)",
+                "มีดอกไม้ (With Flowers)"
+            ],
+            "relations": {
+                "675433": {
+                    "name": "มี (Contains)",
+                    "object": "548293"
+                }
+            }
+        },
+        "548293": {
+            "name": "พาน (Phan - Offering tray)",
+            "x": 300,
+            "y": 300,
+            "w": 50,
+            "h": 30,
+            "attributes": [
+                "สีเงิน (Silver)",
+                "ใส่ดอกไม้ (Holding flowers)",
+                "ประดับ (Decorated)"
+            ],
+            "relations": {
+                "675434": {
+                    "name": "วางบน (On)",
+                    "object": "548292"
+                }
+            }
+        },
+        "548294": {
+            "name": "พระสงฆ์ (Monks)",
+            "x": 320,
+            "y": 270,
+            "w": 200,
+            "h": 70,
+            "attributes": [
+                "สวมจีวร (Wearing robes)",
+                "นั่งสมาธิ (Meditating)",
+                "กำลังสวดมนต์ (Chanting)"
+            ],
+            "relations": {
+                "675435": {
+                    "name": "นั่งข้างหน้า (In front of)",
+                    "object": "548295"
+                }
+            }
+        },
+        "548295": {
+            "name": "ญาติโยม (Laypeople/Worshippers)",
+            "x": 320,
+            "y": 350,
+            "w": 600,
+            "h": 120,
+            "attributes": [
+                "นั่งพื้น (Sitting on the floor)",
+                "ฟังพระสวด (Listening to the chanting)",
+                "ยกมือไหว้ (Paying respect - Wai)"
+            ],
+            "relations": {
+                "675436": {
+                    "name": "กำลัง (Doing)",
+                    "object": "548296"
+                }
+            }
+        },
+        "548296": {
+            "name": "ทำบุญ (Making merit)",
+            "x": 320,
+            "y": 380,
+            "w": 100,
+            "h": 50,
+            "attributes": [
+                "ถวายปัจจัย (Offering donations)",
+                "ฟังเทศน์ (Listening to a sermon)",
+                "ปฏิบัติธรรม (Practicing Dharma)"
+            ],
+            "relations": {}
+        },
+        "548297": {
+            "name": "ธง (Flags)",
+            "x": 300,
+            "y": 150,
+            "w": 50,
+            "h": 50,
+            "attributes": [
+                "สีต่างๆ (Various colors)",
+                "ประดับ (Decorated)",
+                "ผูกโยง (Tied together)"
+            ],
+            "relations": {}
+        },
+        "548298": {
+            "name": "ภาพจิตรกรรมฝาผนัง (Mural paintings)",
+            "x": 320,
+            "y": 100,
+            "w": 640,
+            "h": 150,
+            "attributes": [
+                "เรื่องพุทธประวัติ (Buddha's life stories)",
+                "สีสันสดใส (Vibrant colors)",
+                "เก่าแก่ (Ancient)"
+            ],
+            "relations": {}
+        },
+        "548299": {
+            "name": "พัดลม (Fans)",
+            "x": 100,
+            "y": 100,
+            "w": 50,
+            "h": 50,
+            "attributes": [
+                "สีขาว (White)",
+                "ติดผนัง (Wall-mounted)"
+            ],
+            "relations": {}
+        },
+        "548300": {
+            "name": "หน้าต่าง (Windows)",
+            "x": 100,
+            "y": 150,
+            "w": 50,
+            "h": 100,
+            "attributes": [
+                "สีแดง (Red)",
+                "มีลวดลาย (With patterns)"
+            ],
+            "relations": {}
+        },
+        "548301": {
+            "name": "เพดาน (Ceiling)",
+            "x": 320,
+            "y": 10,
+            "w": 640,
+            "h": 50,
+            "attributes": [
+                "สีแดง (Red)"
+            ],
+            "relations": {}
+        }
+    }
+}

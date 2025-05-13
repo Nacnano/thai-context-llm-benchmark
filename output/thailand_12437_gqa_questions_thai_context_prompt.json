@@ -1,0 +1,102 @@
+[
+    {
+        "question": "อาจารย์สวมเสื้อสีอะไร (What color shirt is the teacher wearing?)",
+        "shortAnswer": "ดำ (black)",
+        "fullAnswer": "อาจารย์สวมเสื้อสีดำ (The teacher is wearing a black shirt)."
+    },
+    {
+        "question": "นักเรียนที่กำลังนอนอยู่บนหมอนสวมเสื้ออะไร (What shirt is the student lying on the pillow wearing?)",
+        "shortAnswer": "เสื้อโปโลสีเทา (grey polo shirt)",
+        "fullAnswer": "นักเรียนที่กำลังนอนอยู่บนหมอนสวมเสื้อโปโลสีเทา (The student lying on the pillow is wearing a grey polo shirt)."
+    },
+    {
+        "question": "เสื่อโยคะมีลักษณะอย่างไร (What is the characteristic of the yoga mat?)",
+        "shortAnswer": "สีดำ (black)",
+        "fullAnswer": "เสื่อโยคะมีลักษณะสีดำ (The yoga mat is black)."
+    },
+    {
+        "question": "สไลด์นำเสนอเกี่ยวกับอะไร (What is the presentation slide about?)",
+        "shortAnswer": "นวดแผนไทย (Thai massage)",
+        "fullAnswer": "สไลด์นำเสนอเกี่ยวกับนวดแผนไทย (The presentation slide is about Thai massage)."
+    },
+    {
+        "question": "เพดานมีสีอะไร (What color is the ceiling?)",
+        "shortAnswer": "สีขาว (white)",
+        "fullAnswer": "เพดานมีสีขาว (The ceiling is white)."
+    },
+    {
+        "question": "พัดลมเพดานติดอยู่กับอะไร (What is the ceiling fan attached to?)",
+        "shortAnswer": "เพดาน (ceiling)",
+        "fullAnswer": "พัดลมเพดานติดอยู่กับเพดาน (The ceiling fan is attached to the ceiling)."
+    },
+    {
+        "question": "นักเรียนหญิงที่สวมฮิญาบนั่งอยู่บนอะไร (What is the female student wearing hijab sitting on?)",
+        "shortAnswer": "เสื่อโยคะ (yoga mat)",
+        "fullAnswer": "นักเรียนหญิงที่สวมฮิญาบนั่งอยู่บนเสื่อโยคะ (The female student wearing hijab is sitting on a yoga mat)."
+    },
+    {
+        "question": "หมอนมีสีอะไร (What color is the pillow?)",
+        "shortAnswer": "สีน้ำตาล (brown)",
+        "fullAnswer": "หมอนมีสีน้ำตาล (The pillow is brown)."
+    },
+    {
+        "question": "โปรเจคเตอร์กำลังทำอะไร (What is the projector doing?)",
+        "shortAnswer": "ฉายภาพ (projecting image)",
+        "fullAnswer": "โปรเจคเตอร์กำลังฉายภาพ (The projector is projecting an image)."
+    },
+    {
+        "question": "มีใครยืนอยู่หน้าโปรเจคเตอร์ (Who is standing in front of the projector?)",
+        "shortAnswer": "อาจารย์ (teacher)",
+        "fullAnswer": "อาจารย์ยืนอยู่หน้าโปรเจคเตอร์ (The teacher is standing in front of the projector)."
+    },
+    {
+        "question": "นักเรียนที่ถูกนวดกำลังทำอะไร (What is the student being massaged doing?)",
+        "shortAnswer": "นอน (lying down)",
+        "fullAnswer": "นักเรียนที่ถูกนวดกำลังนอน (The student being massaged is lying down)."
+    },
+    {
+        "question": "หมอนมีรูปทรงอะไร (What shape is the pillow?)",
+        "shortAnswer": "ทรงสี่เหลี่ยม (rectangular)",
+        "fullAnswer": "หมอนมีรูปทรงสี่เหลี่ยม (The pillow is rectangular)."
+    },
+    {
+        "question": "เสื่อโยคะมีสีอะไร (What color is the yoga mat?)",
+        "shortAnswer": "สีดำ (black)",
+        "fullAnswer": "เสื่อโยคะมีสีดำ (The yoga mat is black)."
+    },
+    {
+        "question": "ในห้องเรียนมีอะไรอยู่บนเพดาน (What is on the ceiling in the classroom?)",
+        "shortAnswer": "พัดลมเพดาน (ceiling fan)",
+        "fullAnswer": "ในห้องเรียนมีพัดลมเพดานอยู่บนเพดาน (There is a ceiling fan on the ceiling in the classroom)."
+    },
+    {
+        "question": "ใครกำลังนวดนักเรียน (Who is massaging the student?)",
+        "shortAnswer": "นักเรียน (student)",
+        "fullAnswer": "นักเรียนกำลังนวดนักเรียน (A student is massaging a student)."
+    },
+    {
+        "question": "เสื่อโยคะอยู่ติดกับอะไร (What is the yoga mat adjacent to?)",
+        "shortAnswer": "หมอน (pillow)",
+        "fullAnswer": "เสื่อโยคะอยู่ติดกับหมอน (The yoga mat is adjacent to a pillow)."
+    },
+    {
+        "question": "ข้อมูลอะไรแสดงอยู่บนสไลด์นำเสนอ (What information is displayed on the presentation slide?)",
+        "shortAnswer": "ข้อความภาษาไทย (Thai language text)",
+        "fullAnswer": "ข้อความภาษาไทยแสดงอยู่บนสไลด์นำเสนอ (Thai language text is displayed on the presentation slide)."
+    },
+    {
+        "question": "นักเรียนที่นวดผู้อื่นสวมอะไร (What is the student massaging someone wearing?)",
+        "shortAnswer": "สวมเสื้อโปโลสีเทา (wearing grey polo shirt)",
+        "fullAnswer": "นักเรียนที่นวดผู้อื่นสวมเสื้อโปโลสีเทา (The student massaging someone is wearing a grey polo shirt)."
+    },
+    {
+        "question": "ลักษณะของเพดานเป็นอย่างไร (What is the ceiling like?)",
+        "shortAnswer": "เรียบ (smooth)",
+        "fullAnswer": "ลักษณะของเพดานคือเรียบ (The ceiling is smooth)."
+    },
+    {
+        "question": "ใครสวมเสื้อเชิ้ตสีดำ (Who is wearing a black shirt?)",
+        "shortAnswer": "อาจารย์ (teacher)",
+        "fullAnswer": "อาจารย์สวมเสื้อเชิ้ตสีดำ (The teacher is wearing a black shirt)."
+    }
+]

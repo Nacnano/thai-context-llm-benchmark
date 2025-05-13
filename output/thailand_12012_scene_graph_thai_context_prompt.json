@@ -1,0 +1,114 @@
+{
+    "width": 640,
+    "height": 480,
+    "location": "สตูดิโอถ่ายภาพ (Studio)",
+    "weather": "ไม่มี (None)",
+    "objects": {
+        "123456": {
+            "name": "นักแสดงโขน (Khon Dancer)",
+            "x": 250,
+            "y": 300,
+            "w": 150,
+            "h": 400,
+            "attributes": [
+                "แต่งกายชุดโขน (Dressed in Khon costume)",
+                "ก้มศีรษะ (Bowing head)",
+                "พนมมือ (Wai)",
+                "สวมกำไลข้อเท้าทอง (Wearing golden anklets)"
+            ],
+            "relations": {
+                "789012": {
+                    "name": "สวม (Wearing)",
+                    "object": "234567"
+                },
+                "789013": {
+                    "name": "รับ (Receiving)",
+                    "object": "345678"
+                }
+            }
+        },
+        "234567": {
+            "name": "หัวโขน (Khon Mask)",
+            "x": 300,
+            "y": 50,
+            "w": 100,
+            "h": 200,
+            "attributes": [
+                "สีเขียว (Green)",
+                "สีทอง (Gold)",
+                "ประดับดอกไม้ (Decorated with flowers)",
+                "มีลักษณะเป็นยักษ์ (Yaksha character)"
+            ],
+            "relations": {
+                "890123": {
+                    "name": "อยู่บน (On)",
+                    "object": "123456"
+                }
+            }
+        },
+        "345678": {
+            "name": "ผู้ช่วยแต่งตัว (Costume Assistant)",
+            "x": 450,
+            "y": 250,
+            "w": 150,
+            "h": 400,
+            "attributes": [
+                "สวมเสื้อเชิ้ตสีขาว (Wearing white shirt)",
+                "นุ่งโจงกระเบนสีน้ำเงิน (Wearing blue Chong Kraben)",
+                "กำลังสวมหัวโขน (Putting on the mask)"
+            ],
+            "relations": {
+                "901234": {
+                    "name": "ช่วย (Assisting)",
+                    "object": "123456"
+                }
+            }
+        },
+        "456789": {
+            "name": "พื้นไม้ (Wooden Floor)",
+            "x": 0,
+            "y": 400,
+            "w": 640,
+            "h": 80,
+            "attributes": [
+                "สีน้ำตาล (Brown)",
+                "ขัดเงา (Polished)"
+            ],
+            "relations": {}
+        },
+        "567890": {
+            "name": "ฉากหลังสีดำ (Black Backdrop)",
+            "x": 0,
+            "y": 0,
+            "w": 640,
+            "h": 200,
+            "attributes": [
+                "ทึบแสง (Opaque)",
+                "เรียบ (Plain)"
+            ],
+            "relations": {}
+        },
+        "678901": {
+            "name": "โต๊ะเตี้ย (Low Table)",
+            "x": 300,
+            "y": 400,
+            "w": 200,
+            "h": 100,
+            "attributes": [
+                "สีแดง (Red)",
+                "ขาสีทอง (Golden Legs)",
+                "ใช้สำหรับวางอุปกรณ์ (Used to place props)"
+            ],
+            "relations": {
+                "123457": {
+                    "name": "ใกล้ (Near)",
+                    "object": "123456"
+                },
+                "123458": {
+                    "name": "ใกล้ (Near)",
+                    "object": "345678"
+                }
+            }
+        }
+    }
+}

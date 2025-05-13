@@ -1,0 +1,118 @@
+{
+    "width": 640,
+    "height": 480,
+    "location": "stage",
+    "weather": "none",
+    "objects": {
+        "456789": {
+            "name": "นักแสดง (Nak Sadaeng - Performer)",
+            "x": 320,
+            "y": 240,
+            "w": 200,
+            "h": 400,
+            "attributes": [
+                "สูงวัย (Soong Wai - Elderly)",
+                "สวมชุดไทย (Suam Chut Thai - Wearing Thai costume)",
+                "กำลังร่ายรำ (Gamlang Rai Ram - Performing Dance)"
+            ],
+            "relations": {
+                "32452": {
+                    "name": "สวม (Suam - Wearing)",
+                    "object": "456790"
+                },
+                "32453": {
+                    "name": "สวม (Suam - Wearing)",
+                    "object": "456791"
+                }
+            }
+        },
+        "456790": {
+            "name": "ศิราภรณ์ (Siraporn - Headdress)",
+            "x": 320,
+            "y": 50,
+            "w": 150,
+            "h": 150,
+            "attributes": [
+                "สีทอง (See Thong - Golden)",
+                "ประดับด้วยอัญมณี (Pradap Duai Anyamanee - Decorated with gems)",
+                "แบบไทย (Baeb Thai - Thai style)"
+            ],
+            "relations": {
+                "32454": {
+                    "name": "อยู่บน (Yuu Bon - On top)",
+                    "object": "456789"
+                }
+            }
+        },
+        "456791": {
+            "name": "เครื่องแต่งกาย (Kruang Taeng Kai - Costume)",
+            "x": 320,
+            "y": 350,
+            "w": 250,
+            "h": 200,
+            "attributes": [
+                "สีสันสดใส (See San Sot Sai - Colorful)",
+                "ประดับด้วยลูกปัด (Pradap Duai Look Pat - Decorated with beads)",
+                "มีระบาย (Mee Rabai - Has frills)"
+            ],
+            "relations": {
+                "32455": {
+                    "name": "คลุม (Kloom - Covering)",
+                    "object": "456789"
+                }
+            }
+        },
+        "456792": {
+            "name": "เล็บปลอม (Lep Plom - Fake Nails)",
+            "x": 150,
+            "y": 50,
+            "w": 50,
+            "h": 150,
+            "attributes": [
+                "สีเงิน (See Ngen - Silver)",
+                "ยาว (ยาว - Long)",
+                "ประดับด้วยลูกปัด (Pradap Duai Look Pat - Decorated with beads)"
+            ],
+            "relations": {
+                "32456": {
+                    "name": "สวม (Suam - Worn)",
+                    "object": "456789"
+                }
+            }
+        },
+        "456793": {
+            "name": "กำไล (Kamlai - Bracelets)",
+            "x": 100,
+            "y": 200,
+            "w": 50,
+            "h": 100,
+            "attributes": [
+                "สีเงิน (See Ngen - Silver)",
+                "หลายวง (Lai Wong - Multiple)"
+            ],
+            "relations": {
+                "32457": {
+                    "name": "สวม (Suam - Worn)",
+                    "object": "456789"
+                }
+            }
+        },
+        "456794": {
+            "name": "แสงไฟ (Saeng Fai - Light)",
+            "x": 320,
+            "y": 50,
+            "w": 640,
+            "h": 480,
+            "attributes": [
+                "สีฟ้า (See Fa - Blue)",
+                "สว่าง (สว่าง - Bright)"
+            ],
+            "relations": {
+                "32458": {
+                    "name": "ส่อง (Song - Shining)",
+                    "object": "456789"
+                }
+            }
+        }
+    }
+}

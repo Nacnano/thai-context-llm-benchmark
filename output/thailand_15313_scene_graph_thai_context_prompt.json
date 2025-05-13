@@ -1,0 +1,227 @@
+{
+    "width": 640,
+    "height": 480,
+    "location": "งานทำบุญ (merit-making ceremony)",
+    "weather": "แดดออก (sunny)",
+    "objects": {
+        "123456": {
+            "name": "ขันน้ำมนต์ (holy water bowl)",
+            "x": 300,
+            "y": 250,
+            "w": 50,
+            "h": 50,
+            "attributes": [
+                "เงิน (silver)",
+                "มีลวดลาย (patterned)",
+                "เล็ก (small)"
+            ],
+            "relations": {
+                "123457": {
+                    "name": "เท (pouring)",
+                    "object": "654321"
+                }
+            }
+        },
+        "654321": {
+            "name": "น้ำ (water)",
+            "x": 310,
+            "y": 280,
+            "w": 30,
+            "h": 40,
+            "attributes": [
+                "ใส (clear)",
+                "เย็น (cold)"
+            ],
+            "relations": {
+                "654322": {
+                    "name": "ไหลลง (flowing into)",
+                    "object": "987654"
+                }
+            }
+        },
+        "987654": {
+            "name": "มือ (hands)",
+            "x": 350,
+            "y": 270,
+            "w": 80,
+            "h": 50,
+            "attributes": [
+                "เหี่ยวย่น (wrinkled)",
+                "แก่ (elderly)",
+                "ประนม (in prayer position)"
+            ],
+            "relations": {
+                "987655": {
+                    "name": "รับ (receiving)",
+                    "object": "654321"
+                }
+            }
+        },
+        "246810": {
+            "name": "เสื้อลูกไม้ (lace shirt)",
+            "x": 400,
+            "y": 200,
+            "w": 100,
+            "h": 80,
+            "attributes": [
+                "สีขาว (white)",
+                "แขนสั้น (short-sleeved)",
+                "มีลวดลายดอกไม้ (floral pattern)"
+            ],
+            "relations": {
+                "246811": {
+                    "name": "ใส่ (wearing)",
+                    "object": "369125"
+                }
+            }
+        },
+        "369125": {
+            "name": "ผู้สูงอายุ (elderly woman)",
+            "x": 400,
+            "y": 100,
+            "w": 100,
+            "h": 150,
+            "attributes": [
+                "ผมขาว (white hair)",
+                "ยิ้มแย้ม (smiling)"
+            ],
+            "relations": {
+                "369126": {
+                    "name": "นั่ง (sitting)",
+                    "object": "579135"
+                }
+            }
+        },
+        "579135": {
+            "name": "ผ้าซิ่น (Pha Sin - traditional Thai skirt)",
+            "x": 400,
+            "y": 280,
+            "w": 100,
+            "h": 100,
+            "attributes": [
+                "สีแดง (red)",
+                "มีลายไทย (Thai pattern)",
+                "ยาว (long)"
+            ],
+            "relations": {
+                "579136": {
+                    "name": "สวมใส่ (worn with)",
+                    "object": "246810"
+                }
+            }
+        },
+        "135791": {
+            "name": "ผ้าคลุมไหล่ (shawl)",
+            "x": 520,
+            "y": 200,
+            "w": 100,
+            "h": 80,
+            "attributes": [
+                "สีชมพู (pink)",
+                "ลูกไม้ (lace)",
+                "มีพู่ (with tassels)"
+            ],
+            "relations": {
+                "135792": {
+                    "name": "คลุม (draped on)",
+                    "object": "864209"
+                }
+            }
+        },
+        "864209": {
+            "name": "ผู้สูงอายุ (elderly woman)",
+            "x": 520,
+            "y": 100,
+            "w": 100,
+            "h": 150,
+            "attributes": [
+                "ผมขาว (white hair)",
+                "สีหน้าสงบ (serene expression)"
+            ],
+            "relations": {
+                "864210": {
+                    "name": "นั่ง (sitting)",
+                    "object": "753190"
+                }
+            }
+        },
+        "753190": {
+            "name": "ผ้าซิ่น (Pha Sin - traditional Thai skirt)",
+            "x": 520,
+            "y": 280,
+            "w": 100,
+            "h": 100,
+            "attributes": [
+                "สีแดง (red)",
+                "มีลายไทย (Thai pattern)",
+                "ยาว (long)"
+            ],
+            "relations": {
+                "753191": {
+                    "name": "สวมใส่ (worn with)",
+                    "object": "135791"
+                }
+            }
+        },
+        "112233": {
+            "name": "เด็ก (child)",
+            "x": 180,
+            "y": 250,
+            "w": 50,
+            "h": 100,
+            "attributes": [
+                "ตัวเล็ก (small)",
+                "น่ารัก (cute)",
+                "มีดอกไม้ติดผม (flower hair clips)"
+            ],
+            "relations": {
+                "112234": {
+                    "name": "รับ (receiving)",
+                    "object": "654321"
+                }
+            }
+        },
+        "445566": {
+            "name": "หญิงสาว (young woman)",
+            "x": 120,
+            "y": 100,
+            "w": 80,
+            "h": 150,
+            "attributes": [
+                "ใจดี (kind)",
+                "ใส่เสื้อยืด (wearing a t-shirt)",
+                "ผมยาว (long hair)"
+            ],
+            "relations": {
+                "445567": {
+                    "name": "ริน (pouring)",
+                    "object": "123456"
+                }
+            }
+        },
+        "998877": {
+            "name": "พื้น (ground)",
+            "x": 100,
+            "y": 380,
+            "w": 500,
+            "h": 100,
+            "attributes": [
+                "เปียก (wet)",
+                "มีน้ำ (watery)"
+            ],
+            "relations": {}
+        },
+        "776655": {
+            "name": "หลังคา (roof)",
+            "x": 100,
+            "y": 0,
+            "w": 500,
+            "h": 100,
+            "attributes": [
+                "มุงจาก (thatched)",
+                "เก่า (old)"
+            ],
+            "relations": {}
+        }
+    }
+}

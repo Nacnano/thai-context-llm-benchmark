@@ -1,0 +1,126 @@
+{
+    "width": 640,
+    "height": 480,
+    "location": "ห้องบรรยาย (lecture room)",
+    "weather": "ไม่มี (none)",
+    "objects": {
+        "345678": {
+            "name": "อาจารย์ (teacher)",
+            "x": 250,
+            "y": 200,
+            "w": 150,
+            "h": 200,
+            "attributes": [
+                "ชาย (male)",
+                "ผิวสีน้ำผึ้ง (tan skin)",
+                "ยิ้ม (smiling)"
+            ],
+            "relations": {
+                "345679": {
+                    "name": "ถือ (holding)",
+                    "object": "345680"
+                },
+                "345680": {
+                    "name": "สวม (wearing)",
+                    "object": "345688"
+                }
+            }
+        },
+        "345680": {
+            "name": "แผ่นภาพกายวิภาคแบบไทย (Thai anatomical chart)",
+            "x": 400,
+            "y": 50,
+            "w": 200,
+            "h": 400,
+            "attributes": [
+                "เก่า (old)",
+                "วาดด้วยมือ (hand-drawn)",
+                "มีตัวหนังสือไทย (Thai script)"
+            ],
+            "relations": {
+                "345681": {
+                    "name": "แสดง (showing)",
+                    "object": "345682"
+                }
+            }
+        },
+        "345682": {
+            "name": "รูปคน (human figure)",
+            "x": 450,
+            "y": 150,
+            "w": 100,
+            "h": 300,
+            "attributes": [
+                "วาด (drawn)",
+                "มีจุดฝังเข็ม (acupuncture points)",
+                "แสดงเส้นลมปราณ (sen lines)"
+            ],
+            "relations": {}
+        },
+        "345683": {
+            "name": "นักเรียน/ผู้ฟัง (students/audience)",
+            "x": 50,
+            "y": 250,
+            "w": 200,
+            "h": 150,
+            "attributes": [
+                "หลายคน (many people)",
+                "นั่ง (sitting)",
+                "สนใจ (interested)"
+            ],
+            "relations": {
+                "345684": {
+                    "name": "ฟัง (listening to)",
+                    "object": "345678"
+                }
+            }
+        },
+        "345685": {
+            "name": "ผนัง (wall)",
+            "x": 0,
+            "y": 0,
+            "w": 300,
+            "h": 480,
+            "attributes": [
+                "สีน้ำตาล (brown)",
+                "มีร่องรอย (traces)"
+            ],
+            "relations": {}
+        },
+        "345686": {
+            "name": "ประตู (door)",
+            "x": 300,
+            "y": 0,
+            "w": 100,
+            "h": 400,
+            "attributes": [
+                "ไม้ (wooden)",
+                "เปิด (open)"
+            ],
+            "relations": {}
+        },
+        "345687": {
+            "name": "ปากกา (pen)",
+            "x": 400,
+            "y": 300,
+            "w": 20,
+            "h": 40,
+            "attributes": [
+                "สีน้ำเงิน (blue)",
+                "เสียบอยู่กับเสื้อ (attached to shirt)"
+            ],
+            "relations": {}
+        },
+        "345688": {
+            "name": "เสื้อโปโล (Polo shirt)",
+            "x": 250,
+            "y": 200,
+            "w": 150,
+            "h": 200,
+            "attributes": [
+                "สีขาว (white)"
+            ],
+            "relations": {}
+        }
+    }
+}

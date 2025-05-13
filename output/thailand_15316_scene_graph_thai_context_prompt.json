@@ -1,0 +1,139 @@
+{
+    "width": 640,
+    "height": 480,
+    "location": "วัด (Wat - temple) or ลานวัด (Lan Wat - temple grounds) during สงกรานต์ (Songkran - Thai New Year)",
+    "weather": "แดดจ้า (Daet jaa - sunny)",
+    "objects": {
+        "456789": {
+            "name": "กองทราย (Gong sai - sandcastle)",
+            "x": 350,
+            "y": 250,
+            "w": 250,
+            "h": 300,
+            "attributes": [
+                "ใหญ่ (Yai - big)",
+                "รูปทรงเจดีย์ (Roop song jadee - pagoda-shaped)",
+                "ประดับด้วยดอกดาวเรือง (Pradap duai dok daoreuang - decorated with marigolds)",
+                "มีธงปัก (Mee thong pak - with flags inserted)"
+            ],
+            "relations": {
+                "987654": {
+                    "name": "สร้างโดย (Sang doi - built by)",
+                    "object": "654321"
+                },
+                "987655": {
+                    "name": "ประดับด้วย (Pradap duai - decorated with)",
+                    "object": "543210"
+                }
+            }
+        },
+        "654321": {
+            "name": "ผู้คน (Phu khon - people)",
+            "x": 100,
+            "y": 200,
+            "w": 400,
+            "h": 300,
+            "attributes": [
+                "จำนวนมาก (Jamnuan mak - many)",
+                "ทำบุญ (Tham bun - making merit)",
+                "เล่นสงกรานต์ (Len Songkran - playing Songkran)"
+            ],
+            "relations": {
+                "876543": {
+                    "name": "สร้าง (Sang - building)",
+                    "object": "456789"
+                }
+            }
+        },
+        "543210": {
+            "name": "ดอกดาวเรือง (Dok daoreuang - marigolds)",
+            "x": 400,
+            "y": 300,
+            "w": 100,
+            "h": 50,
+            "attributes": [
+                "สีเหลือง (See lueang - yellow)",
+                "สวยงาม (Suayงาม - beautiful)",
+                "เป็นพวง (Pen phuang - in garlands)"
+            ],
+            "relations": {
+                "765432": {
+                    "name": "ประดับบน (Pradap bon - decorated on)",
+                    "object": "456789"
+                }
+            }
+        },
+        "345678": {
+            "name": "ธง (Thong - flags)",
+            "x": 500,
+            "y": 350,
+            "w": 50,
+            "h": 50,
+            "attributes": [
+                "หลากสี (Lak see - multicolored)",
+                "ขนาดเล็ก (Khanat lek - small)",
+                "ปักอยู่ (Pak yu - inserted)"
+            ],
+            "relations": {
+                "654321": {
+                    "name": "ปักบน (Pak bon - inserted on)",
+                    "object": "456789"
+                }
+            }
+        },
+        "234567": {
+            "name": "ป้ายผ้า (Paai pha - cloth banners)",
+            "x": 200,
+            "y": 50,
+            "w": 300,
+            "h": 50,
+            "attributes": [
+                "สีสันสดใส (See san sot sai - brightly colored)",
+                "แขวนอยู่ (Khwaen yu - hanging)",
+                "ประดับตกแต่ง (Pradap toktaeng - decorative)"
+            ],
+            "relations": {
+                "543210": {
+                    "name": "แขวนเหนือ (Khwaen nuea - hanging above)",
+                    "object": "654321"
+                }
+            }
+        },
+        "123456": {
+            "name": "เด็ก (Dek - child)",
+            "x": 50,
+            "y": 300,
+            "w": 50,
+            "h": 100,
+            "attributes": [
+                "น่ารัก (Narak - cute)",
+                "ใส่เสื้อผ้าลาย (Sai suea pha laai - wearing patterned clothes)",
+                "เล่นทราย (Len sai - playing with sand)"
+            ],
+            "relations": {
+                "432109": {
+                    "name": "กำลัง (Kamlang - currently)",
+                    "object": "456789"
+                }
+            }
+        },
+        "789012": {
+            "name": "ศาลา (Sala - pavilion) or ต้นไม้ (Ton mai - trees)",
+            "x": 550,
+            "y": 100,
+            "w": 50,
+            "h": 100,
+            "attributes": [
+                "ให้ร่มเงา (Hai rom ngao - providing shade)",
+                "อยู่ด้านหลัง (Yu dan lang - in the background)",
+                "เป็นที่พัก (Pen tee phak - a resting place)"
+            ],
+            "relations": {
+                "210987": {
+                    "name": "อยู่ใกล้ (Yu klai - near)",
+                    "object": "654321"
+                }
+            }
+        }
+    }
+}

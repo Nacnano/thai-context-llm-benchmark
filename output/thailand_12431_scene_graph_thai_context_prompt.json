@@ -1,0 +1,179 @@
+{
+    "width": 640,
+    "height": 480,
+    "location": "ศาลาเปิดโล่งสำหรับนวดแผนไทย (Open-air Sala for Thai massage)",
+    "weather": "ฝนตกปรอยๆ หรือสภาพอากาศชื้น (Light rain or humid weather)",
+    "objects": {
+        "123456": {
+            "name": "เตียงนวด (Massage Bed)",
+            "x": 250,
+            "y": 320,
+            "w": 400,
+            "h": 150,
+            "attributes": [
+                "ไม้ (wooden)",
+                "เก่า (old)",
+                "มีที่นอน (with mattress)",
+                "ต่ำ (low)"
+            ],
+            "relations": {
+                "123457": {
+                    "name": "มี (contains)",
+                    "object": "234567"
+                },
+                "123458": {
+                    "name": "อยู่บน (on)",
+                    "object": "345678"
+                },
+                "123459": {
+                    "name": "มี (contains)",
+                    "object": "567890"
+                }
+            }
+        },
+        "234567": {
+            "name": "ผู้รับการนวด (Massage Recipient)",
+            "x": 300,
+            "y": 250,
+            "w": 200,
+            "h": 70,
+            "attributes": [
+                "วัยรุ่น (young)",
+                "ใส่เสื้อสีเขียว (wearing green shirt)",
+                "นอนคว่ำ (lying down)"
+            ],
+            "relations": {
+                "234568": {
+                    "name": "กำลังถูกนวดโดย (being massaged by)",
+                    "object": "456789"
+                }
+            }
+        },
+        "345678": {
+            "name": "พื้นกระเบื้อง (Tiled Floor)",
+            "x": 0,
+            "y": 400,
+            "w": 640,
+            "h": 80,
+            "attributes": [
+                "ลาย (patterned)",
+                "สีน้ำตาล (brown)",
+                "เก่า (old)"
+            ],
+            "relations": {}
+        },
+        "456789": {
+            "name": "หมอนวด (Masseur)",
+            "x": 350,
+            "y": 150,
+            "w": 100,
+            "h": 150,
+            "attributes": [
+                "ผู้ชาย (male)",
+                "สูงอายุ (elderly)",
+                "ใส่เสื้อสีเทา (wearing gray shirt)",
+                "กำลังนวด (massaging)"
+            ],
+            "relations": {}
+        },
+        "567890": {
+            "name": "เก้าอี้ไม้ (Wooden Stool)",
+            "x": 100,
+            "y": 350,
+            "w": 80,
+            "h": 100,
+            "attributes": [
+                "กลม (round)",
+                "เล็ก (small)",
+                "ไม้ (wooden)",
+                "เก่า (old)"
+            ],
+            "relations": {
+                "567891": {
+                    "name": "อยู่ใกล้ (near)",
+                    "object": "123456"
+                }
+            }
+        },
+        "678901": {
+            "name": "หิ้งพระ (Buddhist Shrine)",
+            "x": 450,
+            "y": 100,
+            "w": 150,
+            "h": 150,
+            "attributes": [
+                "ไม้ (wooden)",
+                "มีพระพุทธรูป (with Buddha images)",
+                "มีดอกไม้ (with flowers)",
+                "มีเครื่องบูชา (with offerings)"
+            ],
+            "relations": {
+                "678902": {
+                    "name": "อยู่ด้านหลัง (behind)",
+                    "object": "123456"
+                }
+            }
+        },
+        "789012": {
+            "name": "ป้ายประกาศ (Poster)",
+            "x": 250,
+            "y": 50,
+            "w": 200,
+            "h": 100,
+            "attributes": [
+                "สีเขียว (green)",
+                "มีรูปภาพ (with images)",
+                "เกี่ยวกับพิธีจบการศึกษา (regarding graduation ceremony)"
+            ],
+            "relations": {}
+        },
+        "890123": {
+            "name": "หลังคา (Roof)",
+            "x": 0,
+            "y": 0,
+            "w": 640,
+            "h": 100,
+            "attributes": [
+                "ไม้ (wooden)",
+                "เก่า (old)",
+                "มีรอยรั่ว (leaky)"
+            ],
+            "relations": {
+                "890124": {
+                    "name": "คลุม (covers)",
+                    "object": "123456"
+                }
+            }
+        },
+        "901234": {
+            "name": "ต้นไม้ (Trees)",
+            "x": 0,
+            "y": 0,
+            "w": 200,
+            "h": 400,
+            "attributes": [
+                "เขียวชอุ่ม (lush)",
+                "เยอะ (many)"
+            ],
+            "relations": {}
+        },
+        "912345": {
+            "name": "เครื่องราง (Amulet)",
+            "x": 500,
+            "y": 150,
+            "w": 50,
+            "h": 50,
+            "attributes": [
+                "ศักดิ์สิทธิ์ (sacred)",
+                "ขนาดเล็ก (small)",
+                "วางอยู่บนหิ้งพระ (placed on the shrine)"
+            ],
+            "relations": {
+                "912346": {
+                    "name": "บน (on)",
+                    "object": "678901"
+                }
+            }
+        }
+    }
+}

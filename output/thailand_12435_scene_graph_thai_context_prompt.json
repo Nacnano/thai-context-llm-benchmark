@@ -1,0 +1,172 @@
+{
+    "width": 640,
+    "height": 480,
+    "location": "ห้องนวดแผนไทย (Thai massage room)",
+    "weather": "ไม่มี (none)",
+    "objects": {
+        "101234": {
+            "name": "เตียงนวด (massage bed)",
+            "x": 320,
+            "y": 350,
+            "w": 600,
+            "h": 120,
+            "attributes": [
+                "สีฟ้า (blue)",
+                "ปูด้วยผ้า (covered with fabric)",
+                "เตี้ย (low)"
+            ],
+            "relations": {
+                "101235": {
+                    "name": "บน (on)",
+                    "object": "101236"
+                },
+                "101236": {
+                    "name": "บน (on)",
+                    "object": "101237"
+                }
+            }
+        },
+        "101236": {
+            "name": "ผู้ชาย (man) - ผู้ถูกนวด (being massaged)",
+            "x": 150,
+            "y": 250,
+            "w": 200,
+            "h": 200,
+            "attributes": [
+                "สูงวัย (elderly)",
+                "สวมเสื้อสีขาว (wearing a white shirt)",
+                "สวมกางเกงสีดำ (wearing black pants)",
+                "นั่งขัดสมาธิ (sitting cross-legged)"
+            ],
+            "relations": {
+                "101237": {
+                    "name": "ได้รับการนวด (receiving massage) - โดย (by)",
+                    "object": "101238"
+                }
+            }
+        },
+        "101237": {
+            "name": "มือ (hands) - ของผู้ถูกนวด (of the person being massaged)",
+            "x": 100,
+            "y": 400,
+            "w": 100,
+            "h": 50,
+            "attributes": [
+                "เหี่ยว (wrinkled)",
+                "มีแหวน (wearing a ring)"
+            ],
+            "relations": {}
+        },
+        "101238": {
+            "name": "ผู้ชาย (man) - หมอนวด (masseuse)",
+            "x": 400,
+            "y": 200,
+            "w": 150,
+            "h": 250,
+            "attributes": [
+                "หนุ่ม (young)",
+                "สวมชุดฟอร์ม (wearing a uniform)",
+                "ใส่แว่นกันแดด (wearing sunglasses)",
+                "ผมสั้นสีดำ (short black hair)"
+            ],
+            "relations": {
+                "101239": {
+                    "name": "นวด (massaging)",
+                    "object": "101236"
+                }
+            }
+        },
+        "101239": {
+            "name": "พัดลมเพดาน (ceiling fan)",
+            "x": 150,
+            "y": 50,
+            "w": 100,
+            "h": 50,
+            "attributes": [
+                "สีขาว (white)",
+                "เก่า (old)",
+                "หมุน (spinning)"
+            ],
+            "relations": {
+                "101240": {
+                    "name": "ติดอยู่ (attached to)",
+                    "object": "101241"
+                }
+            }
+        },
+        "101240": {
+            "name": "หน้าต่าง (window)",
+            "x": 100,
+            "y": 150,
+            "w": 150,
+            "h": 100,
+            "attributes": [
+                "มีลูกกรง (with bars)",
+                "ไม้ (wooden)",
+                "เปิด (open)"
+            ],
+            "relations": {
+                "101241": {
+                    "name": "มองเห็น (view of)",
+                    "object": "101242"
+                }
+            }
+        },
+        "101241": {
+            "name": "กำแพง (wall)",
+            "x": 200,
+            "y": 100,
+            "w": 600,
+            "h": 200,
+            "attributes": [
+                "สีเขียวอ่อน (light green)",
+                "มีกระเบื้อง (tiled)",
+                "สะอาด (clean)"
+            ],
+            "relations": {}
+        },
+        "101242": {
+            "name": "ต้นไม้ (trees) - ภายนอก (outside)",
+            "x": 50,
+            "y": 175,
+            "w": 100,
+            "h": 50,
+            "attributes": [
+                "เขียวชอุ่ม (lush)",
+                "สูง (tall)"
+            ],
+            "relations": {}
+        },
+        "101243": {
+            "name": "กระเบื้องพื้น (floor tiles)",
+            "x": 320,
+            "y": 400,
+            "w": 600,
+            "h": 80,
+            "attributes": [
+                "สีเทา (grey)",
+                "มีลวดลาย (patterned)",
+                "สะอาด (clean)"
+            ],
+            "relations": {}
+        },
+        "101244": {
+            "name": "เสื้อฟอร์ม (Uniform Shirt)",
+            "x": 400,
+            "y": 250,
+            "w": 150,
+            "h": 100,
+            "attributes": [
+                "สีขาว (white)",
+                "แขนสั้น (short sleeved)",
+                "มีป้ายชื่อ (with name tag)"
+            ],
+            "relations": {
+                "101245": {
+                    "name": "มีตราสัญลักษณ์ (has emblem)",
+                    "object": "101238"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,116 @@
+{
+    "width": 640,
+    "height": 480,
+    "location": "เวทีการแสดง (wetii gaan sadaeng - Stage)",
+    "weather": "ไม่มี (mai mii - none)",
+    "objects": {
+        "1001": {
+            "name": "นักแสดงชาย (nak sadaeng chaai - male dancer)",
+            "x": 100,
+            "y": 100,
+            "w": 200,
+            "h": 400,
+            "attributes": [
+                "แต่งหน้าจัด (taeng naa jat - heavily made up)",
+                "ใส่เสื้อยืดสีขาว (sai sue yueat sii khaao - wearing a white t-shirt)",
+                "กำลังแต่งกายชุดไทย (gamlang taeng gaai chut thai - being dressed in Thai attire)"
+            ],
+            "relations": {
+                "1002": {
+                    "name": "กำลังถูกแต่งกายโดย (gamlang thuuk taeng gaai doi - being dressed by)",
+                    "object": "1003"
+                },
+                "1003": {
+                    "name": "สวมชุด โจงกระเบน (suam chut Jong Kraben - wearing Jong Kraben)",
+                    "object": "1004"
+                }
+            }
+        },
+        "1003": {
+            "name": "ผู้ช่วยแต่งตัว (phuu chuai taeng dtua - dresser)",
+            "x": 400,
+            "y": 150,
+            "w": 150,
+            "h": 300,
+            "attributes": [
+                "สวมเสื้อเชิ้ตสีขาว (suam sue cheut sii khaao - wearing a white shirt)",
+                "ใส่กางเกงสีน้ำเงิน (sai gaang geng sii nam nguen - wearing blue pants)",
+                "กำลังจัดชุด (gamlang jat chut - adjusting clothes)"
+            ],
+            "relations": {
+                "1004": {
+                    "name": "กำลังจัดชุดให้ (gamlang jat chut hai - adjusting clothes for)",
+                    "object": "1001"
+                },
+                "1005": {
+                    "name": "นั่งอยู่บน (nang yu bon - sitting on)",
+                    "object": "1006"
+                }
+            }
+        },
+        "1004": {
+            "name": "โจงกระเบน (Jong Kraben - Thai wraparound trousers)",
+            "x": 150,
+            "y": 250,
+            "w": 250,
+            "h": 250,
+            "attributes": [
+                "สีทองและแดง (sii thong lae daeng - gold and red)",
+                "ลายไทย (laai thai - Thai pattern)",
+                "ผ้าไหม (phaa mai - silk)"
+            ],
+            "relations": {}
+        },
+        "1005": {
+            "name": "พร็อพประกอบฉาก (prop bragob chaak - stage props)",
+            "x": 300,
+            "y": 250,
+            "w": 200,
+            "h": 100,
+            "attributes": [
+                "สีแดง (sii daeng - red)",
+                "มีเครื่องประดับ (mii khreuang pradap - has decorations)",
+                "วางอยู่บนพื้น (waang yu bon phuen - lying on the floor)"
+            ],
+            "relations": {}
+        },
+        "1006": {
+            "name": "เก้าอี้ (gao ii - chair)",
+            "x": 450,
+            "y": 350,
+            "w": 100,
+            "h": 150,
+            "attributes": [
+                "สีดำ (sii dam - black)",
+                "เล็ก (lek - small)",
+                "ขาโลหะ (khaa lo ha - metal legs)"
+            ],
+            "relations": {}
+        },
+        "1007": {
+            "name": "พื้นไม้ (phuen mai - wooden floor)",
+            "x": 0,
+            "y": 400,
+            "w": 640,
+            "h": 80,
+            "attributes": [
+                "สีน้ำตาล (sii nam tan - brown)",
+                "ขัดเงา (khat ngao - polished)"
+            ],
+            "relations": {}
+        },
+        "1008": {
+            "name": "ชุดแต่งกาย (chut taeng gaai - Thai costume)",
+            "x": 50,
+            "y": 250,
+            "w": 250,
+            "h": 300,
+            "attributes": [
+                "เข็มขัดสีเขียว (khem khat sii khiao - green belt)",
+                "ผ้าพันเอวสีขาว (phaa phan eo sii khaao - white waist wrap)",
+                "เครื่องประดับ (khreuang pradap - decorations)"
+            ],
+            "relations": {}
+        }
+    }
+}

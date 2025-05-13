@@ -1,0 +1,190 @@
+{
+    "width": 1920,
+    "height": 1440,
+    "location": "วัด (wat - temple)",
+    "weather": "แดดจ้า (daed jaa - sunny)",
+    "objects": {
+        "123456": {
+            "name": "หญิงสวมชุดลูกไม้สีทอง (ying suam chud lukmai see thong - woman wearing golden lace dress)",
+            "x": 100,
+            "y": 500,
+            "w": 400,
+            "h": 700,
+            "attributes": [
+                "สีทอง (see thong - golden)",
+                "ลูกไม้ (lukmai - lace)",
+                "สง่างาม (sanga ngam - elegant)"
+            ],
+            "relations": {
+                "789012": {
+                    "name": "กำลังรดน้ำ (gamlang rod nam - is pouring water)",
+                    "object": "789012"
+                },
+                "789013": {
+                    "name": "อยู่ใกล้ (yu klai - near)",
+                    "object": "234567"
+                }
+            }
+        },
+        "234567": {
+            "name": "ชายสวมเสื้อชมพู (chai suam suea chomphu - man wearing pink shirt)",
+            "x": 400,
+            "y": 450,
+            "w": 200,
+            "h": 700,
+            "attributes": [
+                "สีชมพู (see chomphu - pink)",
+                "กราบ (krab - kneeling)",
+                "ถ่อมตน (thom ton - humble)"
+            ],
+            "relations": {
+                "890123": {
+                    "name": "กำลังรดน้ำ (gamlang rod nam - is pouring water)",
+                    "object": "901234"
+                },
+                "890124": {
+                    "name": "อยู่ด้านหลัง (yu dan lang - behind)",
+                    "object": "123456"
+                }
+            }
+        },
+        "345678": {
+            "name": "พระสงฆ์ (phra song - monks)",
+            "x": 700,
+            "y": 350,
+            "w": 700,
+            "h": 800,
+            "attributes": [
+                "จีวรสีส้ม (jiwon see som - orange robes)",
+                "สำรวม (samruam - solemn)",
+                "นั่ง (nang - sitting)"
+            ],
+            "relations": {
+                "901234": {
+                    "name": "รับน้ำ (rap nam - receiving water)",
+                    "object": "456789"
+                },
+                "901235": {
+                    "name": "ได้รับความเคารพ (dai rap kwam kharop - being respected)",
+                    "object": "123456"
+                }
+            }
+        },
+        "456789": {
+            "name": "ขันทองเหลือง (khan thong lueang - brass bowl)",
+            "x": 150,
+            "y": 750,
+            "w": 200,
+            "h": 200,
+            "attributes": [
+                "สีทอง (see thong - golden)",
+                "มีน้ำ (mee nam - with water)",
+                "สวยงาม (suay ngam - beautiful)"
+            ],
+            "relations": {
+                "123456": {
+                    "name": "ถือโดย (thue doi - held by)",
+                    "object": "123456"
+                },
+                "123457": {
+                    "name": "ใช้ในพิธี (chai nai phithi - used in ceremony)",
+                    "object": "345678"
+                }
+            }
+        },
+        "567890": {
+            "name": "เสื่อ (suea - mat)",
+            "x": 0,
+            "y": 950,
+            "w": 1920,
+            "h": 490,
+            "attributes": [
+                "สาน (san - woven)",
+                "สีแดง (see daeng - red)",
+                "ลายไทย (lai thai - Thai pattern)"
+            ],
+            "relations": {
+                "234567": {
+                    "name": "ปูบน (pu bon - laid on)",
+                    "object": "พื้น (phuen - floor)"
+                }
+            }
+        },
+        "678901": {
+            "name": "ต้นไม้ (tonmai - trees)",
+            "x": 0,
+            "y": 0,
+            "w": 500,
+            "h": 400,
+            "attributes": [
+                "เขียว (khiao - green)",
+                "ใหญ่ (yai - big)",
+                "ร่มรื่น (romruen - shady)"
+            ],
+            "relations": {
+                "345678": {
+                    "name": "อยู่ด้านหลัง (yu dan lang - behind)",
+                    "object": "หญิงสวมชุดลูกไม้สีทอง (ying suam chud lukmai see thong - woman wearing golden lace dress)"
+                }
+            }
+        },
+        "789012": {
+            "name": "น้ำ (nam - water)",
+            "x": 450,
+            "y": 550,
+            "w": 100,
+            "h": 50,
+            "attributes": [
+                "ใส (sai - clear)",
+                "สะอาด (saat - clean)",
+                "ใช้ในพิธี (chai nai phithi - used in ceremony)"
+            ],
+            "relations": {
+                "456789": {
+                    "name": "อยู่ใน (yu nai - inside)",
+                    "object": "456789"
+                },
+                "456790": {
+                    "name": "กำลังถูกรด (gamlang thuk rod - being poured on)",
+                    "object": "345678"
+                }
+            }
+        },
+        "890123": {
+            "name": "อาคารวัด (ahkhan wat - temple building)",
+            "x": 0,
+            "y": 0,
+            "w": 700,
+            "h": 400,
+            "attributes": [
+                "สีขาว (see khao - white)",
+                "มีธง (mee thong - with flag)",
+                "สวยงาม (suay ngam - beautiful)"
+            ],
+            "relations": {
+                "567890": {
+                    "name": "อยู่ด้านหลัง (yu dan lang - behind)",
+                    "object": "345678"
+                }
+            }
+        },
+        "901234": {
+            "name": "ชุดเครื่องถวาย (chud khreuang thawai - offering set)",
+            "x": 750,
+            "y": 300,
+            "w": 100,
+            "h": 70,
+            "attributes": [
+                "สีทอง (see thong - golden)",
+                "ประณีต (praneet - exquisite)",
+                "เล็ก (lek - small)"
+            ],
+            "relations": {
+                "123456": {
+                    "name": "วางบน (wang bon - placed on)",
+                    "object": "โต๊ะ (toh - table)"
+                }
+            }
+        }
+    }
+}

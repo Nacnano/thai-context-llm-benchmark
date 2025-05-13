@@ -1,0 +1,102 @@
+[
+    {
+        "question": "ผู้หญิงสวมชุดอะไร (phu ying suam chud arai)?",
+        "shortAnswer": "ลูกไม้สีทอง (lukmai see thong)",
+        "fullAnswer": "ผู้หญิงสวมชุดลูกไม้สีทอง (phu ying suam chud lukmai see thong - woman wearing golden lace dress)"
+    },
+    {
+        "question": "ผู้ชายที่สวมเสื้อสีอะไรกำลังทำอะไร (phu chai tee suam suea see arai gamlang tham arai)?",
+        "shortAnswer": "สีชมพูรดน้ำ (see chomphu rod nam)",
+        "fullAnswer": "ผู้ชายที่สวมเสื้อสีชมพูกำลังรดน้ำ (phu chai tee suam suea see chomphu gamlang rod nam - man wearing pink shirt is pouring water)"
+    },
+    {
+        "question": "พระสงฆ์กำลังทำอะไร (phra song gamlang tham arai)?",
+        "shortAnswer": "รับน้ำ (rap nam)",
+        "fullAnswer": "พระสงฆ์กำลังรับน้ำ (phra song gamlang rap nam - monks are receiving water)"
+    },
+    {
+        "question": "ขันที่ใส่น้ำมีสีอะไร (khan tee sai nam mee see arai)?",
+        "shortAnswer": "สีทอง (see thong)",
+        "fullAnswer": "ขันที่ใส่น้ำมีสีทอง (khan tee sai nam mee see thong - the bowl containing water is golden)"
+    },
+    {
+        "question": "พื้นปูด้วยอะไร (phuen pu duai arai)?",
+        "shortAnswer": "เสื่อ (suea)",
+        "fullAnswer": "พื้นปูด้วยเสื่อ (phuen pu duai suea - the floor is covered with a mat)"
+    },
+    {
+        "question": "สถานที่นี้คืออะไร (sathanee thee nee khue arai)?",
+        "shortAnswer": "วัด (wat)",
+        "fullAnswer": "สถานที่นี้คือวัด (sathanee thee nee khue wat - this place is a temple)"
+    },
+    {
+        "question": "สภาพอากาศเป็นอย่างไร (saphap akat pen yangrai)?",
+        "shortAnswer": "แดดจ้า (daed jaa)",
+        "fullAnswer": "สภาพอากาศแดดจ้า (saphap akat daed jaa - the weather is sunny)"
+    },
+    {
+        "question": "ชุดเครื่องถวายมีลักษณะอย่างไร (chud khreuang thawai mee laksana yangrai)?",
+        "shortAnswer": "ประณีต (praneet)",
+        "fullAnswer": "ชุดเครื่องถวายมีลักษณะประณีต (chud khreuang thawai mee laksana praneet - the offering set is exquisite)"
+    },
+    {
+        "question": "เสื่อมีสีอะไร (suea mee see arai)?",
+        "shortAnswer": "สีแดง (see daeng)",
+        "fullAnswer": "เสื่อมีสีแดง (suea mee see daeng - the mat is red)"
+    },
+    {
+        "question": "เสื้อของผู้ชายมีสีอะไร (suea khong phu chai mee see arai)?",
+        "shortAnswer": "สีชมพู (see chomphu)",
+        "fullAnswer": "เสื้อของผู้ชายมีสีชมพู (suea khong phu chai mee see chomphu - the man's shirt is pink)"
+    },
+    {
+        "question": "ผู้หญิงกำลังทำอะไร (phu ying gamlang tham arai)?",
+        "shortAnswer": "รดน้ำ (rod nam)",
+        "fullAnswer": "ผู้หญิงกำลังรดน้ำ (phu ying gamlang rod nam - the woman is pouring water)"
+    },
+    {
+        "question": "พระสงฆ์สวมอะไร (phra song suam arai)?",
+        "shortAnswer": "จีวรสีส้ม (jiwon see som)",
+        "fullAnswer": "พระสงฆ์สวมจีวรสีส้ม (phra song suam jiwon see som - the monks are wearing orange robes)"
+    },
+    {
+        "question": "อาคารวัดมีสีอะไร (ahkhan wat mee see arai)?",
+        "shortAnswer": "สีขาว (see khao)",
+        "fullAnswer": "อาคารวัดมีสีขาว (ahkhan wat mee see khao - the temple building is white)"
+    },
+    {
+        "question": "น้ำในขันมีลักษณะอย่างไร (nam nai khan mee laksana yangrai)?",
+        "shortAnswer": "ใส (sai)",
+        "fullAnswer": "น้ำในขันมีลักษณะใส (nam nai khan mee laksana sai - the water in the bowl is clear)"
+    },
+    {
+        "question": "ต้นไม้มีสีอะไร (tonmai mee see arai)?",
+        "shortAnswer": "เขียว (khiao)",
+        "fullAnswer": "ต้นไม้มีสีเขียว (tonmai mee see khiao - the trees are green)"
+    },
+    {
+        "question": "ขันทองเหลืองถูกถือโดยใคร (khan thong lueang thuk thue doi khrai)?",
+        "shortAnswer": "ผู้หญิง (phu ying)",
+        "fullAnswer": "ขันทองเหลืองถูกถือโดยผู้หญิง (khan thong lueang thuk thue doi phu ying - The brass bowl is held by the woman)"
+    },
+    {
+        "question": "ชุดเครื่องถวายวางอยู่บนอะไร (chud khreuang thawai wang yu bon arai)?",
+        "shortAnswer": "โต๊ะ (toh)",
+        "fullAnswer": "ชุดเครื่องถวายวางอยู่บนโต๊ะ (chud khreuang thawai wang yu bon toh - The offering set is placed on the table)"
+    },
+    {
+        "question": "ผู้ชายสวมเสื้อสีชมพูกำลังทำอะไร (phu chai suam suea see chomphu gamlang tham arai)?",
+        "shortAnswer": "กราบ (krab)",
+        "fullAnswer": "ผู้ชายสวมเสื้อสีชมพูกำลังกราบ (phu chai suam suea see chomphu gamlang krab - The man wearing a pink shirt is kneeling)"
+    },
+    {
+        "question": "อะไรอยู่ด้านหลังพระสงฆ์ (arai yu dan lang phra song)?",
+        "shortAnswer": "อาคารวัด (ahkhan wat)",
+        "fullAnswer": "อาคารวัดอยู่ด้านหลังพระสงฆ์ (ahkhan wat yu dan lang phra song - The temple building is behind the monks)"
+    },
+    {
+        "question": "ชุดของผู้หญิงมีลวดลายแบบใด (chud khong phu ying mee luatlai baep dai)?",
+        "shortAnswer": "ลูกไม้ (lukmai)",
+        "fullAnswer": "ชุดของผู้หญิงมีลวดลายแบบลูกไม้ (chud khong phu ying mee luatlai baep lukmai - The woman's dress has a lace pattern)"
+    }
+]

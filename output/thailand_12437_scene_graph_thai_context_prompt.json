@@ -1,0 +1,160 @@
+{
+    "width": 640,
+    "height": 480,
+    "location": "ห้องเรียน (classroom)",
+    "weather": "ไม่มี (none)",
+    "objects": {
+        "271881": {
+            "name": "เสื่อโยคะ (yoga mat)",
+            "x": 100,
+            "y": 350,
+            "w": 150,
+            "h": 100,
+            "attributes": [
+                "สีดำ (black)",
+                "สี่เหลี่ยม (rectangular)",
+                "หนา (thick)"
+            ],
+            "relations": {
+                "32452": {
+                    "name": "บน (on)",
+                    "object": "275312"
+                },
+                "32453": {
+                    "name": "ติดกับ (adjacent to)",
+                    "object": "279472"
+                }
+            }
+        },
+        "275312": {
+            "name": "นักเรียน (student)",
+            "x": 120,
+            "y": 250,
+            "w": 80,
+            "h": 120,
+            "attributes": [
+                "หญิง (female)",
+                "สวมเสื้อโปโลสีเทา (wearing grey polo shirt)",
+                "สวมฮิญาบ (wearing hijab)"
+            ],
+            "relations": {
+                "32454": {
+                    "name": "กำลังนวด (massaging)",
+                    "object": "279472"
+                }
+            }
+        },
+        "279472": {
+            "name": "หมอน (pillow)",
+            "x": 250,
+            "y": 300,
+            "w": 60,
+            "h": 40,
+            "attributes": [
+                "ทรงสี่เหลี่ยม (rectangular)",
+                "สีน้ำตาล (brown)",
+                "นุ่ม (soft)"
+            ],
+            "relations": {
+                "32455": {
+                    "name": "หนุน (supporting)",
+                    "object": "283456"
+                }
+            }
+        },
+        "283456": {
+            "name": "นักเรียน (student)",
+            "x": 230,
+            "y": 220,
+            "w": 100,
+            "h": 150,
+            "attributes": [
+                "หญิง (female)",
+                "นอน (lying down)",
+                "สวมเสื้อโปโลสีเทา (wearing grey polo shirt)",
+                "กำลังถูกนวด (being massaged)"
+            ],
+            "relations": {}
+        },
+        "287654": {
+            "name": "อาจารย์ (teacher)",
+            "x": 50,
+            "y": 80,
+            "w": 30,
+            "h": 100,
+            "attributes": [
+                "ชาย (male)",
+                "ยืน (standing)",
+                "สวมเสื้อเชิ้ตสีดำ (wearing black shirt)"
+            ],
+            "relations": {
+                "32456": {
+                    "name": "อยู่หน้า (in front of)",
+                    "object": "291234"
+                }
+            }
+        },
+        "291234": {
+            "name": "โปรเจคเตอร์ (projector)",
+            "x": 100,
+            "y": 50,
+            "w": 150,
+            "h": 100,
+            "attributes": [
+                "สี่เหลี่ยม (rectangular)",
+                "สีขาว (white)",
+                "ฉายภาพ (projecting image)"
+            ],
+            "relations": {
+                "32457": {
+                    "name": "แสดง (showing)",
+                    "object": "295432"
+                }
+            }
+        },
+        "295432": {
+            "name": "สไลด์นำเสนอ (presentation slide)",
+            "x": 110,
+            "y": 60,
+            "w": 140,
+            "h": 80,
+            "attributes": [
+                "ข้อความภาษาไทย (Thai language text)",
+                "แสดงข้อมูล (displaying information)",
+                "เกี่ยวกับนวดแผนไทย (about Thai massage)"
+            ],
+            "relations": {}
+        },
+        "299765": {
+            "name": "พัดลมเพดาน (ceiling fan)",
+            "x": 300,
+            "y": 50,
+            "w": 40,
+            "h": 30,
+            "attributes": [
+                "สีขาว (white)",
+                "ติดเพดาน (ceiling mounted)",
+                "กำลังหมุน (rotating)"
+            ],
+            "relations": {
+                "32458": {
+                    "name": "แขวนจาก (hanging from)",
+                    "object": "303456"
+                }
+            }
+        },
+        "303456": {
+            "name": "เพดาน (ceiling)",
+            "x": 320,
+            "y": 30,
+            "w": 600,
+            "h": 50,
+            "attributes": [
+                "สีขาว (white)",
+                "เรียบ (smooth)",
+                "มีไฟ (with lights)"
+            ],
+            "relations": {}
+        }
+    }
+}

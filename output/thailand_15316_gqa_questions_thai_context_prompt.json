@@ -1,0 +1,102 @@
+[
+    {
+        "question": "กองทรายมีรูปทรงอะไร (Gong sai mee roop song arai - What is the shape of the sandcastle?)",
+        "shortAnswer": "เจดีย์ (Jadee - Pagoda)",
+        "fullAnswer": "กองทรายมีรูปทรงเจดีย์ (Gong sai mee roop song jadee - The sandcastle has a pagoda shape)."
+    },
+    {
+        "question": "ผู้คนกำลังทำอะไร (Phu khon kamlang tham arai - What are the people doing?)",
+        "shortAnswer": "ทำบุญ (Tham bun - Making merit)",
+        "fullAnswer": "ผู้คนกำลังทำบุญและเล่นสงกรานต์ (Phu khon kamlang tham bun lae len Songkran - The people are making merit and playing Songkran)."
+    },
+    {
+        "question": "ดอกไม้ที่ประดับกองทรายมีสีอะไร (Dokmai tee pradap gong sai mee see arai - What color are the flowers decorating the sandcastle?)",
+        "shortAnswer": "เหลือง (Lueang - Yellow)",
+        "fullAnswer": "ดอกไม้ที่ประดับกองทรายมีสีเหลือง (Dokmai tee pradap gong sai mee see lueang - The flowers decorating the sandcastle are yellow)."
+    },
+    {
+        "question": "ธงที่ปักบนกองทรายมีลักษณะอย่างไร (Thong tee pak bon gong sai mee laksana yangrai - What is the characteristic of the flags inserted on the sandcastle?)",
+        "shortAnswer": "หลากสี (Lak see - Multicolored)",
+        "fullAnswer": "ธงที่ปักบนกองทรายมีสีสันหลากสี (Thong tee pak bon gong sai mee see san lak see - The flags inserted on the sandcastle are multicolored)."
+    },
+    {
+        "question": "ป้ายผ้าที่แขวนอยู่มีลักษณะอย่างไร (Paai pha tee khwaen yu mee laksana yangrai - What is the characteristic of the cloth banners hanging?)",
+        "shortAnswer": "สีสันสดใส (See san sot sai - Brightly colored)",
+        "fullAnswer": "ป้ายผ้าที่แขวนอยู่มีสีสันสดใส (Paai pha tee khwaen yu mee see san sot sai - The cloth banners hanging are brightly colored)."
+    },
+    {
+        "question": "เด็กกำลังทำอะไร (Dek kamlang tham arai - What is the child doing?)",
+        "shortAnswer": "เล่นทราย (Len sai - Playing with sand)",
+        "fullAnswer": "เด็กกำลังเล่นทรายใกล้กองทราย (Dek kamlang len sai klai gong sai - The child is playing with sand near the sandcastle)."
+    },
+    {
+        "question": "ศาลาหรือต้นไม้อยู่ที่ไหน (Sala rue ton mai yu tee nai - Where is the pavilion or tree located?)",
+        "shortAnswer": "ด้านหลัง (Dan lang - Background)",
+        "fullAnswer": "ศาลาหรือต้นไม้อยู่ด้านหลังของผู้คน (Sala rue ton mai yu dan lang khong phu khon - The pavilion or tree is in the background of the people)."
+    },
+    {
+        "question": "อะไรที่ประดับอยู่บนกองทราย (Arai tee pradap yu bon gong sai - What is decorated on the sandcastle?)",
+        "shortAnswer": "ดอกดาวเรือง (Dok daoreuang - Marigolds)",
+        "fullAnswer": "ดอกดาวเรืองประดับอยู่บนกองทราย (Dok daoreuang pradap yu bon gong sai - Marigolds are decorated on the sandcastle)."
+    },
+    {
+        "question": "กองทรายถูกสร้างโดยใคร (Gong sai thook sang doi khrai - Who built the sandcastle?)",
+        "shortAnswer": "ผู้คน (Phu khon - People)",
+        "fullAnswer": "กองทรายถูกสร้างโดยผู้คน (Gong sai thook sang doi phu khon - The sandcastle was built by the people)."
+    },
+    {
+        "question": "สภาพอากาศเป็นอย่างไร (Saphap akat pen yangrai - What is the weather like?)",
+        "shortAnswer": "แดดจ้า (Daet jaa - Sunny)",
+        "fullAnswer": "สภาพอากาศแดดจ้า (Saphap akat daet jaa - The weather is sunny)."
+    },
+    {
+        "question": "บริเวณนี้คือที่ไหน (Boriven nee kue tee nai - Where is this area?)",
+        "shortAnswer": "วัด (Wat - Temple)",
+        "fullAnswer": "บริเวณนี้คือวัดหรือลานวัดในช่วงสงกรานต์ (Boriven nee kue wat rue lan wat nai chuang Songkran - This area is a temple or temple grounds during Songkran)."
+    },
+    {
+        "question": "ป้ายผ้าแขวนอยู่เหนืออะไร (Paai pha khwaen yu nuea arai - What is the cloth banner hanging above?)",
+        "shortAnswer": "ผู้คน (Phu khon - People)",
+        "fullAnswer": "ป้ายผ้าแขวนอยู่เหนือผู้คน (Paai pha khwaen yu nuea phu khon - The cloth banner is hanging above the people)."
+    },
+    {
+        "question": "กองทรายมีขนาดเท่าไหร่ (Gong sai mee khanat thao rai - What is the size of the sandcastle?)",
+        "shortAnswer": "ใหญ่ (Yai - Big)",
+        "fullAnswer": "กองทรายมีขนาดใหญ่ (Gong sai mee khanat yai - The sandcastle is big)."
+    },
+    {
+        "question": "ธงที่ปักอยู่มีขนาดอะไร (Thong tee pak yu mee khanat arai - What size are the flags that are inserted?)",
+        "shortAnswer": "เล็ก (Lek - Small)",
+        "fullAnswer": "ธงที่ปักอยู่มีขนาดเล็ก (Thong tee pak yu mee khanat lek - The flags that are inserted are small)."
+    },
+    {
+        "question": "ผู้คนกำลังทำอะไรกับทราย (Phu khon kamlang tham arai gap sai - What are the people doing with the sand?)",
+        "shortAnswer": "สร้างกองทราย (Sang gong sai - Building sandcastles)",
+        "fullAnswer": "ผู้คนกำลังสร้างกองทราย (Phu khon kamlang sang gong sai - The people are building sandcastles)."
+    },
+    {
+        "question": "ดอกดาวเรืองมีลักษณะอย่างไร (Dok daoreuang mee laksana yangrai - What is the characteristic of the marigolds?)",
+        "shortAnswer": "เป็นพวง (Pen phuang - In garlands)",
+        "fullAnswer": "ดอกดาวเรืองเป็นพวง (Dok daoreuang pen phuang - The marigolds are in garlands)."
+    },
+    {
+        "question": "เด็กใส่เสื้อผ้าแบบไหน (Dek sai suea pha baep nai - What kind of clothes is the child wearing?)",
+        "shortAnswer": "ลาย (Laai - Patterned)",
+        "fullAnswer": "เด็กใส่เสื้อผ้าลาย (Dek sai suea pha laai - The child is wearing patterned clothes)."
+    },
+    {
+        "question": "ศาลาหรือต้นไม้ทำหน้าที่อะไร (Sala rue ton mai tham na tee arai - What is the function of the pavilion or tree?)",
+        "shortAnswer": "ให้ร่มเงา (Hai rom ngao - Providing shade)",
+        "fullAnswer": "ศาลาหรือต้นไม้ให้ร่มเงา (Sala rue ton mai hai rom ngao - The pavilion or tree provides shade)."
+    },
+    {
+        "question": "ทำไมผู้คนถึงมาที่นี่ (Thammai phu khon thueng ma tee nee - Why did people come here?)",
+        "shortAnswer": "ทำบุญ (Tham bun - Make merit)",
+        "fullAnswer": "ผู้คนมาที่นี่เพื่อทำบุญ (Phu khon ma tee nee phuea tham bun - People came here to make merit)."
+    },
+    {
+        "question": "ธงถูกปักไว้บนอะไร (Thong thook pak wai bon arai - Where are the flags inserted?)",
+        "shortAnswer": "กองทราย (Gong sai - Sandcastle)",
+        "fullAnswer": "ธงถูกปักไว้บนกองทราย (Thong thook pak wai bon gong sai - Flags are inserted on the sandcastle)."
+    }
+]

@@ -1,0 +1,83 @@
+{
+    "width": 640,
+    "height": 480,
+    "location": "เรือนไทย (Reuan Thai - Traditional Thai House)",
+    "weather": "แสงธรรมชาติ (Saeng Thammachat - Natural Light)",
+    "objects": {
+        "123456": {
+            "name": "ผู้หญิง (Phu Ying - Woman)",
+            "x": 100,
+            "y": 50,
+            "w": 300,
+            "h": 400,
+            "attributes": [
+                "ผมสั้น (Phom San - Short hair)",
+                "เสื้อสีน้ำตาล (Suea Si Namtan - Brown shirt)",
+                "นวด (Nuat - Massaging)",
+                "อายุกลางคน (Ayu Klang Khon - Middle aged)"
+            ],
+            "relations": {
+                "789012": {
+                    "name": "นวด (Nuat - Massages)",
+                    "object": "654321"
+                }
+            }
+        },
+        "654321": {
+            "name": "ผู้หญิง (Phu Ying - Woman)",
+            "x": 300,
+            "y": 100,
+            "w": 300,
+            "h": 400,
+            "attributes": [
+                "ผมยาวมัด (Phom Yao Mat - Long tied hair)",
+                "เสื้อสีขาว (Suea Si Khao - White shirt)",
+                "รับการนวด (Rap Kan Nuat - Receiving Massage)",
+                "อายุกลางคน (Ayu Klang Khon - Middle aged)"
+            ],
+            "relations": {}
+        },
+        "987654": {
+            "name": "มือ (Mue - Hands)",
+            "x": 200,
+            "y": 150,
+            "w": 150,
+            "h": 100,
+            "attributes": [
+                "กำลังนวด (Kamlang Nuat - Massaging)"
+            ],
+            "relations": {
+                "123789": {
+                    "name": "สัมผัส (Samphat - Touching)",
+                    "object": "654321"
+                }
+            }
+        },
+        "456789": {
+            "name": "ผนังไม้ (Phanang Mai - Wooden Wall)",
+            "x": 450,
+            "y": 0,
+            "w": 200,
+            "h": 480,
+            "attributes": [
+                "แกะสลัก (Kae Salak - Carved)",
+                "สีน้ำตาล (Si Namtan - Brown)",
+                "ลายไทย (Lai Thai - Thai pattern)"
+            ],
+            "relations": {}
+        },
+        "321654": {
+            "name": "เสื่อ (Suea - Mat)",
+            "x": 0,
+            "y": 400,
+            "w": 640,
+            "h": 80,
+            "attributes": [
+                "สาน (San - Woven)",
+                "สีอ่อน (Si On - Light color)",
+                "ปูพื้น (Poo Phuen - Floor mat)"
+            ],
+            "relations": {}
+        }
+    }
+}

@@ -1,0 +1,98 @@
+{
+    "width": 640,
+    "height": 480,
+    "location": "ผนังวัดไทย (Thai temple wall)",
+    "weather": "ไม่มี (none)",
+    "objects": {
+        "100001": {
+            "name": "ภาพวาดกายวิภาคศาสตร์ไทย (Thai anatomical drawing)",
+            "x": 320,
+            "y": 240,
+            "w": 640,
+            "h": 480,
+            "attributes": [
+                "โบราณ (ancient)",
+                "สีซีด (faded)",
+                "มีคำอธิบายภาษาไทย (with Thai script)",
+                "เกี่ยวกับเส้นลมปราณ (related to Sen Sib)"
+            ],
+            "relations": {}
+        },
+        "100002": {
+            "name": "รูปคนด้านหน้า (Front figure)",
+            "x": 160,
+            "y": 280,
+            "w": 200,
+            "h": 350,
+            "attributes": [
+                "เส้นร่าง (outline)",
+                "มีโครงกระดูก (with skeleton)",
+                "มีจุดสำคัญ (with key points)"
+            ],
+            "relations": {
+                "100003": {
+                    "name": "อยู่บน (on)",
+                    "object": "100001"
+                }
+            }
+        },
+        "100004": {
+            "name": "รูปคนด้านหลัง (Back figure)",
+            "x": 480,
+            "y": 280,
+            "w": 200,
+            "h": 350,
+            "attributes": [
+                "เส้นร่าง (outline)",
+                "มีโครงกระดูก (with skeleton)",
+                "มีจุดสำคัญ (with key points)"
+            ],
+            "relations": {
+                "100005": {
+                    "name": "อยู่บน (on)",
+                    "object": "100001"
+                }
+            }
+        },
+        "100006": {
+            "name": "อักษรไทยโบราณ (Ancient Thai script)",
+            "x": 320,
+            "y": 240,
+            "w": 100,
+            "h": 300,
+            "attributes": [
+                "เขียนด้วยมือ (handwritten)",
+                "เกี่ยวกับสมุนไพร (related to herbal remedies)",
+                "เกี่ยวกับลมปราณ (related to Sen Sib)"
+            ],
+            "relations": {
+                "100007": {
+                    "name": "ประกอบกับ (accompanies)",
+                    "object": "100002"
+                },
+                "100008": {
+                    "name": "ประกอบกับ (accompanies)",
+                    "object": "100004"
+                }
+            }
+        },
+        "100009": {
+            "name": "ลายไทย (Thai pattern)",
+            "x": 320,
+            "y": 440,
+            "w": 640,
+            "h": 40,
+            "attributes": [
+                "ดอกไม้ (floral)",
+                "สีชมพูและเขียว (pink and green)",
+                "ประดับ (decorative)"
+            ],
+            "relations": {
+                "100010": {
+                    "name": "อยู่ด้านล่าง (below)",
+                    "object": "100001"
+                }
+            }
+        }
+    }
+}

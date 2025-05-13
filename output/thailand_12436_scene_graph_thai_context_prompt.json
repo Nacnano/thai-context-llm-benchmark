@@ -1,0 +1,146 @@
+{
+    "width": 640,
+    "height": 480,
+    "location": "ศาลา (sala - open pavilion/covered area)",
+    "weather": "none",
+    "objects": {
+        "123456": {
+            "name": "เสื่อ (suea - mat)",
+            "x": 400,
+            "y": 300,
+            "w": 200,
+            "h": 150,
+            "attributes": [
+                "สีฟ้า (sii faa - blue)",
+                "ปูพื้น (bpuu pheun - laid on the floor)",
+                "สำหรับนวด (samrap nuat - for massage)"
+            ],
+            "relations": {
+                "123457": {
+                    "name": "วางบน (waang bon - laid on)",
+                    "object": "123458"
+                }
+            }
+        },
+        "123458": {
+            "name": "พื้น (pheun - floor)",
+            "x": 0,
+            "y": 400,
+            "w": 640,
+            "h": 80,
+            "attributes": [
+                "ปูน (bpuun - concrete)",
+                "สีเทา (sii thao - grey)"
+            ],
+            "relations": {}
+        },
+        "123459": {
+            "name": "หมอน (mawn - pillow)",
+            "x": 50,
+            "y": 300,
+            "w": 100,
+            "h": 50,
+            "attributes": [
+                "สีชมพู (sii chomphuu - pink)",
+                "ทรงสี่เหลี่ยมผืนผ้า (song sii liam pheun phaa - rectangular)"
+            ],
+            "relations": {
+                "123460": {
+                    "name": "อยู่บน (yuu bon - on)",
+                    "object": "123456"
+                }
+            }
+        },
+        "123461": {
+            "name": "ผู้หญิง (phuu ying - woman)",
+            "x": 350,
+            "y": 200,
+            "w": 50,
+            "h": 100,
+            "attributes": [
+                "ใส่เสื้อสีชมพู (sai suea sii chomphuu - wearing a pink shirt)",
+                "กำลังนวด (gamlang nuat - massaging)",
+                "ผมมวย (phom muai - hair in a bun)"
+            ],
+            "relations": {
+                "123462": {
+                    "name": "นวดให้ (nuat hai - massaging)",
+                    "object": "123463"
+                }
+            }
+        },
+        "123463": {
+            "name": "ผู้หญิง (phuu ying - woman)",
+            "x": 350,
+            "y": 270,
+            "w": 50,
+            "h": 100,
+            "attributes": [
+                "นั่งขัดสมาธิ (nang khat samat - sitting cross-legged)",
+                "ใส่เสื้อสีชมพู (sai suea sii chomphuu - wearing a pink shirt)"
+            ],
+            "relations": {
+                "123464": {
+                    "name": "นั่งบน (nang bon - sitting on)",
+                    "object": "123456"
+                }
+            }
+        },
+        "123465": {
+            "name": "ผ้าถุง (phaa thung - sarong)",
+            "x": 150,
+            "y": 300,
+            "w": 50,
+            "h": 70,
+            "attributes": [
+                "ลายไทย (laai thai - Thai pattern)",
+                "สีน้ำตาล (sii nam taan - brown)"
+            ],
+            "relations": {}
+        },
+        "123466": {
+            "name": "เก้าอี้ (kao ee - chair)",
+            "x": 530,
+            "y": 150,
+            "w": 50,
+            "h": 150,
+            "attributes": [
+                "สีฟ้า (sii faa - blue)",
+                "พลาสติก (phlastik - plastic)",
+                "วางซ้อนกัน (waang sawn gan - stacked)"
+            ],
+            "relations": {}
+        },
+        "123467": {
+            "name": "เสา (sao - pillar)",
+            "x": 300,
+            "y": 50,
+            "w": 20,
+            "h": 300,
+            "attributes": [
+                "ปูน (bpuun - concrete)",
+                "สีขาว (sii khao - white)",
+                "รับน้ำหนักหลังคา (rap namnak langkhaa - supporting the roof)"
+            ],
+            "relations": {}
+        },
+        "123468": {
+            "name": "ผ้าคลุม (phaa khlum - cloth covering)",
+            "x": 250,
+            "y": 50,
+            "w": 100,
+            "h": 100,
+            "attributes": [
+                "ลายไทย (laai thai - Thai pattern)",
+                "สีน้ำเงิน (sii nam ngoen - blue)",
+                "ประดับ (pradap - decorated)"
+            ],
+            "relations": {
+                "123469": {
+                    "name": "ห้อยจาก (hoi jaak - hanging from)",
+                    "object": "123467"
+                }
+            }
+        }
+    }
+}

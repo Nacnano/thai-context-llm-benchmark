@@ -1,0 +1,160 @@
+{
+    "width": 1920,
+    "height": 1280,
+    "location": "Workshop for Thai arts and crafts (โรงงานศิลปะหัตถกรรมไทย)",
+    "weather": "Indoor lighting (แสงไฟภายใน)",
+    "objects": {
+        "123456": {
+            "name": "Headpiece for Khon performance (ศิราภรณ์สำหรับโขน)",
+            "x": 150,
+            "y": 200,
+            "w": 600,
+            "h": 600,
+            "attributes": [
+                "Gold (สีทอง)",
+                "Intricate design (ลวดลายละเอียด)",
+                "Traditional Thai (แบบไทยดั้งเดิม)"
+            ],
+            "relations": {
+                "123457": {
+                    "name": "being painted on (กำลังถูกทาสี)",
+                    "object": "123459"
+                },
+                "123458": {
+                    "name": "decorated with (ประดับด้วย)",
+                    "object": "123460"
+                }
+            }
+        },
+        "123459": {
+            "name": "White base for headpiece (ฐานสีขาวสำหรับศิราภรณ์)",
+            "x": 400,
+            "y": 500,
+            "w": 400,
+            "h": 600,
+            "attributes": [
+                "White (สีขาว)",
+                "Smooth (เรียบ)",
+                "Partially covered (ถูกปิดบังบางส่วน)"
+            ],
+            "relations": {
+                "123456": {
+                    "name": "supports (รองรับ)",
+                    "object": "123456"
+                }
+            }
+        },
+        "123460": {
+            "name": "Golden ornaments (เครื่องประดับทอง)",
+            "x": 200,
+            "y": 250,
+            "w": 500,
+            "h": 300,
+            "attributes": [
+                "Golden (สีทอง)",
+                "Delicate (ละเอียดอ่อน)",
+                "Elaborate (ประณีต)"
+            ],
+            "relations": {
+                "123456": {
+                    "name": "attached to (ติดอยู่กับ)",
+                    "object": "123456"
+                }
+            }
+        },
+        "123461": {
+            "name": "Paintbrush (พู่กัน)",
+            "x": 650,
+            "y": 350,
+            "w": 50,
+            "h": 200,
+            "attributes": [
+                "Thin (บาง)",
+                "Wooden handle (ด้ามไม้)",
+                "Covered in paint (เปื้อนสี)"
+            ],
+            "relations": {
+                "123462": {
+                    "name": "held by (ถือโดย)",
+                    "object": "123462"
+                },
+                "123457": {
+                    "name": "applying to (กำลังทาบน)",
+                    "object": "123456"
+                }
+            }
+        },
+        "123462": {
+            "name": "Artisan's hand (มือช่าง)",
+            "x": 600,
+            "y": 450,
+            "w": 200,
+            "h": 200,
+            "attributes": [
+                "Skilled (ชำนาญ)",
+                "Steady (มั่นคง)",
+                "Applying paint (กำลังทาสี)"
+            ],
+            "relations": {
+                "123461": {
+                    "name": "holding (ถือ)",
+                    "object": "123461"
+                }
+            }
+        },
+        "123463": {
+            "name": "Artisan (ช่างฝีมือ)",
+            "x": 750,
+            "y": 250,
+            "w": 300,
+            "h": 600,
+            "attributes": [
+                "Concentrated (มีสมาธิ)",
+                "Wearing casual clothing (สวมเสื้อผ้าลำลอง)",
+                "Experienced (มีประสบการณ์)"
+            ],
+            "relations": {
+                "123462": {
+                    "name": "owns (เป็นเจ้าของ)",
+                    "object": "123462"
+                }
+            }
+        },
+        "123464": {
+            "name": "Background (พื้นหลัง)",
+            "x": 0,
+            "y": 0,
+            "w": 1920,
+            "h": 1280,
+            "attributes": [
+                "Blurred (เบลอ)",
+                "Workshop environment (บรรยากาศโรงงาน)",
+                "Various items (สิ่งของต่างๆ)"
+            ],
+            "relations": {
+                "123465": {
+                    "name": "contains (ประกอบด้วย)",
+                    "object": "123465"
+                }
+            }
+        },
+        "123465": {
+            "name": "Other artisans working (ช่างฝีมือคนอื่นๆ กำลังทำงาน)",
+            "x": 100,
+            "y": 100,
+            "w": 300,
+            "h": 300,
+            "attributes": [
+                "Blurred (เบลอ)",
+                "In the background (อยู่ด้านหลัง)",
+                "Working on crafts (กำลังทำงานฝีมือ)"
+            ],
+            "relations": {
+                "123464": {
+                    "name": "part of (เป็นส่วนหนึ่งของ)",
+                    "object": "123464"
+                }
+            }
+        }
+    }
+}

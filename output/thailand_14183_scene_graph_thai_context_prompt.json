@@ -1,0 +1,211 @@
+{
+    "width": 640,
+    "height": 480,
+    "location": "ศาลาพิธี (Sala Phithi - Ceremonial Pavilion)",
+    "weather": "แดดจัด (Daed Jad - Sunny)",
+    "objects": {
+        "271881": {
+            "name": "พระบรมฉายาลักษณ์ (Phra Borom Chayaluk - Royal Portrait)",
+            "x": 320,
+            "y": 80,
+            "w": 100,
+            "h": 120,
+            "attributes": [
+                "ทอง (Thong - Golden)",
+                "กรอบรูป (Krop Rup - Framed)"
+            ],
+            "relations": {
+                "32452": {
+                    "name": "เหนือ (Nuea - Above)",
+                    "object": "275312"
+                },
+                "32453": {
+                    "name": "ใน (Nai - Inside)",
+                    "object": "279472"
+                }
+            }
+        },
+        "275312": {
+            "name": "เครื่องทรง (Krueang Song - Regalia)",
+            "x": 400,
+            "y": 300,
+            "w": 100,
+            "h": 150,
+            "attributes": [
+                "สีสันสดใส (See San Sot Sai - Colorful)",
+                "ประดับลูกปัด (Pradab Look Pad - Beaded)",
+                "ผ้าไหม (Pha Mai - Silk)"
+            ],
+            "relations": {
+                "45678": {
+                    "name": "สวมใส่โดย (Suam Sai Doi - Worn by)",
+                    "object": "283910"
+                }
+            }
+        },
+        "279472": {
+            "name": "นักแสดง (Nak Sadaeng - Performers)",
+            "x": 200,
+            "y": 400,
+            "w": 400,
+            "h": 100,
+            "attributes": [
+                "นั่ง (Nang - Sitting)",
+                "แต่งกายพื้นเมือง (Taeng Kai Phuen Mueang - Folk Costume)"
+            ],
+            "relations": {
+                "56789": {
+                    "name": "บน (Bon - On)",
+                    "object": "287654"
+                }
+            }
+        },
+        "283910": {
+            "name": "หมอผี (Mor Phee - Spirit Doctor/Shaman)",
+            "x": 450,
+            "y": 250,
+            "w": 100,
+            "h": 150,
+            "attributes": [
+                "สูงอายุ (Soong Ayu - Elderly)",
+                "ถือไม้ (Thue Mai - Holding Staff)"
+            ],
+            "relations": {
+                "67890": {
+                    "name": "อยู่ใกล้ (Yu Klai - Near)",
+                    "object": "291543"
+                }
+            }
+        },
+        "287654": {
+            "name": "เสื่อ (Suea - Mat)",
+            "x": 100,
+            "y": 450,
+            "w": 500,
+            "h": 50,
+            "attributes": [
+                "สาน (San - Woven)",
+                "ลวดลายไทย (Lueat Lai Thai - Thai Pattern)"
+            ],
+            "relations": {
+                "78901": {
+                    "name": "ปูบน (Poo Bon - Laid on)",
+                    "object": "295432"
+                }
+            }
+        },
+        "291543": {
+            "name": "เครื่องดนตรี (Krueang Dontree - Musical Instruments)",
+            "x": 150,
+            "y": 350,
+            "w": 200,
+            "h": 100,
+            "attributes": [
+                "พื้นเมือง (Phuen Mueang - Folk)",
+                "กลอง (Klong - Drums)"
+            ],
+            "relations": {
+                "89012": {
+                    "name": "ใช้ใน (Chai Nai - Used in)",
+                    "object": "299321"
+                }
+            }
+        },
+        "295432": {
+            "name": "พื้น (Phuen - Ground)",
+            "x": 0,
+            "y": 470,
+            "w": 640,
+            "h": 10,
+            "attributes": [
+                "ดิน (Din - Earth)",
+                "แข็ง (Khaeng - Hard)"
+            ],
+            "relations": {
+                "90123": {
+                    "name": "รองรับ (Rong Rap - Supporting)",
+                    "object": "303210"
+                }
+            }
+        },
+        "299321": {
+            "name": "พิธีกรรม (Phithi Kam - Ceremony)",
+            "x": 250,
+            "y": 200,
+            "w": 300,
+            "h": 300,
+            "attributes": [
+                "ทางศาสนา (Thang Sasana - Religious)",
+                "สืบสาน (Sueb San - Traditional)"
+            ],
+            "relations": {
+                "01234": {
+                    "name": "จัดขึ้นที่ (Jat Khuen Thee - Held at)",
+                    "object": "307109"
+                }
+            }
+        },
+        "303210": {
+            "name": "ผู้คน (Phu Khon - People)",
+            "x": 50,
+            "y": 150,
+            "w": 600,
+            "h": 300,
+            "attributes": [
+                "หลากหลาย (Lueak Lai - Diverse)",
+                "ชมพิธี (Chom Phithi - Watching Ceremony)"
+            ],
+            "relations": {
+                "12345": {
+                    "name": "รอบๆ (Rop Rop - Around)",
+                    "object": "311008"
+                }
+            }
+        },
+        "307109": {
+            "name": "ศาลา (Sala - Pavilion)",
+            "x": 0,
+            "y": 0,
+            "w": 640,
+            "h": 200,
+            "attributes": [
+                "มุงหลังคา (Moong Langkha - Thatched Roof)",
+                "ไม้ไผ่ (Mai Phai - Bamboo)"
+            ],
+            "relations": {
+                "23456": {
+                    "name": "มี (Mee - Has)",
+                    "object": "314907"
+                }
+            }
+        },
+        "311008": {
+            "name": "พื้นที่ (Phuentee - Area)",
+            "x": 0,
+            "y": 0,
+            "w": 640,
+            "h": 480,
+            "attributes": [
+                "เปิดโล่ง (Pert Long - Open)",
+                "ชนบท (Chonnabot - Rural)"
+            ],
+            "relations": {
+                "34567": {
+                    "name": "ใน (Nai - In)",
+                    "object": "271881"
+                }
+            }
+        },
+        "314907": {
+            "name": "เครื่องบูชา (Krueang Bucha - Offerings)",
+            "x": 100,
+            "y": 100,
+            "w": 500,
+            "h": 100,
+            "attributes": [
+                "พวงมาลัย (Phuang Malai - Garlands)",
+                "ผ้าขาว (Pha Khao - White Cloth)"
+            ]
+        }
+    }
+}

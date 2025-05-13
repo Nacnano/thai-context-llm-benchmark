@@ -1,0 +1,102 @@
+[
+    {
+        "question": "นักแสดงกำลังทำอะไร (Nak sadaeng gamlang tham arai - What is the performer doing?)",
+        "shortAnswer": "กำลังร่ายรำ (Gamlang Rai Ram - Performing Dance)",
+        "fullAnswer": "นักแสดงกำลังร่ายรำ (Nak Sadaeng gamlang rai ram - The performer is performing dance)."
+    },
+    {
+        "question": "ศิราภรณ์มีสีอะไร (Siraporn mee see arai - What color is the headdress?)",
+        "shortAnswer": "สีทอง (See Thong - Golden)",
+        "fullAnswer": "ศิราภรณ์มีสีทอง (Siraporn mee see thong - The headdress is golden)."
+    },
+    {
+        "question": "เครื่องแต่งกายของนักแสดงมีลักษณะอย่างไร (Kruang taeng kai khong nak sadaeng mee laksana yaang rai - What is the characteristic of the performer's costume?)",
+        "shortAnswer": "สีสันสดใส (See San Sot Sai - Colorful)",
+        "fullAnswer": "เครื่องแต่งกายของนักแสดงมีสีสันสดใส (Kruang taeng kai khong nak sadaeng mee see san sot sai - The performer's costume is colorful)."
+    },
+    {
+        "question": "เล็บปลอมมีสีอะไร (Lep plom mee see arai - What color are the fake nails?)",
+        "shortAnswer": "สีเงิน (See Ngen - Silver)",
+        "fullAnswer": "เล็บปลอมมีสีเงิน (Lep plom mee see ngen - The fake nails are silver)."
+    },
+    {
+        "question": "มีกำไลกี่วง (Mee kamlai gee wong - How many bracelets are there?)",
+        "shortAnswer": "หลายวง (Lai Wong - Multiple)",
+        "fullAnswer": "มีกำไลหลายวง (Mee kamlai lai wong - There are multiple bracelets)."
+    },
+    {
+        "question": "แสงไฟมีสีอะไร (Saeng fai mee see arai - What color is the light?)",
+        "shortAnswer": "สีฟ้า (See Fa - Blue)",
+        "fullAnswer": "แสงไฟมีสีฟ้า (Saeng fai mee see fa - The light is blue)."
+    },
+    {
+        "question": "นักแสดงสวมอะไรบนศีรษะ (Nak sadaeng suam arai bon see sa - What is the performer wearing on their head?)",
+        "shortAnswer": "ศิราภรณ์ (Siraporn - Headdress)",
+        "fullAnswer": "นักแสดงสวมศิราภรณ์บนศีรษะ (Nak sadaeng suam siraporn bon see sa - The performer is wearing a headdress on their head)."
+    },
+    {
+        "question": "เครื่องแต่งกายประดับด้วยอะไร (Kruang taeng kai pradap duai arai - What is the costume decorated with?)",
+        "shortAnswer": "ลูกปัด (Look Pat - Beads)",
+        "fullAnswer": "เครื่องแต่งกายประดับด้วยลูกปัด (Kruang taeng kai pradap duai look pat - The costume is decorated with beads)."
+    },
+    {
+        "question": "เล็บปลอมประดับด้วยอะไร (Lep plom pradap duai arai - What are the fake nails decorated with?)",
+        "shortAnswer": "ลูกปัด (Look Pat - Beads)",
+        "fullAnswer": "เล็บปลอมประดับด้วยลูกปัด (Lep plom pradap duai look pat - The fake nails are decorated with beads)."
+    },
+    {
+        "question": "นักแสดงมีอายุเท่าไหร่ (Nak sadaeng mee ayu thao rai - How old is the performer?)",
+        "shortAnswer": "สูงวัย (Soong Wai - Elderly)",
+        "fullAnswer": "นักแสดงสูงวัย (Nak sadaeng soong wai - The performer is elderly)."
+    },
+    {
+        "question": "อะไรส่องนักแสดง (Arai song nak sadaeng - What is shining on the performer?)",
+        "shortAnswer": "แสงไฟ (Saeng Fai - Light)",
+        "fullAnswer": "แสงไฟส่องนักแสดง (Saeng fai song nak sadaeng - The light is shining on the performer)."
+    },
+    {
+        "question": "นักแสดงสวมชุดอะไร (Nak sadaeng suam chut arai - What kind of costume is the performer wearing?)",
+        "shortAnswer": "ชุดไทย (Chut Thai - Thai costume)",
+        "fullAnswer": "นักแสดงสวมชุดไทย (Nak sadaeng suam chut thai - The performer is wearing a Thai costume)."
+    },
+    {
+        "question": "ศิราภรณ์ประดับด้วยอะไร (Siraporn pradap duai arai - What is the headdress decorated with?)",
+        "shortAnswer": "อัญมณี (Anyamanee - Gems)",
+        "fullAnswer": "ศิราภรณ์ประดับด้วยอัญมณี (Siraporn pradap duai anyamanee - The headdress is decorated with gems)."
+    },
+    {
+        "question": "เล็บปลอมยาวไหม (Lep plom yao mai - Are the fake nails long?)",
+        "shortAnswer": "ยาว (Yao - Long)",
+        "fullAnswer": "เล็บปลอมยาว (Lep plom yao - The fake nails are long)."
+    },
+    {
+        "question": "กำไลมีสีอะไร (Kamlai mee see arai - What color are the bracelets?)",
+        "shortAnswer": "สีเงิน (See Ngen - Silver)",
+        "fullAnswer": "กำไลมีสีเงิน (Kamlai mee see ngen - The bracelets are silver)."
+    },
+    {
+        "question": "นักแสดงสวมอะไรที่นิ้ว (Nak sadaeng suam arai tee niu - What is the performer wearing on their fingers?)",
+        "shortAnswer": "เล็บปลอม (Lep Plom - Fake Nails)",
+        "fullAnswer": "นักแสดงสวมเล็บปลอมที่นิ้ว (Nak sadaeng suam lep plom tee niu - The performer is wearing fake nails on their fingers)."
+    },
+    {
+        "question": "เครื่องแต่งกายมีระบายไหม (Kruang taeng kai mee rabai mai - Does the costume have frills?)",
+        "shortAnswer": "มี (Mee - Yes)",
+        "fullAnswer": "เครื่องแต่งกายมีระบาย (Kruang taeng kai mee rabai - The costume has frills)."
+    },
+    {
+        "question": "ศิราภรณ์เป็นแบบไหน (Siraporn pen baeb nai - What style is the headdress?)",
+        "shortAnswer": "แบบไทย (Baeb Thai - Thai style)",
+        "fullAnswer": "ศิราภรณ์เป็นแบบไทย (Siraporn pen baeb thai - The headdress is Thai style)."
+    },
+    {
+        "question": "สถานที่คืออะไร (Sathan tee keu arai - What is the location?)",
+        "shortAnswer": "stage",
+        "fullAnswer": "สถานที่คือ stage (Sathan tee keu stage - The location is stage)."
+    },
+    {
+        "question": "สภาพอากาศเป็นอย่างไร (Saphap akat pen yaang rai - What is the weather like?)",
+        "shortAnswer": "none",
+        "fullAnswer": "สภาพอากาศคือ none (Saphap akat keu none - The weather is none)."
+    }
+]

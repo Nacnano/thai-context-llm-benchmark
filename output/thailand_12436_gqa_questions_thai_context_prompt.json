@@ -1,0 +1,102 @@
+[
+    {
+        "question": "พื้นทำจากวัสดุอะไร (pheun tham jaak watsadu arai - What material is the floor made of?)",
+        "shortAnswer": "ปูน (bpuun - concrete)",
+        "fullAnswer": "พื้นทำจากปูน (pheun tham jaak bpuun - The floor is made of concrete)"
+    },
+    {
+        "question": "ผู้หญิงที่กำลังนวดผมเป็นสีอะไร (phuu ying thi gamlang nuat phom bpen sii arai - What color is the hair of the woman who is massaging?)",
+        "shortAnswer": "ไม่ทราบ (mai saap - unknown)",
+        "fullAnswer": "ไม่ทราบสีผมของผู้หญิงที่กำลังนวด (mai saap sii phom khong phuu ying thi gamlang nuat - I don't know the hair color of the woman who is massaging)"
+    },
+    {
+        "question": "เสื่อมีสีอะไร (suea mii sii arai - What color is the mat?)",
+        "shortAnswer": "สีฟ้า (sii faa - blue)",
+        "fullAnswer": "เสื่อมีสีฟ้า (suea mii sii faa - The mat is blue)"
+    },
+    {
+        "question": "หมอนมีรูปทรงอะไร (mawn mii ruup song arai - What shape is the pillow?)",
+        "shortAnswer": "สี่เหลี่ยมผืนผ้า (sii liam pheun phaa - rectangular)",
+        "fullAnswer": "หมอนมีรูปทรงสี่เหลี่ยมผืนผ้า (mawn mii ruup song sii liam pheun phaa - The pillow is rectangular shaped)"
+    },
+    {
+        "question": "ผ้าคลุมมีลายอะไร (phaa khlum mii laai arai - What pattern does the cloth covering have?)",
+        "shortAnswer": "ลายไทย (laai thai - Thai pattern)",
+        "fullAnswer": "ผ้าคลุมมีลายไทย (phaa khlum mii laai thai - The cloth covering has a Thai pattern)"
+    },
+    {
+        "question": "เก้าอี้ทำจากอะไร (kao ee tham jaak arai - What is the chair made of?)",
+        "shortAnswer": "พลาสติก (phlastik - plastic)",
+        "fullAnswer": "เก้าอี้ทำจากพลาสติก (kao ee tham jaak phlastik - The chair is made of plastic)"
+    },
+    {
+        "question": "ผู้หญิงสวมเสื้อสีอะไร (phuu ying suam suea sii arai - What color shirt is the woman wearing?)",
+        "shortAnswer": "สีชมพู (sii chomphuu - pink)",
+        "fullAnswer": "ผู้หญิงสวมเสื้อสีชมพู (phuu ying suam suea sii chomphuu - The woman is wearing a pink shirt)"
+    },
+    {
+        "question": "ผ้าถุงมีสีอะไร (phaa thung mii sii arai - What color is the sarong?)",
+        "shortAnswer": "สีน้ำตาล (sii nam taan - brown)",
+        "fullAnswer": "ผ้าถุงมีสีน้ำตาล (phaa thung mii sii nam taan - The sarong is brown)"
+    },
+    {
+        "question": "เสื่อวางอยู่บนอะไร (suea waang yuu bon arai - What is the mat laid on?)",
+        "shortAnswer": "พื้น (pheun - floor)",
+        "fullAnswer": "เสื่อวางอยู่บนพื้น (suea waang yuu bon pheun - The mat is laid on the floor)"
+    },
+    {
+        "question": "เสามีสีอะไร (sao mii sii arai - What color is the pillar?)",
+        "shortAnswer": "สีขาว (sii khao - white)",
+        "fullAnswer": "เสามีสีขาว (sao mii sii khao - The pillar is white)"
+    },
+    {
+        "question": "เสื่อนี้ใช้ทำอะไร (suea nii chai tham arai - What is this mat used for?)",
+        "shortAnswer": "นวด (nuat - massage)",
+        "fullAnswer": "เสื่อนี้ใช้สำหรับนวด (suea nii chai samrap nuat - This mat is used for massage)"
+    },
+    {
+        "question": "ผู้หญิงกำลังทำอะไร (phuu ying gamlang tham arai - What is the woman doing?)",
+        "shortAnswer": "นวด (nuat - massaging)",
+        "fullAnswer": "ผู้หญิงกำลังนวด (phuu ying gamlang nuat - The woman is massaging)"
+    },
+    {
+        "question": "ผ้าคลุมห้อยอยู่จากอะไร (phaa khlum hoi yuu jaak arai - What is the cloth covering hanging from?)",
+        "shortAnswer": "เสา (sao - pillar)",
+        "fullAnswer": "ผ้าคลุมห้อยอยู่จากเสา (phaa khlum hoi yuu jaak sao - The cloth covering is hanging from the pillar)"
+    },
+    {
+        "question": "ผู้หญิงกำลังนั่งบนอะไร (phuu ying gamlang nang bon arai - What is the woman sitting on?)",
+        "shortAnswer": "เสื่อ (suea - mat)",
+        "fullAnswer": "ผู้หญิงกำลังนั่งบนเสื่อ (phuu ying gamlang nang bon suea - The woman is sitting on the mat)"
+    },
+    {
+        "question": "หมอนอยู่บนอะไร (mawn yuu bon arai - What is the pillow on?)",
+        "shortAnswer": "เสื่อ (suea - mat)",
+        "fullAnswer": "หมอนอยู่บนเสื่อ (mawn yuu bon suea - The pillow is on the mat)"
+    },
+    {
+        "question": "เก้าอี้มีสีอะไร (kao ee mii sii arai - What color is the chair?)",
+        "shortAnswer": "สีฟ้า (sii faa - blue)",
+        "fullAnswer": "เก้าอี้มีสีฟ้า (kao ee mii sii faa - The chair is blue)"
+    },
+    {
+        "question": "สถานที่นี้คืออะไร (sathan thi nii khue arai - What is this place?)",
+        "shortAnswer": "ศาลา (sala - pavilion)",
+        "fullAnswer": "สถานที่นี้คือศาลา (sathan thi nii khue sala - This place is a pavilion)"
+    },
+    {
+        "question": "ลักษณะอากาศเป็นอย่างไร (laksana aakat bpen yaang rai - What is the weather like?)",
+        "shortAnswer": "ไม่มี (mai mii - none)",
+        "fullAnswer": "ไม่ทราบลักษณะอากาศ (mai saap laksana aakat - The weather is unknown)"
+    },
+    {
+        "question": "พื้นมีสีอะไร (pheun mii sii arai - What color is the floor?)",
+        "shortAnswer": "สีเทา (sii thao - grey)",
+        "fullAnswer": "พื้นมีสีเทา (pheun mii sii thao - The floor is grey)"
+    },
+    {
+        "question": "เสาทำหน้าที่อะไร (sao tham naa thi arai - What is the function of the pillar?)",
+        "shortAnswer": "รับน้ำหนักหลังคา (rap namnak langkhaa - support roof)",
+        "fullAnswer": "เสารับน้ำหนักหลังคา (sao rap namnak langkhaa - The pillar supports the roof)"
+    }
+]

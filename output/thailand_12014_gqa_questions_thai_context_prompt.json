@@ -1,0 +1,102 @@
+[
+    {
+        "question": "นักเรียนกำลังทำอะไร (nak rian gam lang tham arai - What are the students doing?)",
+        "shortAnswer": "ฝึกซ้อมนาฏศิลป์ไทย (ฝึกซ้อมนาฏศิลป์ไทย - practicing Thai classical dance)",
+        "fullAnswer": "นักเรียนกำลังฝึกซ้อมนาฏศิลป์ไทย (nak rian gam langฝึกซ้อมนาฏศิลป์ไทย - The students are practicing Thai classical dance)."
+    },
+    {
+        "question": "นักเรียนสวมเสื้อสีอะไร (nak rian suam suea sii arai - What color shirts are the students wearing?)",
+        "shortAnswer": "สีขาว (sii khao - white)",
+        "fullAnswer": "นักเรียนสวมเสื้อสีขาว (nak rian suam suea sii khao - The students are wearing white shirts)."
+    },
+    {
+        "question": "นักเรียนสวมกางเกงแบบไหน (nak rian suam kang keng baep nai - What kind of pants are the students wearing?)",
+        "shortAnswer": "โจงกระเบน (chong kraben)",
+        "fullAnswer": "นักเรียนสวมกางเกงโจงกระเบน (nak rian suam kang keng chong kraben - The students are wearing chong kraben pants)."
+    },
+    {
+        "question": "กางเกงโจงกระเบนของนักเรียนสีอะไร (kang keng chong kraben khong nak rian sii arai - What color are the students' chong kraben pants?)",
+        "shortAnswer": "สีแดง (sii daeng - red)",
+        "fullAnswer": "กางเกงโจงกระเบนของนักเรียนสีแดง (kang keng chong kraben khong nak rian sii daeng - The students' chong kraben pants are red)."
+    },
+    {
+        "question": "พื้นห้องทำจากวัสดุอะไร (pheun hong tham chak watsadu arai - What material is the floor made of?)",
+        "shortAnswer": "ไม้ (mai - wood)",
+        "fullAnswer": "พื้นห้องทำจากไม้ (pheun hong tham chak mai - The floor is made of wood)."
+    },
+    {
+        "question": "เพดานห้องมีลักษณะอย่างไร (phee dan hong mee laksana yang rai - What is the ceiling like?)",
+        "shortAnswer": "ไม้, มีพัดลม (mai, mee phat lom - wooden, has fans)",
+        "fullAnswer": "เพดานห้องเป็นไม้และมีพัดลม (phee dan hong pen mai lae mee phat lom - The ceiling is wooden and has fans)."
+    },
+    {
+        "question": "เสาในห้องทำจากวัสดุอะไร (sao nai hong tham chak watsadu arai - What are the pillars in the room made of?)",
+        "shortAnswer": "ไม้ (mai - wood)",
+        "fullAnswer": "เสาในห้องทำจากไม้ (sao nai hong tham chak mai - The pillars in the room are made of wood)."
+    },
+    {
+        "question": "นาฬิกาในห้องเป็นแบบไหน (nalika nai hong pen baep nai - What kind of clock is in the room?)",
+        "shortAnswer": "แขวนผนัง (khwaen phanang - wall mounted)",
+        "fullAnswer": "นาฬิกาในห้องเป็นแบบแขวนผนัง (nalika nai hong pen baep khwaen phanang - The clock in the room is wall mounted)."
+    },
+    {
+        "question": "มีป้ายอะไรติดอยู่บนผนัง (mee pai arai tit yu bon phanang - What kind of sign is attached to the wall?)",
+        "shortAnswer": "ป้ายทอง (pai thong - golden sign)",
+        "fullAnswer": "มีป้ายทองติดอยู่บนผนัง (mee pai thong tit yu bon phanang - There is a golden sign attached to the wall)."
+    },
+    {
+        "question": "ป้ายบนผนังมีข้อความอะไร (pai bon phanang mee khokhwam arai - What is the text on the wall sign?)",
+        "shortAnswer": "ข้อความภาษาไทย (khokhwam phasa thai - Thai text)",
+        "fullAnswer": "ป้ายบนผนังมีข้อความภาษาไทย (pai bon phanang mee khokhwam phasa thai - The sign on the wall has Thai text)."
+    },
+    {
+        "question": "นักเรียนส่วนใหญ่เป็นเพศอะไร (nak rian suan yai pen phet arai - What is the gender of most of the students?)",
+        "shortAnswer": "หญิง (ying - female)",
+        "fullAnswer": "นักเรียนส่วนใหญ่เป็นเพศหญิง (nak rian suan yai pen phet ying - Most of the students are female)."
+    },
+    {
+        "question": "นักเรียนกี่คนกำลังฝึกซ้อม (nak rian kee khon gam langฝึกซ้อม - How many students are practicing?)",
+        "shortAnswer": "หลายคน (lai khon - many people)",
+        "fullAnswer": "มีนักเรียนหลายคนกำลังฝึกซ้อม (mee nak rian lai khon gam langฝึกซ้อม - There are many students practicing)."
+    },
+    {
+        "question": "พื้นไม้มีสีอะไร (pheun mai mee sii arai - What color is the wooden floor?)",
+        "shortAnswer": "สีน้ำตาล (sii nam tan - brown)",
+        "fullAnswer": "พื้นไม้มีสีน้ำตาล (pheun mai mee sii nam tan - The wooden floor is brown)."
+    },
+    {
+        "question": "เพดานทำมาจากอะไร (phee dan tham ma chak arai - What is the ceiling made of?)",
+        "shortAnswer": "ไม้ (mai - wood)",
+        "fullAnswer": "เพดานทำมาจากไม้ (phee dan tham ma chak mai - The ceiling is made of wood)."
+    },
+    {
+        "question": "มีพัดลมบนเพดานหรือไม่ (mee phat lom bon phee dan rue mai - Are there fans on the ceiling?)",
+        "shortAnswer": "มี (mee - yes)",
+        "fullAnswer": "มีพัดลมบนเพดาน (mee phat lom bon phee dan - There are fans on the ceiling)."
+    },
+    {
+        "question": "เสามีสีอะไร (sao mee sii arai - What color are the pillars?)",
+        "shortAnswer": "สีแดง (sii daeng - red)",
+        "fullAnswer": "เสามีสีแดง (sao mee sii daeng - The pillars are red)."
+    },
+    {
+        "question": "นาฬิกาบนผนังเป็นรูปทรงอะไร (nalika bon phanang pen roop song arai - What shape is the clock on the wall?)",
+        "shortAnswer": "กลม (glom - round)",
+        "fullAnswer": "นาฬิกาบนผนังเป็นรูปทรงกลม (nalika bon phanang pen roop song glom - The clock on the wall is round)."
+    },
+    {
+        "question": "ป้ายทองอยู่บนอะไร (pai thong yu bon arai - What is the golden sign on?)",
+        "shortAnswer": "ผนังไม้ (phanang mai - wooden wall)",
+        "fullAnswer": "ป้ายทองอยู่บนผนังไม้ (pai thong yu bon phanang mai - The golden sign is on the wooden wall)."
+    },
+    {
+        "question": "นักเรียนกำลังฝึกซ้อมที่ไหน (nak rian gam langฝึกซ้อม thee nai - Where are the students practicing?)",
+        "shortAnswer": "sala ไม้ (ศาลาไม้ - wooden pavilion/hall)",
+        "fullAnswer": "นักเรียนกำลังฝึกซ้อมใน sala ไม้ (nak rian gam langฝึกซ้อม nai sala ไม้ - The students are practicing in a wooden pavilion/hall)."
+    },
+    {
+        "question": "ลักษณะโดยรวมของห้องคืออะไร (laksana doi ruam khong hong khue arai - What is the overall style of the room?)",
+        "shortAnswer": "แบบไทย (baep thai - Thai style)",
+        "fullAnswer": "ลักษณะโดยรวมของห้องเป็นแบบไทย (laksana doi ruam khong hong pen baep thai - The overall style of the room is Thai style)."
+    }
+]

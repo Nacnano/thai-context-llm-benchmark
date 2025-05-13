@@ -1,0 +1,127 @@
+{
+    "width": 640,
+    "height": 480,
+    "location": "เวทีการแสดง (Stage)",
+    "weather": "ไม่มี (None)",
+    "objects": {
+        "123456": {
+            "name": "นักดนตรี (Musician)",
+            "x": 100,
+            "y": 350,
+            "w": 100,
+            "h": 150,
+            "attributes": [
+                "ชาย (Male)",
+                "เสื้อเหลือง (Yellow shirt)",
+                "ผ้าขาวม้า (Pha Khao Ma (Thai Loincloth))"
+            ],
+            "relations": {
+                "123457": {
+                    "name": "กำลังเล่น (playing)",
+                    "object": "234567"
+                },
+                "123458": {
+                    "name": "นั่งบน (sitting on)",
+                    "object": "345678"
+                }
+            }
+        },
+        "234567": {
+            "name": "ปี่ (Pi (Thai flute))",
+            "x": 150,
+            "y": 300,
+            "w": 50,
+            "h": 50,
+            "attributes": [
+                "ไม้ (Wooden)",
+                "สีน้ำตาล (Brown)"
+            ],
+            "relations": {}
+        },
+        "345678": {
+            "name": "พื้นเวที (Stage floor)",
+            "x": 0,
+            "y": 400,
+            "w": 640,
+            "h": 80,
+            "attributes": [
+                "สีดำ (Black)",
+                "มันวาว (Shiny)"
+            ],
+            "relations": {}
+        },
+        "456789": {
+            "name": "นักแสดง (Dancer)",
+            "x": 50,
+            "y": 150,
+            "w": 100,
+            "h": 200,
+            "attributes": [
+                "หญิง (Female)",
+                "ชุดไทย (Thai Costume)",
+                "เครื่องประดับศีรษะ (Headdress)"
+            ],
+            "relations": {}
+        },
+        "567890": {
+            "name": "ระนาดเอก (Ranat Ek)",
+            "x": 250,
+            "y": 380,
+            "w": 80,
+            "h": 50,
+            "attributes": [
+                "ไม้ (Wooden)",
+                "สีน้ำตาล (Brown)"
+            ],
+            "relations": {}
+        },
+        "678901": {
+            "name": "กลอง (Drum)",
+            "x": 380,
+            "y": 350,
+            "w": 70,
+            "h": 80,
+            "attributes": [
+                "ไม้ (Wooden)",
+                "หนัง (Leather)"
+            ],
+            "relations": {}
+        },
+        "789012": {
+            "name": "ฉากหลัง (Background)",
+            "x": 0,
+            "y": 0,
+            "w": 640,
+            "h": 300,
+            "attributes": [
+                "สีดำ (Black)",
+                "มืด (Dark)"
+            ],
+            "relations": {}
+        },
+        "890123": {
+            "name": "เครื่องดนตรี (Musical instrument)",
+            "x": 500,
+            "y": 380,
+            "w": 80,
+            "h": 50,
+            "attributes": [
+                "ไม้ (Wooden)"
+            ],
+            "relations": {}
+        },
+        "901234": {
+            "name": "นักแสดง (Dancer)",
+            "x": 500,
+            "y": 150,
+            "w": 100,
+            "h": 200,
+            "attributes": [
+                "หญิง (Female)",
+                "ชุดไทย (Thai Costume)",
+                "เครื่องประดับศีรษะ (Headdress)"
+            ],
+            "relations": {}
+        }
+    }
+}
