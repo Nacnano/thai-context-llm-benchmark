@@ -95,8 +95,10 @@
   - DONE:
     - Presentation
   - TODO:
-    - Write a detail documentaion for everything (code/prompt/steps for running the pipeline)
+    - Write a detailed documentaion for everything (code/prompt/steps for running the pipeline)
     - List what to do next (any ideas) and (probably) will talk to Aj. next
+
+Capstone?
 
 Present after final exam (online/onsite)
 
