@@ -12,6 +12,11 @@
 
 - Assoc. Ekapol Chuangsuwanich
 
+### Reports
+
+- [Semester 1 report]()
+- [Semester 2 report](https://docs.google.com/document/d/1orgQmQnmjxz6QXle6dZQsBUTEgMlME6XUlAAQIvALYE/edit?tab=t.0)
+
 ### Updates
 
 #### Year 3 semester 1
