@@ -14,7 +14,7 @@
 
 ### Reports
 
-- [Semester 1 report]()
+- [Semester 1 report](https://docs.google.com/document/d/13lc5IbdQh5jjwDDPc_1fTkfclUWYRmRs9VRCPYoRFsc/edit?usp=sharing)
 - [Semester 2 report](https://docs.google.com/document/d/1orgQmQnmjxz6QXle6dZQsBUTEgMlME6XUlAAQIvALYE/edit?tab=t.0)
 
 ### Updates
