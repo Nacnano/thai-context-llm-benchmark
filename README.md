@@ -45,7 +45,7 @@
 
 - 21/2/2025:
 
-  - Done: Read visual genome paper, designed framework for image annotation using tools (VIA, Bounding Box, etc.), combined the annotations (object, attribute, realtionship, region, QA pair, canonicalization)
+  - Done: Read visual genome paper, designed framework for image annotation using tools (VIA, Bounding Box, etc.), combined the annotations (object, attribute, relationship, region, QA pair, canonicalization)
   - TODO: Try generating relationships between objects using LLMs (just to test how good it is)
 
 - 14/3/2025:
