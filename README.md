@@ -141,3 +141,9 @@ Generate a detailed image scene graph of this image using the Thai language base
        }
    }
 ```
+
+- Image Scene Graph generation (continue): Add more detail
+
+```
+Please be more detailed and focus more on Thai contexts
+```
