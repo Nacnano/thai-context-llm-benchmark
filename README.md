@@ -10,16 +10,6 @@
 
 - Assoc. Ekapol Chuangsuwanich
 
-### References
-
-- [GQA Paper with codes](https://paperswithcode.com/paper/gqa-a-new-dataset-for-compositional-question)
-- [SEA-VL Paper](https://arxiv.org/abs/2503.07920)
-- [SEA-VL Dataset](https://huggingface.co/datasets/SEACrowd/sea-vl_crawling)
-- [SEA-VQA Paper](https://aclanthology.org/2024.alvr-1.15/)
-- [SEA-VQA Dataset](https://huggingface.co/datasets/wit543/sea-vqa)
-- [Scene Graph Paper with codes](https://paperswithcode.com/task/scene-graph-generation)
-- [Visual Genome Paper](http://vision.stanford.edu/pdf/visualgenome.pdf)
-
 ### Reports
 
 - [Semester 1 report](https://docs.google.com/document/d/13lc5IbdQh5jjwDDPc_1fTkfclUWYRmRs9VRCPYoRFsc/edit?usp=sharing)
@@ -29,6 +19,20 @@
 
 - [Semester 1 slide](https://docs.google.com/presentation/d/1aU7nGrlz9hOWeAyrhA-63w8jmNGYY1dNA_LiVluOIXI/edit?slide=id.p#slide=id.p)
 - [Semester 2 slide](https://docs.google.com/presentation/d/1DuPEW9B4y5w98aO-l5_72XluL9ZSPWQOkBQifEUbagg/edit?slide=id.p#slide=id.p)
+
+### Data
+
+- [GQA Thai Translation Grading](https://docs.google.com/spreadsheets/d/1MgumlNEqfhVnGu2AKqkwcglCYl5cwGGQbppKEsqPWpY/edit?gid=0#gid=0)
+
+### References
+
+- [GQA Paper with codes](https://paperswithcode.com/paper/gqa-a-new-dataset-for-compositional-question)
+- [SEA-VL Paper](https://arxiv.org/abs/2503.07920)
+- [SEA-VL Dataset](https://huggingface.co/datasets/SEACrowd/sea-vl_crawling)
+- [SEA-VQA Paper](https://aclanthology.org/2024.alvr-1.15/)
+- [SEA-VQA Dataset](https://huggingface.co/datasets/wit543/sea-vqa)
+- [Scene Graph Paper with codes](https://paperswithcode.com/task/scene-graph-generation)
+- [Visual Genome Paper](http://vision.stanford.edu/pdf/visualgenome.pdf)
 
 ### Updates
 
@@ -122,7 +126,7 @@ Present after final exam (online/onsite)
 
 ## Prompts
 
-- Image Scene Graph generation:
+- Image Scene Graph generation with format from [GQA](https://cs.stanford.edu/people/dorarad/gqa/download.html):
 
 ```
 Generate a detailed image scene graph of this image using the Thai language based on this template
