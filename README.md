@@ -1,6 +1,8 @@
-# Individual Study
+# Thai Context LLM Benchmark
 
-## Implementing GQA Question engine for Thai language
+## Implementing GQA Question engine for Thai language using Image Scene Graph
+
+### An individual study for Computer Engineering course at Chulalongkorn University
 
 ### Author
 
