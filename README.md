@@ -17,6 +17,11 @@
 - [Semester 1 report](https://docs.google.com/document/d/13lc5IbdQh5jjwDDPc_1fTkfclUWYRmRs9VRCPYoRFsc/edit?usp=sharing)
 - [Semester 2 report](https://docs.google.com/document/d/1orgQmQnmjxz6QXle6dZQsBUTEgMlME6XUlAAQIvALYE/edit?tab=t.0)
 
+### Slides
+
+- [Semester 1 slide](https://docs.google.com/presentation/d/1aU7nGrlz9hOWeAyrhA-63w8jmNGYY1dNA_LiVluOIXI/edit?slide=id.p#slide=id.p)
+- [Semester 2 slide](https://docs.google.com/presentation/d/1DuPEW9B4y5w98aO-l5_72XluL9ZSPWQOkBQifEUbagg/edit?slide=id.p#slide=id.p)
+
 ### Updates
 
 #### Year 3 semester 1
