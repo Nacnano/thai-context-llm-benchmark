@@ -17,6 +17,8 @@
 - [SEA-VL Dataset](https://huggingface.co/datasets/SEACrowd/sea-vl_crawling)
 - [SEA-VQA Paper](https://aclanthology.org/2024.alvr-1.15/)
 - [SEA-VQA Dataset](https://huggingface.co/datasets/wit543/sea-vqa)
+- [Scene Graph Paper with codes](https://paperswithcode.com/task/scene-graph-generation)
+- [Visual Genome Paper](http://vision.stanford.edu/pdf/visualgenome.pdf)
 
 ### Reports
 
