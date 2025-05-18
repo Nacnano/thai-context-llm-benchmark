@@ -2,15 +2,21 @@
 
 ## Implementing GQA Question engine for Thai language
 
-### [Final Presentation Slide](https://docs.google.com/presentation/d/1aU7nGrlz9hOWeAyrhA-63w8jmNGYY1dNA_LiVluOIXI/edit#slide=id.g3211a13ede1_0_171)
+### Author
 
-### References
-
-- https://paperswithcode.com/paper/gqa-a-new-dataset-for-compositional-question
+- Chotpisit Adunsehawat
 
 ### Advisor
 
 - Assoc. Ekapol Chuangsuwanich
+
+### References
+
+- [GQA Paper with codes](https://paperswithcode.com/paper/gqa-a-new-dataset-for-compositional-question)
+- [SEA-VL Paper](https://arxiv.org/abs/2503.07920)
+- [SEA-VL Dataset](https://huggingface.co/datasets/SEACrowd/sea-vl_crawling)
+- [SEA-VQA Paper](https://aclanthology.org/2024.alvr-1.15/)
+- [SEA-VQA Dataset](https://huggingface.co/datasets/wit543/sea-vqa)
 
 ### Reports
 
